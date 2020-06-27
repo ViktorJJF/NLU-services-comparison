@@ -1,0 +1,9 @@
+{
+  "id": "942144d7-9364-45bf-8642-fc4165788172",
+  "name": "hour",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

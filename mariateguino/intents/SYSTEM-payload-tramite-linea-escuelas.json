@@ -1,0 +1,40 @@
+{
+  "id": "ba668bad-1634-4960-887f-ff8143ef8eb9",
+  "name": "SYSTEM-payload-tramite-linea-escuelas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "SYSTEM-payload-tramite-linea-escuelas-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Este trámite va dirigido a tu Escuela ☝ ¿De qué escuela eres? (Por ejemplo: Contabilidad)",
+            "bien, este trámite va para tu escuela, dime  ¿de qué escuela eres?  (Por ejemplo: Derecho)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

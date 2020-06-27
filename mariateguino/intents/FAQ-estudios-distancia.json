@@ -1,0 +1,35 @@
+{
+  "id": "319cb386-3cf7-46e2-b860-d7348c48712e",
+  "name": "FAQ-estudios-distancia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "en la UJCM Filial Tacna no contamos con carreras a distancia 😥",
+            "no tenemos carreras a distancia 😥",
+            "me contaron según ley ya no se puede estudiar a distancia 😥"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

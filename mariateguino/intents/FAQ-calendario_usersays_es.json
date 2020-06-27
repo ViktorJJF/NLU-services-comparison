@@ -1,0 +1,127 @@
+[
+  {
+    "id": "34c97b1b-163f-4f79-8115-0bda93729b3d",
+    "data": [
+      {
+        "text": "Plazo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "642279e6-8460-49b7-b461-031f46202469",
+    "data": [
+      {
+        "text": "PUEDO SOLICITAR AUN AMPLIACION DE CREDITOS?? O YA PASO LA FECHA PARA ELLO??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfe4f1e8-10c4-4344-bb16-c60d9324b397",
+    "data": [
+      {
+        "text": "hasta que fecha puedo hacer este tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dca7b0db-9cda-4953-aa32-8af2e0314235",
+    "data": [
+      {
+        "text": "hasta cuando puedo hacer mi tramite de ",
+        "userDefined": false
+      },
+      {
+        "text": "ampliacion de creditos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60c97d5c-74d3-44b2-8725-b51608879572",
+    "data": [
+      {
+        "text": "hasta cuando puedo tramitar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33a19d39-d6d3-44f3-9a63-a19b71180b2b",
+    "data": [
+      {
+        "text": "fechas de tramites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e697cda-90c7-4261-8bcc-2c121a7d2d2a",
+    "data": [
+      {
+        "text": "fechas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b8c9897-be9a-4be5-b283-6d37a44a4200",
+    "data": [
+      {
+        "text": "calendario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9fc0b19-33e9-4f20-ab5f-3ca1b9c7544c",
+    "data": [
+      {
+        "text": "cual es el calendario de procedimientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a94e0a38-7e9f-4107-8033-13137605fc6c",
+    "data": [
+      {
+        "text": "hasta cuando puedo hacer mis tramites?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

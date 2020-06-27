@@ -1,0 +1,49 @@
+{
+  "id": "89d37d95-81d1-4e0b-9a9d-0aae4adbabeb",
+  "name": "tramites-pregrado-seguimiento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "Para hacer seguimiento a tu trámite haz click en \u0027Estado Trámites\u0027 y verifica tu estado con tu número de expediente 😎  ",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Estado Trámites",
+                      "url": "https://docs.google.com/spreadsheets/d/1rNNiM00CFHVw6fC0Pxy9iS0TykeKDFzh-fAIYlP-1SQ/edit#gid\u003d939877978",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

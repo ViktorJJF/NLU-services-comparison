@@ -1,0 +1,31 @@
+{
+  "id": "f1a77294-5d77-4b53-91cf-1d561fb351d5",
+  "name": "INF-reglamento-grados-titulos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "puedes descargarlo aqui:\nhttps://drive.google.com/open?id\u003d1P-EfyiWPMPkpLAD8HldThh3yhsA5HfSG"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

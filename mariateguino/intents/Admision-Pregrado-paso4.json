@@ -1,0 +1,66 @@
+{
+  "id": "fe586805-4a87-41c4-8b28-301ecac88202",
+  "parentId": "3e32e15e-20e3-40ab-93ff-636611b604dc",
+  "rootParentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision-Pregrado-paso4",
+  "auto": true,
+  "contexts": [
+    "Admision-Pregrado-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Este es el último paso y a estudiar para el examen"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ ¿Recuerdas que armaste tu carpeta en el paso anterior? debes presentarte con eso a la oficina de Admision de la UJCM Filial Tacna 😏\n✅ Se verificarán tus datos de postulación\n✅ Se hará entrega del carné de postulante"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "¿Quieres saber lo que vendrá en el examenes de admisión para Pregrado? Ingresa aquí 😀",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Ver Temario Pregrado",
+                      "url": "https://www.ujcm.edu.pe/sites/default/files/res_1498_2018_cu_ujcm.pdf",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

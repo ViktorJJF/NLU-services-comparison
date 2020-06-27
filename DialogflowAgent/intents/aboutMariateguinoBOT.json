@@ -1,0 +1,35 @@
+{
+  "id": "7f591cb0-4087-4c92-81ac-39f1de70ee7f",
+  "name": "aboutMariateguinoBOT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Soy Viktor UJCM y estoy diseñado para responder tus consultas en los diversos temas. 😁 Mucho gusto",
+            "Soy Viktor UJCM 😛",
+            "Soy un bot llamado Viktor 😀 pero tambien tengo gustos, pasatiempos etc como cualquier persona 😆"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

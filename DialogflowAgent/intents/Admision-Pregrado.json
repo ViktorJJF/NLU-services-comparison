@@ -1,0 +1,104 @@
+{
+  "id": "3e32e15e-20e3-40ab-93ff-636611b604dc",
+  "parentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "rootParentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision-Pregrado",
+  "auto": true,
+  "contexts": [
+    "Admision-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom",
+      "affectedContexts": [
+        {
+          "name": "Admision-Pregrado-followup",
+          "parameters": {},
+          "lifespan": 7
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Perfecto 😃 Estos son los pasos que debes seguir para entrar al proceso de admisión PREGRADO (Recuerda que puede que se cambien algunas cosas para el 2019)"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "list",
+                  "top_element_style": "compact",
+                  "elements": [
+                    {
+                      "title": "Paso 1 : PREINSCRÍBETE",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Ver Paso 1",
+                          "payload": "paso1_pre_payload",
+                          "webview_height_ratio": "compact"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Paso 2 : REALIZA EL PAGO",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Ver Paso 2",
+                          "payload": "paso2_pre_payload",
+                          "webview_height_ratio": "tall"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Paso 3 : ARMA TU CARPETA",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Ver Paso 3",
+                          "payload": "paso3_pre_payload",
+                          "webview_height_ratio": "full"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Paso 4 : INSCRÍBETE EN LA UJCM",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Ver Paso 4",
+                          "payload": "paso4_pre_payload",
+                          "webview_height_ratio": "tall"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

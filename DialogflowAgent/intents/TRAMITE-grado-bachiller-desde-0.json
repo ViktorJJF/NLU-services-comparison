@@ -1,0 +1,43 @@
+{
+  "id": "154e22ee-8462-4990-8802-57e06f1db7b1",
+  "name": "TRAMITE-grado-bachiller-desde-0",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Parece que recién empezaste a tramitar tu grado de bachiller 😀"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "si haces lo que te digo el trámite no tardará tanto 😏 descarga este documento y sigue las instrucciones"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "https://drive.google.com/open?id\u003d1qeznxZAdrm3I3VjV8OWVZXfwnmNYkGes"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

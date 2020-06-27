@@ -1,0 +1,105 @@
+[
+  {
+    "id": "34677866-62fd-47f5-9049-f0ea75bfac22",
+    "data": [
+      {
+        "text": "donde seran las clases para administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c261592b-78ca-4085-af47-444a999d5a54",
+    "data": [
+      {
+        "text": "donde seran las clases para ingenieria comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "191b57f9-38a2-4752-b194-e5e6ff5ca179",
+    "data": [
+      {
+        "text": "Donde son las clases de contabilidad en ",
+        "userDefined": false
+      },
+      {
+        "text": "Tacna",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26b88760-00b8-49ec-8962-d83982351225",
+    "data": [
+      {
+        "text": "donde seran las clases este 2018-II",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad209129-546e-4ee5-893b-5a5f77bac510",
+    "data": [
+      {
+        "text": "donde seran las clases para los de derecho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d492444-0fb0-437a-9e00-93fb6d0bbc41",
+    "data": [
+      {
+        "text": "donde seran las clases para los de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da70b556-dc4c-42a5-a2d8-dddfc7591269",
+    "data": [
+      {
+        "text": "Dónde se van a realizar las clases éste semestre ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " II para los de derecho....?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "8ae322df-bd57-4675-a84d-28dc12e23261",
+  "name": "FAQ-bancos-autorizados",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "puedes hacer tus pagos en los siguientes bancos: \n☑ Interbank\n☑ Caja Arequipa\n☑ Scotiabank\n☑ BCP"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "cuando estés ahí di que eres de la UJCM y vienes a pagar tus cuotas 😶 das tu código universitario"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

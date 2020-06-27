@@ -1,0 +1,154 @@
+[
+  {
+    "id": "d2f16440-8cf1-4a5e-a942-b32dbc845cca",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "saber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en que situacion esta mi tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7d4a1bc-d052-4466-a9f1-486233c789db",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "saber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " como esta mi tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acc66b15-9243-42c9-8044-c83a6472dad7",
+    "data": [
+      {
+        "text": "como va mi tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "900b3adc-0c65-4339-b60a-866503e21cbe",
+    "data": [
+      {
+        "text": "en que situacion esta mi tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbdf9fd2-b8a2-4640-94e0-faf2a13368d1",
+    "data": [
+      {
+        "text": "hola buenas quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "saber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en que situacion esta mi solicitud de constacia de no ",
+        "userDefined": false
+      },
+      {
+        "text": "adeudo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "907dd0b6-aaa9-4c7b-8ca7-734c44c0f22e",
+    "data": [
+      {
+        "text": "ho0loa buenas quiero saber en que situacion esta mi solicitud de constacia de no adeudo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a266ecc-6e7c-4cf3-b3bc-27917e5b7333",
+    "data": [
+      {
+        "text": "como consulto en que estado esta mi tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85cda7fe-ffcb-4b39-b417-495ce6ef8b0c",
+    "data": [
+      {
+        "text": "como va mi tramite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18d0a424-9296-4071-9996-ac58ae26390f",
+    "data": [
+      {
+        "text": "quiero hacer seguimiento a mi tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a24378db-58b6-4e2c-a8c9-567d7874aaa9",
+    "data": [
+      {
+        "text": "seguimiento_tramites_pre_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "64388a6b-0248-4233-8a6a-6ff8de366991",
+  "name": "FAQ-cursos-a-llevar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "todavía no me entrenaron específicamente en los cursos que puedes llevar, pero puedes verificar el horario 😁"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "escribe algo como esto \"Horarios de contabilidad\" 👈"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

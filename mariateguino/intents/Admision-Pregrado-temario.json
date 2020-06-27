@@ -1,0 +1,50 @@
+{
+  "id": "c7d66715-e157-4305-9bba-b54bc609a286",
+  "name": "Admision-Pregrado-temario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "¿Quieres saber lo que vendrá en el examenes de admisión para Pregrado? Ingresa aquí 😀",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Ver Temario Pregrado",
+                      "url": "https://www.ujcm.edu.pe/sites/default/files/res_1498_2018_cu_ujcm.pdf",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

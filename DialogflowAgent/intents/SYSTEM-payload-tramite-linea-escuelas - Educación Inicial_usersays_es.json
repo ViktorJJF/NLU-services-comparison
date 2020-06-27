@@ -1,0 +1,50 @@
+[
+  {
+    "id": "c7ac2f97-955b-40ce-8d4e-991dac35f275",
+    "data": [
+      {
+        "text": "pertenezco a educacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53bbd4e8-d423-4103-b9cd-c9dbb7b4931b",
+    "data": [
+      {
+        "text": "escuela de educacion inicial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb6af28f-e19b-44c4-be7e-368682d2549f",
+    "data": [
+      {
+        "text": "soy de educacion inicial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7273e63d-b853-4e5c-93f2-57533e782f0c",
+    "data": [
+      {
+        "text": "educacion inicial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

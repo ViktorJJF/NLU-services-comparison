@@ -1,0 +1,74 @@
+[
+  {
+    "id": "991118eb-b68d-438c-8bfd-dfb6dd273623",
+    "data": [
+      {
+        "text": "hasta cuantos creditos se puede llevar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9264311c-d91d-4a0c-b923-30e0faecdc46",
+    "data": [
+      {
+        "text": "creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b02baf0-ae65-4052-817b-5af9a49ecbc1",
+    "data": [
+      {
+        "text": "creditos de la escuela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e65262e9-868e-4856-aba2-b4b2264b814b",
+    "data": [
+      {
+        "text": "cantidad maxima de creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b41327d-174a-4a73-8ed1-1e707e7aff26",
+    "data": [
+      {
+        "text": "cuantos creditos puedo llevar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b48ec011-fea3-4e21-8860-a43bf2090a12",
+    "data": [
+      {
+        "text": "cuantos creditos puedo llevar por semestre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

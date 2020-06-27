@@ -1,0 +1,36 @@
+{
+  "id": "f0304267-84df-466c-b538-df444514b95e",
+  "name": "about-SMARTUJCM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "pues eso es máximo secreto jaj",
+            "no puedo decirtelo jejej",
+            "mis algoritmos son información clasificada jaja",
+            "sabes que no puedo decírtelo :P"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

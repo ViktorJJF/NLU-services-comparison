@@ -1,0 +1,80 @@
+[
+  {
+    "id": "da8dee29-375c-4ac6-ae33-39b129a9d4d7",
+    "data": [
+      {
+        "text": "En Que cursos de Administración ",
+        "userDefined": false
+      },
+      {
+        "text": "6to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ciclo debo matricularme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d5236a17-1ab5-4c1c-b65d-c24b1cc314d2",
+    "data": [
+      {
+        "text": "Administracion ",
+        "userDefined": false
+      },
+      {
+        "text": "VI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ciclo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "87b685f1-0098-441a-8b51-027c60e232c7",
+    "data": [
+      {
+        "text": "que cursos puedo llevar en derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b8bc87d-dfb9-4bdc-9e5d-dc25c34bd7e7",
+    "data": [
+      {
+        "text": "que cursos puedo llevar en administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "817095ce-4e51-43bc-a176-8dba6b088805",
+    "data": [
+      {
+        "text": "que cursos puedo llevar en contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "c428402c-935e-4d91-a557-e57df298d5f1",
+  "parentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "rootParentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "name": "FAQ-docentes - psicologia",
+  "auto": true,
+  "contexts": [
+    "FAQ-docentes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ-docentes.FAQ-docentes-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "ups, aún no me informaron sobre el listado de docentes de psicología 😥"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,2442 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "LexTest",
+    "version": 1,
+    "intents": [{
+        "name": "faqbecasdisponibles",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Como hago para acceder a una beca",
+          "becas disponibles",
+          "solicitud de beca",
+          "buenas cuales son los requisitos para solicitar una beca",
+          "saludos quisiera saber cual es el procedimiento para solicitar beca mi persona tiene un promedio de",
+          "requisitos para tramitar una beca",
+          "cuales son los requisitos para solicitar beca",
+          "que necesito para tramitar una beca",
+          "Buenas  cuales son los requisitos para solicitar una beca",
+          "como tramito una beca",
+          "requisitos de becas",
+          "quiero tramitar una beca",
+          "cuales son los requisitos para solicitar una beca",
+          "becas",
+          "que becas tienen"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqferiados",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Hay clases en la Universidad hoy viernes",
+          "Quisiera saber si hoy la atención es normal en las oficinas",
+          "muy buenas tardes  quisiera preguntarle si esque habra clases hoy dia",
+          "hoy hay clases normales",
+          "feriados",
+          "habra clases normales",
+          "Este sábado  las clases será normales"
+        ],
+        "slots": []
+      },
+      {
+        "name": "horarioclaseseduadmicomer",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Cursos de administracion y marketing estratégico vl ciclo",
+          "dime los horarios de ingenieria comercial",
+          "dime los horarios de comercial",
+          "dime los horarios de eduacion",
+          "dime los horarios de administracion",
+          "dime los horarios de clase de educacion inicial",
+          "dime los horarios de clase de educacion fisica",
+          "dime los horarios de clase de ingenieria comercial",
+          "dime los horarios de clase de educacion",
+          "dime los horarios de clase de administracion",
+          "horario de ciencias administrativas",
+          "horario de clases de educacion inicial",
+          "horario de clases de educacion fisica",
+          "horario de clases de educacion",
+          "horario de clases de ingenieria comercial",
+          "horario de clases de administracion",
+          "cual es el horario de administracion",
+          "cual es el horario de ingenieria comercial",
+          "cual es el horario de educacion",
+          "horario de educacion",
+          "horario de ingenieria comercial",
+          "horario de administracion"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionfechasposgrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "cuando es la admision en posgrado",
+          "que dia es el examen de admision de posgrado",
+          "fecha del examen de admision de posgrado",
+          "cuando es el examen de admision de posgrado",
+          "posgradoadmisionfechapayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidadcorreo",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "a que correo puedo escribir",
+          "a que correo puedo pedir informacion",
+          "correos",
+          "gmail",
+          "correo electronico",
+          "cual es el correo de la U"
+        ],
+        "slots": []
+      },
+      {
+        "name": "horarioclasescontabilidad",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "dime los horarios de contabilidad",
+          "dime los horarios de clase de contabilidad",
+          "horario de contabilidad",
+          "horariocontabilidadpayload",
+          "horario de clases de derecho",
+          "cual es el horario de derecho"
+        ],
+        "slots": []
+      },
+      {
+        "name": "tramitegradobachillerdesde",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "quiero tramitar el bachiller desde",
+          "quiero tramitar el bachiller desde cero"
+        ],
+        "slots": []
+      },
+      {
+        "name": "postprocesotesis",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Reglamentos para tesis",
+          "tesis",
+          "informacion del proceso de tesis",
+          "proceso de tesis",
+          "procesotesispayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "horarioclasespsicologia",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "dime los horarios de psicologia",
+          "dime los horarios de clase de psicologia",
+          "horario de clases de psicología",
+          "cual es el horario de psicología",
+          "horario de psicología"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqprotitulo",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "informacion sobre el curso pro titulo",
+          "curso de actualizacion pro titulo",
+          "curso pro titulo",
+          "necesito saber las sobre el curso de pro titulo de la carrera de contabilidad"
+        ],
+        "slots": []
+      },
+      {
+        "name": "tramitespregradomanual",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "manualprocedimientosprepayload",
+          "cual es el manual de procedimientos",
+          "dame el manual de procedimientos",
+          "quiero el manual de procedimientos pregrado"
+        ],
+        "slots": []
+      },
+      {
+        "name": "postindicesformatostesispregrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "indices y formatos de tesis pregrado",
+          "indiceformatopregradopayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidadmatriculas",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Cual ds el plazo para matricula especial",
+          "Buenas tardes cuando empiezas las matriculas o hadta cuando se pueden matricular",
+          "hasta cuando me puiedo matricular",
+          "HASTA CUANDO HAY PLAZO PARA MATRICULARSE BUEN DIA",
+          "buenas noches hasta cuando me puedo matroicualar porfas",
+          "ingresando a la universidad que hago para matricularme",
+          "matriculas",
+          "hasta cuando son las matriculas",
+          "cuando son las matriculas"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqestudiosdistancia",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "como puedo estudiar a distancia",
+          "informacion de carreras a distancia",
+          "estudios a distancia",
+          "tienen carreras a distancia",
+          "se puede estudiar a distancia"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisioncarreras",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "La carrera de educación en computacion",
+          "buenas una consulta es universidad en tacna con cuantas carreras cuenta y cuales son",
+          "carreras",
+          "que carreras tienen",
+          "info de contabilidad",
+          "informacion de contabilidad",
+          "informacion de derecho",
+          "carrerasadmisionpayload",
+          "que carreras tienen disponibles",
+          "que carreras hay para postular",
+          "a que carreras puedo postular"
+        ],
+        "slots": []
+      },
+      {
+        "name": "idirectorio",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "numero de secretaria general",
+          "numero del rectorado",
+          "numero de la facultad de ingenieria",
+          "numero de la escuela de contabilidad",
+          "numero de la escuela de derecho",
+          "numeros telefonicos",
+          "Directorio"
+        ],
+        "slots": []
+      },
+      {
+        "name": "horarioclasesderecho",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Quiero saber si hay horario turno mañana para la carrera de derecho",
+          "dime los horarios de derecho",
+          "dime los horarios de clase de derecho",
+          "horario de derecho",
+          "horarioderechopayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqmodalidadestudios",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Bienos dias me podria brindar informacion  sobre la univercidad si hay a distancia o semiprwcenciasl y la mensualidades ppr favor",
+          "Semipresencial",
+          "tienen modalidad a distancia",
+          "que modalidades de estudios disponibles tienen",
+          "modalidad de estudios",
+          "que modalidades de estudio tienen"
+        ],
+        "slots": []
+      },
+      {
+        "name": "postreglamentogradostitulos",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "reglamento de grados y titulos",
+          "manualgradostitulospayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqlugarclases",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "donde seran las clases para administracion",
+          "donde seran las clases para ingenieria comercial",
+          "Donde son las clases de contabilidad en Tacna",
+          "donde seran las clases este II",
+          "donde seran las clases para los de derecho",
+          "donde seran las clases para los de contabilidad",
+          "Dónde se van a realizar las clases éste semestre  II para los de derecho"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqcreditos",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "hasta cuantos creditos se puede llevar",
+          "creditos",
+          "creditos de la escuela",
+          "cantidad maxima de creditos",
+          "cuantos creditos puedo llevar",
+          "cuantos creditos puedo llevar por semestre"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqpreguntas",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "como",
+          "una consulta",
+          "quiero hacerte una pregunta"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidadhorarioatencion",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Asi tambien indicar su horario de atención gracias",
+          "Buenos días por favor los horarios de atención para ir a recoger el Carnet Muchas gracias",
+          "atienen domingos",
+          "atienen los domingos",
+          "hasta que hora atienden los sabados",
+          "Hasta q hora funciona la caja de la u",
+          "a que hora estan disponibles",
+          "dime los horarios",
+          "dame los horarios de atencion",
+          "schedulepayload",
+          "Dame horarios",
+          "a que hora atienden en la mañana",
+          "a que hora atienden por la tarde",
+          "cual es el horario de atencion de la u",
+          "en que horarios atienden"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregradorequisitos",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "requisitos para postular",
+          "cuales son los requisitos para postular",
+          "los requisitos de admision",
+          "que tramites necesito hacer para postular",
+          "que requisitos necesito para postular al examen ordinario",
+          "que requisitos necesito para postular al examen extraordinario"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidaddirecciones",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "hola que tal donde los puedo ubicar",
+          "Hola ubicación filial tacna",
+          "Una consulta sonde esta ubicado ahora la univercidad",
+          "donde queda exactamente las oficinas de la ujcm filial tacna",
+          "La dirección exacta de la universidad",
+          "Me dio una dirección para más información coronel vidal",
+          "y donde queda kolping",
+          "Dame dirección de la u",
+          "a donde puedo ir",
+          "cuales es su direcciona",
+          "donde estan ubicados",
+          "direcciones"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faquniversidadproformaacademica",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "quien me da la proforma academica",
+          "como consigo la proforma  academica",
+          "donde consigo la proforma academica"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregradorequisitosextraordinario",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "examen de admision extraordinario",
+          "que necesito para el examen de admision extraordinario",
+          "cuales son los requisitos del examen de admision extraordionario",
+          "extraordinariopayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqtesis",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "como hago mi tesis",
+          "quiero hacer mi tesis"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqcursosallevar",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "En Que cursos de Administración to ciclo debo matricularme",
+          "Administracion VI ciclo",
+          "que cursos puedo llevar en derecho",
+          "que cursos puedo llevar en administracion",
+          "que cursos puedo llevar en contabilidad"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqerpnotasmatriculas",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "kiero matricularme",
+          "como me matriculo online",
+          "como me puedo matricular",
+          "como puedo entrar al sistema erp",
+          "como entro al ERP",
+          "como veo mis notas",
+          "link del erp educa",
+          "erp educa",
+          "donde puedo ver mis notas",
+          "BUENOS DIAS POR FAVOR ME PUEDE PASAR EL LINK PARA VISUALIZAR LAS NOTASGRACIAS"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidadintercambios",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "hacen intercambios de estudiantes",
+          "hay intercambios de estudiantes",
+          "hacen intercambios"
+        ],
+        "slots": []
+      },
+      {
+        "name": "despedida",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Hasta pronto",
+          "Muy amable",
+          "Muy Agradecido",
+          "Nos vemos",
+          "Chau",
+          "Okey",
+          "chevere",
+          "Muchas gracias",
+          "Gracias"
+        ],
+        "slots": []
+      },
+      {
+        "name": "aboutmariateguinobothablarconoperador",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "quisiera hablar con un humano",
+          "como hablo con un humano",
+          "como puedo hablar con una persona"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqcalendario",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Plazo",
+          "PUEDO SOLICITAR AUN AMPLIACION DE CREDITOS O YA PASO LA FECHA PARA ELLO",
+          "hasta que fecha puedo hacer este tramite",
+          "hasta cuando puedo hacer mi tramite de ampliacion de creditos",
+          "hasta cuando puedo tramitar",
+          "fechas de tramites",
+          "fechas",
+          "calendario",
+          "cual es el calendario de procedimientos",
+          "hasta cuando puedo hacer mis tramites"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisioncarreraspregrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Buenas quisiera informacion sobre las carreras",
+          "quisiera informacion sobre las carreras",
+          "hay la carrera de educación inicial",
+          "informacion carreras pregrado",
+          "carreras pregrado",
+          "que carreras tienen disponibles esta admision de pregrado",
+          "que carreras tienen disponibles para pregrado",
+          "admisioncarrerapregrado"
+        ],
+        "slots": []
+      },
+      {
+        "name": "aboutmariateguinobot",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "bot",
+          "eres real",
+          "eres un robot",
+          "quien eres",
+          "como te llamas",
+          "Quién eres"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaserviciosacademicos",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "sitramiteservicioacademico"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqdocentes",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Docentes contabilidad",
+          "docentes derecho",
+          "profesores",
+          "docentes",
+          "que profesores hay",
+          "que docentes enseñan este ciclo",
+          "listado de docentes",
+          "que docentes hay"
+        ],
+        "slots": []
+      },
+      {
+        "name": "tramitespregradoseguimiento",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "quiero saber en que situacion esta mi tramite",
+          "quiero saber como esta mi tramite",
+          "como va mi tramite",
+          "en que situacion esta mi tramite",
+          "hola buenas quiero saber en que situacion esta mi solicitud de constacia de no adeudo",
+          "holoa buenas quiero saber en que situacion esta mi solicitud de constacia de no adeudo",
+          "como consulto en que estado esta mi tramite",
+          "quiero hacer seguimiento a mi tramite",
+          "seguimientotramitesprepayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqbancosautorizados",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "donde puedo hacer mis pagos",
+          "bancos para pagar online",
+          "en que bancos puedo pagar"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaeconomia",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "sitramiteeconomia"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpreposgrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "posgrado",
+          "pregrado"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionfechas",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "cuando es la admision",
+          "cuando es la fecha de admision",
+          "fechasadmisionpayload",
+          "cuando es la fecha limite para inscripciones de admision",
+          "hasta cuando puedo inscribirme para admision",
+          "cuando es el examen de admision"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqdoctorados",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "informacion de doctorados",
+          "tienen doctorados",
+          "buenas hay doctorados en tacna q dicte la U"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregradorequisitosordinario",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "y que necesito para dar el examen de admision ordinario",
+          "cuales son los requisitos del examen ordinario",
+          "ordinario",
+          "requisitos del examen de admision ordinario",
+          "ordinariopayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "aboutmariateguinobothabilidades",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "que haces",
+          "cuales son tus habilidades",
+          "para que estas entrenado",
+          "que sabes hacer"
+        ],
+        "slots": []
+      },
+      {
+        "name": "reqtramites",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "TRAMITE CONSTANCIA DE BIBLIOTECA",
+          "Cuales son los requisitos de la beca por promedio ponderado acumulativo",
+          "como tramito mi adecuacion",
+          "soy ex estudiante como hago para reanudar estudios",
+          "como saco mi titulo",
+          "que necesito para la constancia de no adeudo",
+          "solicitud de curso en pararlelo",
+          "sobre los cursos paralelos",
+          "Como realizó retiro de cursos",
+          "quisiera saber los requisitos de certiciado de estudios",
+          "requisitos para hacer la convalidacion",
+          "cuales son los requisitos de la constancia de no adeudo",
+          "Dime cómo tramitar mi record académico",
+          "como hago el tramite de adecuacion",
+          "que requisitos necesito para llevar cursos en otro plan",
+          "requisitos Duplicado de Recib",
+          "cuales son los requisitos del retiro e inclusion de cursos",
+          "Buenas tardes quisiera saber sobre la ampliación de crédito",
+          "como le hago para sacar el bachiller",
+          "Cuáles son los requisitos de la beca por promedio ponderado acumulativo",
+          "quiero tramitar mi amplicrin de cridito",
+          "quiero trmitar la reanudcion de estudios",
+          "como le hago para tramitar adecuacion",
+          "quiero reanudar estudios",
+          "solicito adecuacion",
+          "y como tramito un cambio de nombres",
+          "cuales son los requisitos para el constancia de no adeudo",
+          "necesito solicitar el recórd acacdémico",
+          "ahora si como consigo la beca por dicapacidad",
+          "cuales son los requistos para constancia de no adeudo",
+          "como tramito la constancia de no adeudo",
+          "requisitos para constancia de no adeudo",
+          "quiero tramitar adecuacion",
+          "que necesito para titularme",
+          "que necesito para tramitar la constancia de no adeudo"
+        ],
+        "slots": []
+      },
+      {
+        "name": "opcionespostback",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Ver opciones"
+        ],
+        "slots": []
+      },
+      {
+        "name": "default_welcome_intent",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Buen día",
+          "quisiera informacion",
+          "Informacion por favor",
+          "Que tal",
+          "informacion",
+          "Hola",
+          "Buenas"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "sitramiteescuela"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionfechaspregrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "cuando es el examen de admision extraordinario de pregrado",
+          "cuando es el examen de admision ordinario de pregrado",
+          "cuando es el examen de admision de pregrado",
+          "pregradoadmisionfechapayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqtramitesenlinea",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "como tramito en linea",
+          "donde puedo hacer mis tramites online",
+          "como le hago para tramitar de manera online",
+          "como hago tramites electronicos",
+          "tramite electronico",
+          "tramites en linea",
+          "como hago tramites en linea",
+          "como hago para tramitar",
+          "quiero tramitar",
+          "tramitar",
+          "tramite",
+          "quiero hacer tramites en linea",
+          "como hago para hacer tramites en linea"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidadtelefonos",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Un numero para comunicarme",
+          "Buenas tardes por favor podrian indicar el número de teléfono de la filial Tacna",
+          "por favor podrian indicar el número de teléfono de la filial Tacna",
+          "me posria dar un numero de sucursal en tacna",
+          "telefonos",
+          "hola con que numero puedo contactar con ustedes",
+          "numero de telefono",
+          "numero de celular",
+          "cual es su numero",
+          "cual es su celular",
+          "a donde puedo llamar",
+          "a que numero telefonico puedo llamar"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidadpagomensualidades",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "cuanto se paga por  creditos",
+          "pagar  creditos de contabilidad",
+          "Una consulta cuanto esta la matricula y donde lo puedo pagar",
+          "se puede pagar las pensiones en la oficina de caja en Kolping",
+          "cuales son las mensualidades",
+          "dime los costos de la matricula",
+          "cuanto es el costo",
+          "cuando es el pago mensual",
+          "cuanto se paga mensualmente",
+          "cuanto es la mensualidad"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregradotemario",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "temarioadmisionpregradopayload",
+          "que tengo que estudiar",
+          "que temas vendran",
+          "cual es le temario",
+          "que temas vendran en el examen"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaserviciosbienestar",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "sitramitebienestar"
+        ],
+        "slots": []
+      },
+      {
+        "name": "infuniversidadinicioclases",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "inicio de clases",
+          "que dia empiezan las clases",
+          "cuando empiezan las clases"
+        ],
+        "slots": []
+      },
+      {
+        "name": "reqtramitebachillerautomatico",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "sibachiller"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqpracticaspre",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "como ahgo mis practicas pre profesionales",
+          "que necesito para hacer mis practicas",
+          "quisiera saber como puedo hacer mis practicas"
+        ],
+        "slots": []
+      },
+      {
+        "name": "menuacciones",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Informes",
+          "Me pueden atender o no",
+          "informes por favor",
+          "Buenos dias"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisioncarrerasposgrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "quiero informacion sobre las maestrias en derecho",
+          "Todavía no hay grupo para la segunda espacialidad",
+          "Todavía no hay grupo para la segunda especialidad",
+          "DISCULPE LA SEGUNDA ESPECIALIDAD PARA EDUCACION FISICA",
+          "Buenas noches una consulta quisiera saber si hay alguna maestría por comenzar ahora",
+          "Buenas tardes necesito informe para la maestria en educación",
+          "informacion de las segundas especialidades",
+          "informacion de las maestrias",
+          "informacion de las carreras de posgrado",
+          "carreras de posgrado",
+          "admisioncarreraposgrado"
+        ],
+        "slots": []
+      },
+      {
+        "name": "inftrabajoinvestigacionbachiller",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "y si no presente mi trabajo de investigacion",
+          "como hago el trabajo de investigacion",
+          "trabajo de investigacion",
+          "trabajo de investigacion de bachiller"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineanegativo",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "notramite"
+        ],
+        "slots": []
+      },
+      {
+        "name": "tramitespregradopedirequistos",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "requisitos",
+          "Trámites",
+          "requisitostramitesprepayload",
+          "informacion sobre un tramite",
+          "tramites"
+        ],
+        "slots": []
+      },
+      {
+        "name": "reqtramitebachillertrabajoinvestigacion",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "nobachiller"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqaboutdirectorgeneral",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "quien esta a cargo de la universidad",
+          "quien es el Dr Jimenez",
+          "quien es el director general"
+        ],
+        "slots": []
+      },
+      {
+        "name": "horarioclasesotros",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "mashorariospayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "aboutsmartujcm",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "NO RESPONDES NI ABSUELVES MI CONSULTA VIKTOR",
+          "Viktor",
+          "trabajas con algoritmos",
+          "cuales son tus algoritmos",
+          "que algoritmos te programaron",
+          "algoritmos"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqbachillerautomatico",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "tengo bachiller automatico",
+          "Bachiller automático o presentación de tesis"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admision",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "informacion para postular pls",
+          "como postulo a la ujcm",
+          "Como postular ujcm",
+          "Como postuló Una correo profesional",
+          "Como postulo a una carrera",
+          "Como postuló",
+          "postularadmisionpayload",
+          "informacion de postulacion",
+          "quiero saber sobre la admision",
+          "quisiera postular",
+          "info admison",
+          "como es el proceso de admision",
+          "que necesito para la admision",
+          "admision",
+          "Quisiera saber cuándo es el nuevo examen para postular a la Universidad"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqlicenciamiento",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "licenciamiento"
+        ],
+        "slots": []
+      },
+      {
+        "name": "get_started",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Empezar"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregradorequisitospregrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "admisionrequisitospregrado"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqdocentes_derecho",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "listado de docentes de derecho",
+          "soy de derecho",
+          "escuela de derecho",
+          "derecho"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "pregradopayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_psicologa",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "pertenezco a psicologia",
+          "escuela profesional de psicologia",
+          "psicologia",
+          "escuela de psicologia",
+          "soy de psicologia"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqdocentes_contabilidad",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "soy de contabilidad",
+          "escuela de contabilidad",
+          "listado de docentes de contabilidad",
+          "contabilidad"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionposgrado",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "posgradopayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_derecho",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "pertenezco a derecho",
+          "escuela profesional de derecho"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_contabilidad",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "conta",
+          "soy de conta",
+          "pertenezco a contabilidad"
+        ],
+        "slots": []
+      },
+      {
+        "name": "get_started_no",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "nogetstartedpayload"
+        ],
+        "slots": []
+      },
+      {
+        "name": "get_started_yes",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "adelante",
+          "correcto",
+          "yes",
+          "claro que sí",
+          "yesgetstartedpayload",
+          "buena idea",
+          "de acuerdo",
+          "confirmar",
+          "Aceptar",
+          "por supuesto",
+          "eso mismo"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_ciencias_administrativas_y_ma",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "administracion",
+          "pertenezco a administracion",
+          "ciencias administrativas y marketing estrategico",
+          "Ciencias Administrativas y Marketing Estratégico",
+          "ciencias administrativas",
+          "soy de marketing estrategico",
+          "soy de administracion"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_ingeniera_comercial",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "escuela de ingenieria comercial",
+          "pertenezco a ingenieria comercial",
+          "soy de ingenieria comercial",
+          "soy de comercial",
+          "comercial",
+          "Ingeniería Comercial"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqdocenteseducacomercialadministracion",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "ingenieria comercial",
+          "educacion inial",
+          "educacion",
+          "educacion fisica"
+        ],
+        "slots": []
+      },
+      {
+        "name": "faqdocentes_psicologia",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "listado de docentes de psicologia"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_educacin_inicial",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "pertenezco a educacion",
+          "escuela de educacion inicial",
+          "soy de educacion inicial",
+          "educacion inicial"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_educacin_fsica",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "soy de la escuela de educacion fisica",
+          "pertenezco a educacion fisica",
+          "soy de educacion fisica",
+          "Educación Física"
+        ],
+        "slots": []
+      },
+      {
+        "name": "default_welcome_intent_aceptaterminos",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Aceptar Términos"
+        ],
+        "slots": []
+      },
+      {
+        "name": "systempayloadtramitelineaescuelas_ingeniera_de_sistemas_e_infor",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "escuela de sistemas e informatica",
+          "soy de ingenieria de sistemas e informatica",
+          "soy de ingenieria en informatica y sistemas",
+          "ingenieria de informatica y sistemas",
+          "ingenieria de sistemas e informatica",
+          "ingenieria informatica",
+          "ingenieria de sistemas",
+          "Ingeniería de Sistemas e Informática",
+          "soy de sistemas"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregradopaso",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "Paso",
+          "pasoprepayload",
+          "que necesito para postular"
+        ],
+        "slots": []
+      },
+      {
+        "name": "admisionpregradofecha",
+        "version": "1",
+        "fulfillmentActivity": {
+          "type": "ReturnIntent"
+        },
+        "sampleUtterances": [
+          "fecha de admision",
+          "cuando es el examen",
+          "hasta cuando puedo postular",
+          "cuando es la admision de pregrado",
+          "hasta cuando se puede postular"
+        ],
+        "slots": []
+      }
+    ],
+    "slotTypes": [{
+        "name": "nombres",
+        "description": "nombres",
+        "version": "1",
+        "enumerationValues": [{
+            "value": "antonin",
+            "synonyms": [
+              "Antonin"
+            ]
+          },
+          {
+            "value": "dani",
+            "synonyms": [
+              "Dani"
+            ]
+          },
+          {
+            "value": "dany",
+            "synonyms": [
+              "Dany"
+            ]
+          },
+          {
+            "value": "doni",
+            "synonyms": [
+              "Doni"
+            ]
+          },
+          {
+            "value": "donnie",
+            "synonyms": [
+              "Donnie"
+            ]
+          },
+          {
+            "value": "gianmarco",
+            "synonyms": [
+              "Gianmarco"
+            ]
+          },
+          {
+            "value": "gohan",
+            "synonyms": [
+              "Gohan"
+            ]
+          },
+          {
+            "value": "gojan",
+            "synonyms": [
+              "Gojan"
+            ]
+          },
+          {
+            "value": "jhojan",
+            "synonyms": [
+              "Jhojan"
+            ]
+          },
+          {
+            "value": "joel",
+            "synonyms": [
+              "Joel"
+            ]
+          },
+          {
+            "value": "juan",
+            "synonyms": [
+              "Juan"
+            ]
+          },
+          {
+            "value": "juanito",
+            "synonyms": [
+              "Juanito"
+            ]
+          },
+          {
+            "value": "kilmer",
+            "synonyms": [
+              "Kilmer"
+            ]
+          },
+          {
+            "value": "luis",
+            "synonyms": [
+              "Luis"
+            ]
+          },
+          {
+            "value": "roni",
+            "synonyms": [
+              "Roni"
+            ]
+          },
+          {
+            "value": "slendi",
+            "synonyms": [
+              "Slendi"
+            ]
+          },
+          {
+            "value": "victor",
+            "synonyms": [
+              "Victor"
+            ]
+          },
+          {
+            "value": "condon",
+            "synonyms": [
+              "condon"
+            ]
+          }
+        ],
+        "valueSelectionStrategy": "ORIGINAL_VALUE"
+      },
+      {
+        "name": "mes",
+        "description": "mes",
+        "version": "1",
+        "enumerationValues": [{
+            "value": "abril",
+            "synonyms": [
+              "Abril"
+            ]
+          },
+          {
+            "value": "agosto",
+            "synonyms": [
+              "Agosto"
+            ]
+          },
+          {
+            "value": "diciembre",
+            "synonyms": [
+              "Diciembre"
+            ]
+          },
+          {
+            "value": "enero",
+            "synonyms": [
+              "Enero"
+            ]
+          },
+          {
+            "value": "febrero",
+            "synonyms": [
+              "Febrero"
+            ]
+          },
+          {
+            "value": "julio",
+            "synonyms": [
+              "Julio"
+            ]
+          },
+          {
+            "value": "junio",
+            "synonyms": [
+              "Junio"
+            ]
+          },
+          {
+            "value": "marzo",
+            "synonyms": [
+              "Marzo"
+            ]
+          },
+          {
+            "value": "mayo",
+            "synonyms": [
+              "Mayo"
+            ]
+          },
+          {
+            "value": "noviembre",
+            "synonyms": [
+              "Noviembre"
+            ]
+          },
+          {
+            "value": "octubre",
+            "synonyms": [
+              "Octubre"
+            ]
+          },
+          {
+            "value": "septiembre",
+            "synonyms": [
+              "Septiembre"
+            ]
+          }
+        ],
+        "valueSelectionStrategy": "ORIGINAL_VALUE"
+      },
+      {
+        "name": "dia",
+        "description": "dia",
+        "version": "1",
+        "enumerationValues": [{
+            "value": "domingo",
+            "synonyms": [
+              "Domingo"
+            ]
+          },
+          {
+            "value": "jueves",
+            "synonyms": [
+              "Jueves"
+            ]
+          },
+          {
+            "value": "lunes",
+            "synonyms": [
+              "Lunes"
+            ]
+          },
+          {
+            "value": "martes",
+            "synonyms": [
+              "Martes"
+            ]
+          },
+          {
+            "value": "miercoles",
+            "synonyms": [
+              "Miercoles"
+            ]
+          },
+          {
+            "value": "sabado",
+            "synonyms": [
+              "Sabado"
+            ]
+          },
+          {
+            "value": "viernes",
+            "synonyms": [
+              "Viernes"
+            ]
+          },
+          {
+            "value": "domingos",
+            "synonyms": []
+          },
+          {
+            "value": "sabados",
+            "synonyms": []
+          }
+        ],
+        "valueSelectionStrategy": "ORIGINAL_VALUE"
+      },
+      {
+        "name": "hora",
+        "description": "hora",
+        "version": "1",
+        "enumerationValues": [{
+            "value": "delamaana",
+            "synonyms": [
+              "a la mañana",
+              "am",
+              "de la mañana",
+              "por la mañana"
+            ]
+          },
+          {
+            "value": "delatarde",
+            "synonyms": [
+              "a la tarde",
+              "de la tarde",
+              "pm",
+              "por la tarde"
+            ]
+          }
+        ],
+        "valueSelectionStrategy": "ORIGINAL_VALUE"
+      },
+      {
+        "name": "requisitos",
+        "description": "requisitos",
+        "version": "1",
+        "enumerationValues": [{
+            "value": "admisindeingresoporelcentropreuniversitario",
+            "synonyms": [
+              "ADMISIÓN DE INGRESO POR EL CENTRO PRE UNIVERSITARIO"
+            ]
+          },
+          {
+            "value": "admisinporgradoottuloprofesionaluniversitario",
+            "synonyms": [
+              "ADMISIÓN POR GRADO O TÍTULO PROFESIONAL UNIVERSITARIO"
+            ]
+          },
+          {
+            "value": "admisinporttulodeinstitutodeeducacinsuperiornouniver",
+            "synonyms": [
+              "ADMISIÓN POR TÍTULO DE INSTITUTO DE EDUCACIÓN SUPERIOR NO UNIVER",
+              "admision para titulados de institutos",
+              "admision para titulados de tecnologicos",
+              "admision por institutos",
+              "admision por titulo de instituto de educacion superior no univer"
+            ]
+          },
+          {
+            "value": "adecuacinalnuevoplandeestudios",
+            "synonyms": [
+              "Adecuación al nuevo plan de estudios",
+              "adecuacion",
+              "adecuacion al nuevo plan de estudios"
+            ]
+          },
+          {
+            "value": "admisinparapersonascondiscapacidad",
+            "synonyms": [
+              "Admisión para personas con Discapacidad",
+              "admision para personas con discapacidad"
+            ]
+          },
+          {
+            "value": "admisinporerodopuestodeeducacinsecundaria",
+            "synonyms": [
+              "Admisión por 1er o 2do Puesto de Educación Secundaria"
+            ]
+          },
+          {
+            "value": "admisinporreanudacindeestudios",
+            "synonyms": [
+              "Admisión por Reanudación de Estudios",
+              "admision por reanudacion de estudios"
+            ]
+          },
+          {
+            "value": "admisinportrasladoexterno",
+            "synonyms": [
+              "Admisión por Traslado Externo",
+              "admision por traslado externo"
+            ]
+          },
+          {
+            "value": "admisinportrasladointerno",
+            "synonyms": [
+              "Admisión por Traslado Interno",
+              "adimision por traslado interno"
+            ]
+          },
+          {
+            "value": "admisinporserdeportistacalificado",
+            "synonyms": [
+              "Admisión por ser Deportista Calificado",
+              "admision por deportista calificado",
+              "admision por ser deportista calificado"
+            ]
+          },
+          {
+            "value": "ampliacindecrditos",
+            "synonyms": [
+              "Ampliación de Créditos",
+              "ampliacion de credito",
+              "ampliacion de creditos"
+            ]
+          },
+          {
+            "value": "becaporprecariedadeconmica",
+            "synonyms": [
+              "Beca por Precariedad Económica"
+            ]
+          },
+          {
+            "value": "becaporretirovoluntariodejubilacinofallecimientodeldo",
+            "synonyms": [
+              "Beca por Retiro Voluntario, de Jubilación o Fallecimiento del Do"
+            ]
+          },
+          {
+            "value": "becaporayudantadectedra",
+            "synonyms": [
+              "Beca por ayudantía de cátedra"
+            ]
+          },
+          {
+            "value": "becaporayudantadeinvestigacin",
+            "synonyms": [
+              "Beca por ayudantía de investigación"
+            ]
+          },
+          {
+            "value": "becaporcasosespeciales",
+            "synonyms": [
+              "Beca por discapacidad",
+              "Beca por orfandad"
+            ]
+          },
+          {
+            "value": "becaporhermanosestudiantes",
+            "synonyms": [
+              "Beca por hermanos estudiantes"
+            ]
+          },
+          {
+            "value": "becaporpadreehijoestudiantes",
+            "synonyms": [
+              "Beca por padre e hijo estudiantes"
+            ]
+          },
+          {
+            "value": "becaporpromedioponderadoacumulativo",
+            "synonyms": [
+              "Beca por promedio ponderado acumulativo"
+            ]
+          },
+          {
+            "value": "becaporrepresentaralauniversidadeneventodeportivo",
+            "synonyms": [
+              "Beca por representar a la Universidad en evento deportivo"
+            ]
+          },
+          {
+            "value": "becaporsercnyugesestudiantes",
+            "synonyms": [
+              "Beca por ser Cónyuges estudiantes"
+            ]
+          },
+          {
+            "value": "becaporserhijodedocenteotrabajadoradministrativodelau",
+            "synonyms": [
+              "Beca por ser hijo de docente o trabajador administrativo de la U"
+            ]
+          },
+          {
+            "value": "becaportresprimerospuestosenelexamendeadmisin",
+            "synonyms": [
+              "Beca por tres primeros puestos en el examen de admisión"
+            ]
+          },
+          {
+            "value": "boletadenotas",
+            "synonyms": [
+              "Boleta",
+              "boleta de notas"
+            ]
+          },
+          {
+            "value": "bsquedadedocumentos",
+            "synonyms": [
+              "Búsqueda de Documentos"
+            ]
+          },
+          {
+            "value": "cambiodefilial",
+            "synonyms": [
+              "Cambio de Filial",
+              "Traslado de sede",
+              "cambiar de sede",
+              "cambio de sede"
+            ]
+          },
+          {
+            "value": "cambiodemodalidad",
+            "synonyms": [
+              "Cambio de Modalidad",
+              "cambio de modalidad de estudios",
+              "cambio de modalidad de semipresencial a presencial"
+            ]
+          },
+          {
+            "value": "cambioyreseteodeclave",
+            "synonyms": [
+              "Cambio y Reseteo de Clave",
+              "cambiar de clave",
+              "cambiar de constraseña",
+              "cambio de clave",
+              "cambio de contraseña",
+              "clave de acceso al erp",
+              "me olvide mi clave",
+              "me olvide mi clave de acceso",
+              "me olvide mi contraseña",
+              "mi olvide mi clave de acceso al erp",
+              "resetear mi clave",
+              "resetear mi contraseña",
+              "reseteo de clave",
+              "reseteo de contraseña"
+            ]
+          },
+          {
+            "value": "carndebiblioteca",
+            "synonyms": [
+              "Carné de Biblioteca",
+              "carne de biblioteca",
+              "carnet de biblioteca"
+            ]
+          },
+          {
+            "value": "cartadepresentacin",
+            "synonyms": [
+              "Carta de Presentación",
+              "carta de presentacion",
+              "carta de presentacion para pregrado"
+            ]
+          },
+          {
+            "value": "cartadepresentacindeinternado",
+            "synonyms": [
+              "Carta de Presentación de Internado",
+              "carta de presentacion de internado"
+            ]
+          },
+          {
+            "value": "certificadodeestudio",
+            "synonyms": [
+              "Certificado de Estudio",
+              "certificado de estudios",
+              "certificado de estudios original",
+              "certificados de estudios"
+            ]
+          },
+          {
+            "value": "certificadodeestudiosdelcentrodeidiomas",
+            "synonyms": [
+              "Certificado de Estudios del Centro de Idiomas",
+              "certificado de idiomas",
+              "certificado de ingles",
+              "certificado de inglés"
+            ]
+          },
+          {
+            "value": "conformidaddedocumentos",
+            "synonyms": [
+              "Conformidad de Documentos",
+              "conformidad de documento"
+            ]
+          },
+          {
+            "value": "constanciabiblioteca",
+            "synonyms": [
+              "Constancia Biblioteca",
+              "constancia de biblioteca"
+            ]
+          },
+          {
+            "value": "constanciaeconmica",
+            "synonyms": [
+              "Constancia Económica",
+              "constancia economica"
+            ]
+          },
+          {
+            "value": "constanciadeconducta",
+            "synonyms": [
+              "Constancia de Conducta"
+            ]
+          },
+          {
+            "value": "constanciadeegresado",
+            "synonyms": [
+              "Constancia de Egresado"
+            ]
+          },
+          {
+            "value": "constanciadeestudios",
+            "synonyms": [
+              "Constancia de Estudios"
+            ]
+          },
+          {
+            "value": "constanciadeestudiosdelcentrodeidiomas",
+            "synonyms": [
+              "Constancia de Estudios del Centro de Idiomas",
+              "constancia de estudios de idiomas"
+            ]
+          },
+          {
+            "value": "constanciadeinternado",
+            "synonyms": [
+              "Constancia de Internado"
+            ]
+          },
+          {
+            "value": "constanciadematrcula",
+            "synonyms": [
+              "Constancia de Matrícula",
+              "constancia de matricula"
+            ]
+          },
+          {
+            "value": "constanciademodalidaddeestudios",
+            "synonyms": [
+              "Constancia de Modalidad de estudios"
+            ]
+          },
+          {
+            "value": "constanciadenoadeudodelaclnicaodontolgica",
+            "synonyms": [
+              "Constancia de No Adeudo de la Clínica Odontológica",
+              "constancia de no adeudo de la clinica odontologica"
+            ]
+          },
+          {
+            "value": "constanciadenoadeudo",
+            "synonyms": [
+              "Constancia de No adeudo",
+              "constancia de no adedo",
+              "constancia de no adeud"
+            ]
+          },
+          {
+            "value": "constanciadepromedioponderado",
+            "synonyms": [
+              "Constancia de Promedio Ponderado"
+            ]
+          },
+          {
+            "value": "constanciadeordendemrito",
+            "synonyms": [
+              "Constancia de orden de mérito",
+              "contancia de orden de merito"
+            ]
+          },
+          {
+            "value": "constanciaportercioyquintosuperior",
+            "synonyms": [
+              "5 superior",
+              "Constancia por Tercio y Quinto Superior",
+              "constancia de por tercio o quinto superior",
+              "constancia de quinto superior",
+              "constancia de tercio superior"
+            ]
+          },
+          {
+            "value": "convalidacindecursos",
+            "synonyms": [
+              "Convalidación de Cursos",
+              "convalidacion de cursos",
+              "convalidar cursos",
+              "convalido curso",
+              "convalido cursos"
+            ]
+          },
+          {
+            "value": "correccindenombresyoapellidos",
+            "synonyms": [
+              "Corrección de Nombres y/o Apellidos",
+              "correccion de apellidos",
+              "correcion de nombres",
+              "correcion de nombres y apellido",
+              "corregir mi apellido",
+              "corregir mi nombre",
+              "corregir mis apellidos",
+              "corrijo mi apellido",
+              "corrijo mi nombre"
+            ]
+          },
+          {
+            "value": "cursoautofinanciado",
+            "synonyms": [
+              "Curso Autofinanciado",
+              "curso autofnanciado",
+              "cursos autofinanciados"
+            ]
+          },
+          {
+            "value": "cursoautofinanciadocuandofaltacursosparaculminarl",
+            "synonyms": [
+              "Curso Autofinanciado cuando falta 01 ó 02 cursos para culminar l",
+              "curso autifinanciado para culminar la carrera",
+              "curso autofinanciado caso 2"
+            ]
+          },
+          {
+            "value": "cursoparalelo",
+            "synonyms": [
+              "Curso Paralelo",
+              "curso paralelos",
+              "cursos paralelos"
+            ]
+          },
+          {
+            "value": "diplomadeegresadoenauxiliareneducacin",
+            "synonyms": [
+              "Diploma de Egresado en Auxiliar en Educación",
+              "diploma de egresado en auxiliar en educacion"
+            ]
+          },
+          {
+            "value": "duplicadodecertificadodeestudio",
+            "synonyms": [
+              "Duplicado de Certificado de Estudio",
+              "duplicado del certificado de estudios"
+            ]
+          },
+          {
+            "value": "duplicadodeconstanciadeingreso",
+            "synonyms": [
+              "Duplicado de Constancia de Ingreso",
+              "duplicado de la constancia de ingreso"
+            ]
+          },
+          {
+            "value": "duplicadodefichadematrcula",
+            "synonyms": [
+              "Duplicado de Ficha de Matrícula",
+              "duplicado de ficha de matricula",
+              "ficha de matricula del primer ciclo"
+            ]
+          },
+          {
+            "value": "duplicadoderecibo",
+            "synonyms": [
+              "Duplicado de Recibo",
+              "duplicado de recibos"
+            ]
+          },
+          {
+            "value": "examendesuficienciapregrado",
+            "synonyms": [
+              "Examen de Suficiencia pregrado"
+            ]
+          },
+          {
+            "value": "examendeubicacin",
+            "synonyms": [
+              "Examen de Ubicación",
+              "examen de ubicacion de ingles",
+              "examen de ubicacion del centro de idiomas"
+            ]
+          },
+          {
+            "value": "examenderezagados",
+            "synonyms": [
+              "Examen de rezagados",
+              "examen de rezagado"
+            ]
+          },
+          {
+            "value": "fraccionamientodedeuda",
+            "synonyms": [
+              "Fraccionamiento de Deuda",
+              "fraccionar deuda",
+              "fracciono una deuda"
+            ]
+          },
+          {
+            "value": "gradodebachiller",
+            "synonyms": [
+              "Grado de Bachiller",
+              "bachiller"
+            ]
+          },
+          {
+            "value": "inscripcinporelcentropreuniversitario",
+            "synonyms": [
+              "INSCRIPCIÓN POR EL CENTRO PRE UNIVERSITARIO"
+            ]
+          },
+          {
+            "value": "justificacindeinasistencia",
+            "synonyms": [
+              "Justificación de Inasistencia",
+              "justificacion",
+              "justificacion de inasistencia",
+              "justificacion por inasistencia",
+              "justificar",
+              "justificar falta"
+            ]
+          },
+          {
+            "value": "llevarcursoenotroplandeestudios",
+            "synonyms": [
+              "Llevar Curso en otro Plan de Estudios",
+              "Llevar cursos en otra plan",
+              "llevar cursos en otro plan",
+              "llevar cursos en otro plan de estudios",
+              "llevar cursos en otros planes"
+            ]
+          },
+          {
+            "value": "matrculaespecial",
+            "synonyms": [
+              "Matrícula Especial",
+              "matricula especial"
+            ]
+          },
+          {
+            "value": "matrculaespecialporcuartamatrcula",
+            "synonyms": [
+              "Matrícula Especial por Cuarta Matrícula",
+              "cuarta matricula",
+              "matricula especial por cuarta matricula"
+            ]
+          },
+          {
+            "value": "reanudacindeestudios",
+            "synonyms": [
+              "Reanudación de Estudios",
+              "reanudacion de estudios",
+              "reanudacion de estuios",
+              "reanudaciones de estudio",
+              "reanudacon de estudios",
+              "reanudar mis estudios"
+            ]
+          },
+          {
+            "value": "recordacadmico",
+            "synonyms": [
+              "Record Académico",
+              "recor academico",
+              "record academico"
+            ]
+          },
+          {
+            "value": "reservadematrcula",
+            "synonyms": [
+              "Reserva de Matrícula",
+              "reserva de matricula"
+            ]
+          },
+          {
+            "value": "retiroeinclusindecursos",
+            "synonyms": [
+              "Retiro e Inclusión de Cursos",
+              "cambio de curso",
+              "cambio de seccion",
+              "cambio de sección",
+              "inclusion de cursos",
+              "inclusión de cursos",
+              "retiro de cursos",
+              "retiro e inclusion de curso"
+            ]
+          },
+          {
+            "value": "reubicacindeactividadintegradora",
+            "synonyms": [
+              "Reubicación de Actividad Integradora",
+              "reubicacion de actividad integradora",
+              "reubicacion de actividades integradoras",
+              "reubicacion de las actividades integradoras",
+              "reubicaciones de actividades integradoras"
+            ]
+          },
+          {
+            "value": "solicituddeslabos",
+            "synonyms": [
+              "Solicitud de Sílabos",
+              "solicitud de silabos"
+            ]
+          },
+          {
+            "value": "solicituddeslabosparaauxiliareneducacin",
+            "synonyms": [
+              "Solicitud de Sílabos para Auxiliar en Educación",
+              "solicitud de silabos para auxiliar en educacion"
+            ]
+          },
+          {
+            "value": "ttuloprofesional",
+            "synonyms": [
+              "Título profesional",
+              "titulacion",
+              "titulación",
+              "titulo",
+              "titulo profesional"
+            ]
+          },
+          {
+            "value": "adeudo",
+            "synonyms": [
+              "adeudo"
+            ]
+          },
+          {
+            "value": "anulacindedeuda",
+            "synonyms": [
+              "anulacion de deuda",
+              "anulación de deuda",
+              "anular una deuda",
+              "anulo mi deuda"
+            ]
+          },
+          {
+            "value": "autenticacindedocumentos",
+            "synonyms": [
+              "autenticacion de documentos",
+              "autenticación de documentos",
+              "autenticar mi documento",
+              "autenticar mis documentos",
+              "autenticar un documento",
+              "autentico mis documentos"
+            ]
+          },
+          {
+            "value": "cambiodenombreyapellidopormandatojudicial",
+            "synonyms": [
+              "cambio de nombre y apellido por mandato judicial"
+            ]
+          },
+          {
+            "value": "examendeaplazados",
+            "synonyms": [
+              "examen de aplazado",
+              "examen de aplazados"
+            ]
+          },
+          {
+            "value": "llevarcursoenotraescuela",
+            "synonyms": [
+              "Llevar cursos en otras escuela",
+              "llevar curso en otra escuela",
+              "llevar cursos en otra carrera",
+              "llevar cursos en otra escuela",
+              "llevar cursos en otra escuela profesional"
+            ]
+          },
+          {
+            "value": "llevarcursoenotrafacultad",
+            "synonyms": [
+              "llevar curso en otra facultad",
+              "llevar cursos en otra facultad"
+            ]
+          },
+          {
+            "value": "matrculaconproformaacadmica",
+            "synonyms": [
+              "matrícula con proforma académica",
+              "proforma academica"
+            ]
+          },
+          {
+            "value": "titularme",
+            "synonyms": [
+              "titularme"
+            ]
+          },
+          {
+            "value": "transferenciadedinero",
+            "synonyms": [
+              "transferencia de dinero"
+            ]
+          },
+          {
+            "value": "tratamientosclnicos",
+            "synonyms": [
+              "tratamientos clinicos",
+              "tratamientos clínicos"
+            ]
+          }
+        ],
+        "valueSelectionStrategy": "ORIGINAL_VALUE"
+      },
+      {
+        "name": "regionesperu",
+        "description": "regionesperu",
+        "version": "1",
+        "enumerationValues": [{
+            "value": "arequipa",
+            "synonyms": [
+              "Arequipa"
+            ]
+          },
+          {
+            "value": "lima",
+            "synonyms": [
+              "Lima"
+            ]
+          },
+          {
+            "value": "moquegua",
+            "synonyms": [
+              "Moquegua"
+            ]
+          },
+          {
+            "value": "puno",
+            "synonyms": [
+              "Puno"
+            ]
+          },
+          {
+            "value": "tacna",
+            "synonyms": [
+              "Tacna"
+            ]
+          }
+        ],
+        "valueSelectionStrategy": "ORIGINAL_VALUE"
+      }
+    ],
+    "childDirected": false,
+    "locale": "en-US",
+    "idleSessionTTLInSeconds": 300,
+    "clarificationPrompt": {
+      "messages": [{
+        "contentType": "PlainText",
+        "content": "Can you say that again?"
+      }],
+      "maxAttempts": 1
+    },
+    "abortStatement": {
+      "messages": [{
+        "contentType": "PlainText",
+        "content": "I don't understand. Can you try again?"
+      }]
+    }
+  }
+}

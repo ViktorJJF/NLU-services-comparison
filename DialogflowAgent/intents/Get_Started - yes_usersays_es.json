@@ -1,0 +1,134 @@
+[
+  {
+    "id": "c18c39f9-2fce-4381-8645-5a8ac804321f",
+    "data": [
+      {
+        "text": "adelante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd5324c2-afd1-4a32-828c-e0322d889dbc",
+    "data": [
+      {
+        "text": "correcto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6ac90b2-3077-4e57-9f00-5089e9301acf",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f77f14a-c733-459e-8cf1-d82face1d2fb",
+    "data": [
+      {
+        "text": "claro que sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3e178f4-d7a4-4c8b-9459-39268dc10ab5",
+    "data": [
+      {
+        "text": "yes_getstarted_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "249dfe38-e9d1-416c-b567-0356e9891651",
+    "data": [
+      {
+        "text": "buena idea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df765cfb-4289-4e98-9e95-e9767bf5013b",
+    "data": [
+      {
+        "text": "de acuerdo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cac63f9-bde6-4174-854c-3e9820af017a",
+    "data": [
+      {
+        "text": "confirmar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80365bc0-7db6-489f-8cad-97a9c7d843aa",
+    "data": [
+      {
+        "text": "Aceptar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65921b4a-d4d0-4920-8fec-4bc7795d5d34",
+    "data": [
+      {
+        "text": "por supuesto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b798166-aebd-4b15-ba3d-d6dd1f18fa97",
+    "data": [
+      {
+        "text": "eso mismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

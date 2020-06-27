@@ -1,0 +1,65 @@
+{
+  "id": "4702e126-df5d-4cfe-a952-415c4a345839",
+  "name": "INF-universidad-horario-atencion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7a28c2bb-9018-46af-a8a0-0509aa064f81",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "419378e4-438c-4f0b-ad0c-f607d3b1d314",
+          "required": false,
+          "dataType": "@Day",
+          "name": "Day",
+          "value": "$Day",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "La UJCM Filial Tacna está atendiendo de 8:30am a 12:00m y de 3:30pm a 6:00pm 😉",
+            "el personal está atiendiendo de 8:30am a 12:00m y de 3:30pm a 6:00pm"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "😺 Los sábados solo atendemos hasta el medio día 😀"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

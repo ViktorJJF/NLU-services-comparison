@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e9c57191-bea9-4b6f-972a-f5222ff62110",
+    "data": [
+      {
+        "text": "dime los horarios de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0446959-803e-42b8-82a8-f08aa8a35788",
+    "data": [
+      {
+        "text": "dime los horarios de clase de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a06f6a4-3050-49ec-bc32-8d405b087139",
+    "data": [
+      {
+        "text": "horario de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a590e1ce-a63c-4d61-98d3-9b7da72e40a4",
+    "data": [
+      {
+        "text": "horario_contabilidad_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63e41c88-38f3-4af8-ad60-0845f3e468cf",
+    "data": [
+      {
+        "text": "horario de clases de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "87c25190-a3d4-400f-844a-167c11a33134",
+    "data": [
+      {
+        "text": "cual es el horario de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

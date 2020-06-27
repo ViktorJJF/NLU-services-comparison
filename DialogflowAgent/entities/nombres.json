@@ -1,0 +1,9 @@
+{
+  "id": "02427d91-88c6-4627-b400-af1ca766f084",
+  "name": "nombres",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

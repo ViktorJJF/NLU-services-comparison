@@ -1,0 +1,31 @@
+{
+  "id": "4048048d-3d95-473b-b880-2eb02335c7ab",
+  "name": "POST-reglamento-grados-titulos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Este es el reglamento de grados y títulos actualizado el 06/09/2018\n👉 http://bit.ly/2EKNRwE"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

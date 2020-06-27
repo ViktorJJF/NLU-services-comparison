@@ -1,0 +1,34 @@
+{
+  "id": "725dc763-e1ff-4f84-922a-8704e1ca43e6",
+  "name": "aboutMariateguinoBot-hablarConOperador",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "para hablar con un operador humano puedes escribir tu consulta directamente en la fanpage Oficial de la UJCM Filial Tacna :D https://web.facebook.com/filialtacnaujcm",
+            "capaz no hice bien mi trabajo :( si quieres hablar con mis jefes escribeles a esta cuenta https://web.facebook.com/filialtacnaujcm"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

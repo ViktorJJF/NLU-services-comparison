@@ -1,0 +1,63 @@
+{
+  "id": "b27916ac-2cf6-407d-ba8a-da5c803232b7",
+  "name": "req-tramites",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "req-tramites",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51fcafab-6ce3-4b80-aa59-b93112dea5c3",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "No entendí bien 😪 por favor escribe bien el nombre del trámite para entenderte mejor 🤗"
+            },
+            {
+              "lang": "es",
+              "value": "Necesito saber sobre que trámite quieres información 😓"
+            },
+            {
+              "lang": "es",
+              "value": "Necesito que me digas de que trámites quieres averiguar 😩"
+            },
+            {
+              "lang": "es",
+              "value": "pero dime requisitos de que 🙄"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "$any"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

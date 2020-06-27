@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f2980a00-6cf6-4a4b-8c46-c19a1d752230",
+    "data": [
+      {
+        "text": "Reglamentos para tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64a4e36e-db03-49ee-a802-e2fc47de32ab",
+    "data": [
+      {
+        "text": "tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8094b996-6b77-46c8-bfa1-1097a096a8f1",
+    "data": [
+      {
+        "text": "informacion del proceso de tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3e06b53-54a4-4a2a-8796-9a3f0a31fdb1",
+    "data": [
+      {
+        "text": "proceso de tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34133eeb-172d-4c75-900a-a0a1ae927659",
+    "data": [
+      {
+        "text": "proceso_tesis_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

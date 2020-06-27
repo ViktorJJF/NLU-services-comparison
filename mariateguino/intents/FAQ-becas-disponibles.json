@@ -1,0 +1,50 @@
+{
+  "id": "09589920-4ac1-4cfc-a0af-174d71165474",
+  "name": "FAQ-becas-disponibles",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b7eb626-4e1e-4237-b7be-67db91ca775a",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Estas son las becas disponibles\n✅Beca por ayudantía de cátedra\n✅Beca por ayudantía de investigación\n✅Beca por casos especiales (orfandad/ discapacidad)\n✅Beca por hermanos estudiantes\n✅Beca por padre e hijo estudiantes\n✅Beca por Precariedad Económica\n✅Beca por promedio ponderado acumulativo\n✅ Beca por representar a la Universidad en evento deportivo\n✅Beca por ser Cónyuges estudiantes\n✅Beca por ser hijo de docente o trabajador administrativo de la Universidad\n✅Beca por tres primeros puestos en el examen de admisión"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "☑ Si quieres preguntarme los requisitos de alguna de esas becas, escribe algo como esto \"Cuales son los requisitos de la beca por ayudantia de catedra?\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

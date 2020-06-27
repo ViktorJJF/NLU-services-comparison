@@ -1,0 +1,26 @@
+[
+  {
+    "id": "183346e2-7541-44ca-ab16-3971f128ae9c",
+    "data": [
+      {
+        "text": "posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0de4148-069c-4fe6-9b05-42cf559d298f",
+    "data": [
+      {
+        "text": "pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

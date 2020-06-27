@@ -1,0 +1,31 @@
+{
+  "id": "0ba8d963-2486-4ee6-a8f4-a6fc91279c71",
+  "name": "Admision-fechas-posgrado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "aún no se definieron las fechas para el proceso de admisión 2019-I 🙄 ni bien tenga información te avisaré 🤗"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

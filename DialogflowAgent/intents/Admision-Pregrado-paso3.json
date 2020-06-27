@@ -1,0 +1,75 @@
+{
+  "id": "753e29e2-0adb-41e0-a129-ccb624d784bc",
+  "parentId": "3e32e15e-20e3-40ab-93ff-636611b604dc",
+  "rootParentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision-Pregrado-paso3",
+  "auto": true,
+  "contexts": [
+    "Admision-Pregrado-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [
+        {
+          "name": "Admision-Pregrado-paso3-tipoexamen",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Admision-Pregrado-requisitos-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Para cumplir el paso 3 debes hacer esto 😀"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ Debes tener a la mano tu ficha de inscripción junto a tu voucher de pago del banco o recibo de caja.\n✅ DNI original y una copia.\n☑ Si quieres pasar al siguiente paso escribe \"Paso 4\""
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "✅ Además los requisitos a continuación dependiendo de si postulas mediante el examen ordinario o extraordinario Pregrado 😃",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Ordinario",
+                  "payload": "ordinario_payload"
+                },
+                {
+                  "content_type": "text",
+                  "title": "Extraordinario",
+                  "payload": "extraordinario_payload"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

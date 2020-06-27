@@ -1,0 +1,49 @@
+{
+  "id": "27b35e14-288a-46a8-b963-29892416de0e",
+  "name": "tramites-pregrado-manual",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "Este es el manual de procedimientos para trámites administrativos PREGRADO 😀 puedes consultar trámites como constancias, becas u otros, tiempos,etc, haz click en el botón de abajo 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Manual de Procedimientos",
+                      "url": "https://drive.google.com/open?id\u003d18RHP8zLFeKi1T2q-dWYFunv72mAI0RHw",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "29d50128-45b3-4ede-948a-430133cb699d",
+    "data": [
+      {
+        "text": "informacion sobre el curso pro ",
+        "userDefined": false
+      },
+      {
+        "text": "titulo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "589f450d-389e-4fa9-bb2a-bb7d7b8ed241",
+    "data": [
+      {
+        "text": "curso de actualizacion pro ",
+        "userDefined": false
+      },
+      {
+        "text": "titulo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89a975f5-abcc-4760-9ea9-c711460a10be",
+    "data": [
+      {
+        "text": "curso pro ",
+        "userDefined": false
+      },
+      {
+        "text": "titulo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35b8de27-4b0e-44f9-bae2-8ac4fde6c7bd",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "saber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las sobre el curso de pro ",
+        "userDefined": false
+      },
+      {
+        "text": "titulo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de la carrera de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "71ebfbdb-0f2b-47e8-a264-02eceb4a9c67",
+  "name": "Despedida",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Espero haberte ayudado ! Recuerda que puedes hacerme consultas todo el día 😏 Nos vemos 😸",
+            "gracias por esta breve conversación, nos vemos 😸",
+            "un gusto 😸"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "puedes ayudar al mejoramiento de los servicios de la UJCM respondiendo esta encuesta 👉 http://bit.ly/2D8OEWw"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

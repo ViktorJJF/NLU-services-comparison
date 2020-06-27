@@ -1,0 +1,49 @@
+{
+  "id": "3abdd1d9-a584-4eaf-8a2f-5a6428691a47",
+  "name": "HORARIO-CLASES-derecho",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "haz click en el botón de abajo para ver el horario de derecho 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Horario derecho",
+                      "url": "https://drive.google.com/file/d/1DifjgfL3emeG1jaSO-GWue-Iy2UF8vsM/view",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

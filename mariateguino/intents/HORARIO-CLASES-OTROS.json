@@ -1,0 +1,73 @@
+{
+  "id": "f0191a02-142b-4c2f-b6c9-6dd55d7e39a7",
+  "name": "HORARIO-CLASES-OTROS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "Horario de Psicología 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Horario Psicología",
+                      "url": "https://drive.google.com/file/d/19GDD3YjbSm3_i9-wSAjvy6hVG5n3JznX/view",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "Los horarios de administración, ingeniería comercial y educación los puedes encontrar aquí👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Horarios",
+                      "url": "https://drive.google.com/file/d/1EibRg6nC3xOetdStyPVFpnfVN9Wlcz3x/view",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

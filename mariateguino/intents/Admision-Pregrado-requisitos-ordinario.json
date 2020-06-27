@@ -1,0 +1,38 @@
+{
+  "id": "ada78d4c-af8a-4f80-b3e6-e11eb6408db4",
+  "name": "Admision-Pregrado-requisitos-ordinario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom.Admision-Pregrado-requisitos-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Estos son los requisitos que encontré para el examen ordinario 😀"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ Partida de Nacimiento original\n✅ Fotocopia legalizada de DNI\n✅ 04 Fotos recientes, de frente, a color, tamaño carné, con fondo blanco y sin lentes\n✅ Comprobante de pago por derecho de Admisión\n✅ Certificado de Estudios Secundarios original"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

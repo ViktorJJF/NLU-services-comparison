@@ -1,0 +1,217 @@
+[
+  {
+    "id": "7c617124-50db-41d9-a21b-c8f656f7d1f3",
+    "data": [
+      {
+        "text": "Asi tambien indicar su horario de atención, gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "667b691d-2a4d-425b-9b21-64f86c81b9e0",
+    "data": [
+      {
+        "text": "Buenos días, por favor los horarios de atención para ir a recoger el Carnet. ",
+        "userDefined": false
+      },
+      {
+        "text": "Muchas",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " gracias.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "131fb905-533c-44ca-850c-fa09afa3a82d",
+    "data": [
+      {
+        "text": "atienen ",
+        "userDefined": false
+      },
+      {
+        "text": "domingos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "95c8edd6-a300-4fc1-90e0-a764093f837a",
+    "data": [
+      {
+        "text": "atienen los ",
+        "userDefined": false
+      },
+      {
+        "text": "domingos",
+        "alias": "Day",
+        "meta": "@Day",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b88f582d-4341-4a56-94fa-73e720ab15c0",
+    "data": [
+      {
+        "text": "hasta que hora atienden los ",
+        "userDefined": false
+      },
+      {
+        "text": "sabados",
+        "alias": "Day",
+        "meta": "@Day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "adffb1fd-efd6-4b8f-bd31-2bab4d2fe72a",
+    "data": [
+      {
+        "text": "Hasta q hora funciona la caja de la u?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "194cbd63-c1e9-4f30-9d15-704f9fe4a1e9",
+    "data": [
+      {
+        "text": "a que hora estan disponibles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "317d9095-30aa-47ef-b29f-0643116cb12f",
+    "data": [
+      {
+        "text": "dime los horarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45678c60-8664-40ab-b375-2afc44126cc0",
+    "data": [
+      {
+        "text": "dame los horarios de atencion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e44a4d1b-011c-4bc7-ab3d-83418cfd0a6a",
+    "data": [
+      {
+        "text": "schedule_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d51cd0c4-bef3-4dd8-8e1a-e5a5401711c3",
+    "data": [
+      {
+        "text": "Dame horarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a67ea991-0f99-4a1b-bc50-b0cc19f9ba0e",
+    "data": [
+      {
+        "text": "a que hora atienden en la mañana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45ceda62-75b8-4d39-8b58-494b495dfc66",
+    "data": [
+      {
+        "text": "a que hora atienden por la tarde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22bcca43-0bd1-4e9b-83c2-b9d1eeaa57e0",
+    "data": [
+      {
+        "text": "cual es el horario de atencion de la u",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22eb3db1-7dad-4260-8abe-5ea54c4ead17",
+    "data": [
+      {
+        "text": "en que horarios atienden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

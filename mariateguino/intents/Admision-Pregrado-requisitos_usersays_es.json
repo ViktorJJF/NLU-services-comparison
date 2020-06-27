@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7896390e-172a-463a-8c30-4ddde0c0fc14",
+    "data": [
+      {
+        "text": "requisitos para postular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d9c5bb22-4859-4bc7-8e1f-877742618acd",
+    "data": [
+      {
+        "text": "cuales son los requisitos para postular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de01ae69-c835-4baf-8a7d-006ce205f12a",
+    "data": [
+      {
+        "text": "los requisitos de admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "62381c6c-14f9-491a-9e67-5d40fd856ea3",
+    "data": [
+      {
+        "text": "que tramites necesito hacer para postular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a8a462b-4950-4b79-b11b-359b04bca1b3",
+    "data": [
+      {
+        "text": "que requisitos necesito para postular al examen ordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a309f120-f1a6-4ef2-835e-f888e8cd6f8b",
+    "data": [
+      {
+        "text": "que requisitos necesito para postular al examen extraordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

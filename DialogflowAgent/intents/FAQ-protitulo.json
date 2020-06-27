@@ -1,0 +1,31 @@
+{
+  "id": "22b696dd-4037-49b3-b89c-a4b2da8649ea",
+  "name": "FAQ-protitulo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "de momento no tengo información sobre el curso pro título, pero puedes consultar con tu director de escuela, es el encargado de aprobarlo y elaborar el proyecto"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

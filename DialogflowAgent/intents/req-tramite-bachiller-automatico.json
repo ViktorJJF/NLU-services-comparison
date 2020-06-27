@@ -1,0 +1,37 @@
+{
+  "id": "ca80c1bf-7409-4359-8db7-db128441024f",
+  "name": "req-tramite-bachiller-automatico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "El bachiller automático para ti! estos son los requisitos:"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅Solicitud dirigida a la Dirección de la Escuela\n✅Certificado de conocimiento de un idioma extranjero, de preferencia inglés o lengua nativa.\n✅Constancia Económica Original\n✅Constancia de Biblioteca Original\n✅Constancia de Matrícula original\n✅Constancia de Egresado autenticado\n✅02 Fichas impresas del Sistema de Seguimiento a Egresados, link: http://egresados.ujcm.edu.pe/\n✅02 Fotos tamaño carnet a color fondo blanco (con terno oscuro)\n✅03 Fotos tamaño pasaporte a color sin lentes, (con terno oscuro)\n✅Copia de DNI Legalizado (De preferencia no mayor a 2 meses)\n✅ Comprobante de caja\n☑ TIP 1: El pago es único y cubre todos los requisitos excepto duplicados (S/.1317 si eres de Derecho o S/.1247 si eres de otra escuela  )\n☑ TIP 2: Si recién empezaste a hacer el trámite de bachiller y no cuentas con ningún requisito, puedes hacerlo todo de golpe! 🤗 escribe \"quiero tramitar el bachiller desde cero\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,669 @@
+[
+  {
+    "value": "ADMISIÓN DE INGRESO POR EL CENTRO PRE UNIVERSITARIO",
+    "synonyms": [
+      "ADMISIÓN DE INGRESO POR EL CENTRO PRE UNIVERSITARIO"
+    ]
+  },
+  {
+    "value": "ADMISIÓN POR GRADO O TÍTULO PROFESIONAL UNIVERSITARIO",
+    "synonyms": [
+      "ADMISIÓN POR GRADO O TÍTULO PROFESIONAL UNIVERSITARIO"
+    ]
+  },
+  {
+    "value": "ADMISIÓN POR TÍTULO DE INSTITUTO DE EDUCACIÓN SUPERIOR NO UNIVERSITARIO",
+    "synonyms": [
+      "ADMISIÓN POR TÍTULO DE INSTITUTO DE EDUCACIÓN SUPERIOR NO UNIVERSITARIO",
+      "admision para titulados de institutos",
+      "admision para titulados de tecnologicos",
+      "admision por institutos",
+      "admision por titulo de instituto de educacion superior no universitaria"
+    ]
+  },
+  {
+    "value": "Adecuación al nuevo plan de estudios",
+    "synonyms": [
+      "Adecuación al nuevo plan de estudios",
+      "adecuacion",
+      "adecuacion al nuevo plan de estudios"
+    ]
+  },
+  {
+    "value": "Admisión para personas con Discapacidad",
+    "synonyms": [
+      "Admisión para personas con Discapacidad",
+      "admision para personas con discapacidad"
+    ]
+  },
+  {
+    "value": "Admisión por 1er o 2do Puesto de Educación Secundaria",
+    "synonyms": [
+      "Admisión por 1er o 2do Puesto de Educación Secundaria"
+    ]
+  },
+  {
+    "value": "Admisión por Reanudación de Estudios",
+    "synonyms": [
+      "Admisión por Reanudación de Estudios",
+      "admision por reanudacion de estudios"
+    ]
+  },
+  {
+    "value": "Admisión por Traslado Externo",
+    "synonyms": [
+      "Admisión por Traslado Externo",
+      "admision por traslado externo"
+    ]
+  },
+  {
+    "value": "Admisión por Traslado Interno",
+    "synonyms": [
+      "Admisión por Traslado Interno",
+      "adimision por traslado interno"
+    ]
+  },
+  {
+    "value": "Admisión por ser Deportista Calificado",
+    "synonyms": [
+      "Admisión por ser Deportista Calificado",
+      "admision por deportista calificado",
+      "admision por ser deportista calificado"
+    ]
+  },
+  {
+    "value": "Ampliación de Créditos",
+    "synonyms": [
+      "Ampliación de Créditos",
+      "ampliacion de credito",
+      "ampliacion de creditos"
+    ]
+  },
+  {
+    "value": "Beca por Precariedad Económica",
+    "synonyms": [
+      "Beca por Precariedad Económica"
+    ]
+  },
+  {
+    "value": "Beca por Retiro Voluntario, de Jubilación o Fallecimiento del Docente Ordinario o del Personal Administrativo Indeterminado de la Universidad",
+    "synonyms": [
+      "Beca por Retiro Voluntario, de Jubilación o Fallecimiento del Docente Ordinario o del Personal Administrativo Indeterminado de la Universidad"
+    ]
+  },
+  {
+    "value": "Beca por ayudantía de cátedra",
+    "synonyms": [
+      "Beca por ayudantía de cátedra"
+    ]
+  },
+  {
+    "value": "Beca por ayudantía de investigación",
+    "synonyms": [
+      "Beca por ayudantía de investigación"
+    ]
+  },
+  {
+    "value": "Beca por casos especiales",
+    "synonyms": [
+      "Beca por discapacidad",
+      "Beca por orfandad"
+    ]
+  },
+  {
+    "value": "Beca por hermanos estudiantes",
+    "synonyms": [
+      "Beca por hermanos estudiantes"
+    ]
+  },
+  {
+    "value": "Beca por padre e hijo estudiantes",
+    "synonyms": [
+      "Beca por padre e hijo estudiantes"
+    ]
+  },
+  {
+    "value": "Beca por promedio ponderado acumulativo",
+    "synonyms": [
+      "Beca por promedio ponderado acumulativo"
+    ]
+  },
+  {
+    "value": "Beca por representar a la Universidad en evento deportivo",
+    "synonyms": [
+      "Beca por representar a la Universidad en evento deportivo"
+    ]
+  },
+  {
+    "value": "Beca por ser Cónyuges estudiantes",
+    "synonyms": [
+      "Beca por ser Cónyuges estudiantes"
+    ]
+  },
+  {
+    "value": "Beca por ser hijo de docente o trabajador administrativo de la Universidad",
+    "synonyms": [
+      "Beca por ser hijo de docente o trabajador administrativo de la Universidad"
+    ]
+  },
+  {
+    "value": "Beca por tres primeros puestos en el examen de admisión",
+    "synonyms": [
+      "Beca por tres primeros puestos en el examen de admisión"
+    ]
+  },
+  {
+    "value": "Boleta de notas",
+    "synonyms": [
+      "Boleta",
+      "boleta de notas"
+    ]
+  },
+  {
+    "value": "Búsqueda de Documentos",
+    "synonyms": [
+      "Búsqueda de Documentos"
+    ]
+  },
+  {
+    "value": "Cambio de Filial",
+    "synonyms": [
+      "Cambio de Filial",
+      "Traslado de sede",
+      "cambiar de sede",
+      "cambio de sede"
+    ]
+  },
+  {
+    "value": "Cambio de Modalidad",
+    "synonyms": [
+      "Cambio de Modalidad",
+      "cambio de modalidad",
+      "cambio de modalidad de estudios",
+      "cambio de modalidad de semipresencial a presencial"
+    ]
+  },
+  {
+    "value": "Cambio y Reseteo de Clave",
+    "synonyms": [
+      "Cambio y Reseteo de Clave",
+      "cambiar de clave",
+      "cambiar de constraseña",
+      "cambio de clave",
+      "cambio de contraseña",
+      "clave de acceso al erp",
+      "me olvide mi clave",
+      "me olvide mi clave de acceso",
+      "me olvide mi contraseña",
+      "mi olvide mi clave de acceso al erp",
+      "resetear mi clave",
+      "resetear mi contraseña",
+      "reseteo de clave",
+      "reseteo de contraseña"
+    ]
+  },
+  {
+    "value": "Carné de Biblioteca",
+    "synonyms": [
+      "Carné de Biblioteca",
+      "carne de biblioteca",
+      "carnet de biblioteca"
+    ]
+  },
+  {
+    "value": "Carta de Presentación",
+    "synonyms": [
+      "Carta de Presentación",
+      "carta de presentacion",
+      "carta de presentacion para pregrado"
+    ]
+  },
+  {
+    "value": "Carta de Presentación de Internado",
+    "synonyms": [
+      "Carta de Presentación de Internado",
+      "carta de presentacion de internado"
+    ]
+  },
+  {
+    "value": "Certificado de Estudio",
+    "synonyms": [
+      "Certificado de Estudio",
+      "certificado de estudios",
+      "certificado de estudios original",
+      "certificados de estudios"
+    ]
+  },
+  {
+    "value": "Certificado de Estudios del Centro de Idiomas",
+    "synonyms": [
+      "Certificado de Estudios del Centro de Idiomas",
+      "certificado de idiomas",
+      "certificado de ingles",
+      "certificado de inglés"
+    ]
+  },
+  {
+    "value": "Conformidad de Documentos",
+    "synonyms": [
+      "Conformidad de Documentos",
+      "conformidad de documento"
+    ]
+  },
+  {
+    "value": "Constancia Biblioteca",
+    "synonyms": [
+      "Constancia Biblioteca",
+      "constancia de biblioteca"
+    ]
+  },
+  {
+    "value": "Constancia Económica",
+    "synonyms": [
+      "Constancia Económica",
+      "constancia economica"
+    ]
+  },
+  {
+    "value": "Constancia de Conducta",
+    "synonyms": [
+      "Constancia de Conducta"
+    ]
+  },
+  {
+    "value": "Constancia de Egresado",
+    "synonyms": [
+      "Constancia de Egresado"
+    ]
+  },
+  {
+    "value": "Constancia de Estudios",
+    "synonyms": [
+      "Constancia de Estudios"
+    ]
+  },
+  {
+    "value": "Constancia de Estudios del Centro de Idiomas",
+    "synonyms": [
+      "Constancia de Estudios del Centro de Idiomas",
+      "constancia de estudios de idiomas"
+    ]
+  },
+  {
+    "value": "Constancia de Internado",
+    "synonyms": [
+      "Constancia de Internado"
+    ]
+  },
+  {
+    "value": "Constancia de Matrícula",
+    "synonyms": [
+      "Constancia de Matrícula",
+      "constancia de matricula"
+    ]
+  },
+  {
+    "value": "Constancia de Modalidad de estudios",
+    "synonyms": [
+      "Constancia de Modalidad de estudios"
+    ]
+  },
+  {
+    "value": "Constancia de No Adeudo de la Clínica Odontológica",
+    "synonyms": [
+      "Constancia de No Adeudo de la Clínica Odontológica",
+      "constancia de no adeudo de la clinica odontologica"
+    ]
+  },
+  {
+    "value": "Constancia de No adeudo",
+    "synonyms": [
+      "Constancia de No adeudo",
+      "constancia de no adedo",
+      "constancia de no adeud",
+      "constancia de no adeudo"
+    ]
+  },
+  {
+    "value": "Constancia de Promedio Ponderado",
+    "synonyms": [
+      "Constancia de Promedio Ponderado"
+    ]
+  },
+  {
+    "value": "Constancia de orden de mérito",
+    "synonyms": [
+      "Constancia de orden de mérito",
+      "contancia de orden de merito"
+    ]
+  },
+  {
+    "value": "Constancia por Tercio y Quinto Superior",
+    "synonyms": [
+      "5 superior",
+      "Constancia por Tercio y Quinto Superior",
+      "constancia de por tercio o quinto superior",
+      "constancia de quinto superior",
+      "constancia de tercio superior"
+    ]
+  },
+  {
+    "value": "Convalidación de Cursos",
+    "synonyms": [
+      "Convalidación de Cursos",
+      "convalidacion de cursos",
+      "convalidar cursos",
+      "convalido curso",
+      "convalido cursos"
+    ]
+  },
+  {
+    "value": "Corrección de Nombres y/o Apellidos",
+    "synonyms": [
+      "Corrección de Nombres y/o Apellidos",
+      "correccion de apellidos",
+      "correcion de nombres",
+      "correcion de nombres y apellido",
+      "corregir mi apellido",
+      "corregir mi nombre",
+      "corregir mis apellidos",
+      "corrijo mi apellido",
+      "corrijo mi nombre"
+    ]
+  },
+  {
+    "value": "Curso Autofinanciado",
+    "synonyms": [
+      "Curso Autofinanciado",
+      "curso autofnanciado",
+      "cursos autofinanciados"
+    ]
+  },
+  {
+    "value": "Curso Autofinanciado cuando falta 01 ó 02 cursos para culminar la Carrera",
+    "synonyms": [
+      "Curso Autofinanciado cuando falta 01 ó 02 cursos para culminar la Carrera",
+      "curso autifinanciado para culminar la carrera",
+      "curso autofinanciado caso 2"
+    ]
+  },
+  {
+    "value": "Curso Paralelo",
+    "synonyms": [
+      "Curso Paralelo",
+      "curso paralelos",
+      "cursos paralelos"
+    ]
+  },
+  {
+    "value": "Diploma de Egresado en Auxiliar en Educación",
+    "synonyms": [
+      "Diploma de Egresado en Auxiliar en Educación",
+      "diploma de egresado en auxiliar en educacion"
+    ]
+  },
+  {
+    "value": "Duplicado de Certificado de Estudio",
+    "synonyms": [
+      "Duplicado de Certificado de Estudio",
+      "duplicado del certificado de estudios"
+    ]
+  },
+  {
+    "value": "Duplicado de Constancia de Ingreso",
+    "synonyms": [
+      "Duplicado de Constancia de Ingreso",
+      "duplicado de la constancia de ingreso"
+    ]
+  },
+  {
+    "value": "Duplicado de Ficha de Matrícula",
+    "synonyms": [
+      "Duplicado de Ficha de Matrícula",
+      "duplicado de ficha de matricula",
+      "ficha de matricula del primer ciclo"
+    ]
+  },
+  {
+    "value": "Duplicado de Recibo",
+    "synonyms": [
+      "Duplicado de Recibo",
+      "duplicado de recibos"
+    ]
+  },
+  {
+    "value": "Examen de Suficiencia pregrado",
+    "synonyms": [
+      "Examen de Suficiencia pregrado",
+      "examen de suficiencia pregrado"
+    ]
+  },
+  {
+    "value": "Examen de Ubicación",
+    "synonyms": [
+      "Examen de Ubicación",
+      "examen de ubicacion de ingles",
+      "examen de ubicacion del centro de idiomas"
+    ]
+  },
+  {
+    "value": "Examen de rezagados",
+    "synonyms": [
+      "Examen de rezagados",
+      "examen de rezagado"
+    ]
+  },
+  {
+    "value": "Fraccionamiento de Deuda",
+    "synonyms": [
+      "Fraccionamiento de Deuda",
+      "fraccionar deuda",
+      "fracciono una deuda"
+    ]
+  },
+  {
+    "value": "Grado de Bachiller",
+    "synonyms": [
+      "Grado de Bachiller",
+      "bachiller"
+    ]
+  },
+  {
+    "value": "INSCRIPCIÓN POR EL CENTRO PRE UNIVERSITARIO",
+    "synonyms": [
+      "INSCRIPCIÓN POR EL CENTRO PRE UNIVERSITARIO"
+    ]
+  },
+  {
+    "value": "Justificación de Inasistencia",
+    "synonyms": [
+      "Justificación de Inasistencia",
+      "justificacion",
+      "justificacion de inasistencia",
+      "justificacion por inasistencia",
+      "justificar",
+      "justificar falta"
+    ]
+  },
+  {
+    "value": "Llevar Curso en otro Plan de Estudios",
+    "synonyms": [
+      "Llevar Curso en otro Plan de Estudios",
+      "Llevar cursos en otra plan",
+      "llevar cursos en otro plan",
+      "llevar cursos en otro plan de estudios",
+      "llevar cursos en otros planes"
+    ]
+  },
+  {
+    "value": "Matrícula Especial",
+    "synonyms": [
+      "Matrícula Especial",
+      "matricula especial"
+    ]
+  },
+  {
+    "value": "Matrícula Especial por Cuarta Matrícula",
+    "synonyms": [
+      "Matrícula Especial por Cuarta Matrícula",
+      "cuarta matricula",
+      "matricula especial por cuarta matricula"
+    ]
+  },
+  {
+    "value": "Reanudación de Estudios",
+    "synonyms": [
+      "Reanudación de Estudios",
+      "reanudacion de estudios",
+      "reanudacion de estuios",
+      "reanudaciones de estudio",
+      "reanudacon de estudios",
+      "reanudar mis estudios"
+    ]
+  },
+  {
+    "value": "Record Académico",
+    "synonyms": [
+      "Record Académico",
+      "recor academico",
+      "record academico"
+    ]
+  },
+  {
+    "value": "Reserva de Matrícula",
+    "synonyms": [
+      "Reserva de Matrícula",
+      "reserva de matricula"
+    ]
+  },
+  {
+    "value": "Retiro e Inclusión de Cursos",
+    "synonyms": [
+      "Retiro e Inclusión de Cursos",
+      "cambio de curso",
+      "cambio de seccion",
+      "cambio de sección",
+      "inclusion de cursos",
+      "inclusión de cursos",
+      "retiro de cursos",
+      "retiro e inclusion de curso"
+    ]
+  },
+  {
+    "value": "Reubicación de Actividad Integradora",
+    "synonyms": [
+      "Reubicación de Actividad Integradora",
+      "reubicacion de actividad integradora",
+      "reubicacion de actividades integradoras",
+      "reubicacion de las actividades integradoras",
+      "reubicaciones de actividades integradoras"
+    ]
+  },
+  {
+    "value": "Solicitud de Sílabos",
+    "synonyms": [
+      "Solicitud de Sílabos",
+      "solicitud de silabos"
+    ]
+  },
+  {
+    "value": "Solicitud de Sílabos para Auxiliar en Educación",
+    "synonyms": [
+      "Solicitud de Sílabos para Auxiliar en Educación",
+      "solicitud de silabos para auxiliar en educacion"
+    ]
+  },
+  {
+    "value": "Título profesional",
+    "synonyms": [
+      "Título profesional",
+      "titulacion",
+      "titulación",
+      "titulo",
+      "titulo profesional",
+      "título profesional"
+    ]
+  },
+  {
+    "value": "adeudo",
+    "synonyms": [
+      "adeudo"
+    ]
+  },
+  {
+    "value": "anulación de deuda",
+    "synonyms": [
+      "anulacion de deuda",
+      "anulación de deuda",
+      "anular una deuda",
+      "anulo mi deuda"
+    ]
+  },
+  {
+    "value": "autenticación de documentos",
+    "synonyms": [
+      "autenticacion de documentos",
+      "autenticación de documentos",
+      "autenticar mi documento",
+      "autenticar mis documentos",
+      "autenticar un documento",
+      "autentico mis documentos"
+    ]
+  },
+  {
+    "value": "cambio de nombre y apellido por mandato judicial",
+    "synonyms": [
+      "cambio de nombre y apellido por mandato judicial"
+    ]
+  },
+  {
+    "value": "examen de aplazados",
+    "synonyms": [
+      "examen de aplazado",
+      "examen de aplazados"
+    ]
+  },
+  {
+    "value": "llevar curso en otra escuela",
+    "synonyms": [
+      "Llevar cursos en otras escuela",
+      "llevar curso en otra escuela",
+      "llevar cursos en otra carrera",
+      "llevar cursos en otra escuela",
+      "llevar cursos en otra escuela profesional"
+    ]
+  },
+  {
+    "value": "llevar curso en otra facultad",
+    "synonyms": [
+      "llevar curso en otra facultad",
+      "llevar cursos en otra facultad"
+    ]
+  },
+  {
+    "value": "matrícula con proforma académica",
+    "synonyms": [
+      "matrícula con proforma académica",
+      "proforma academica"
+    ]
+  },
+  {
+    "value": "titularme",
+    "synonyms": [
+      "titularme"
+    ]
+  },
+  {
+    "value": "transferencia de dinero",
+    "synonyms": [
+      "transferencia de dinero"
+    ]
+  },
+  {
+    "value": "tratamientos clínicos",
+    "synonyms": [
+      "tratamientos clinicos",
+      "tratamientos clínicos"
+    ]
+  }
+]

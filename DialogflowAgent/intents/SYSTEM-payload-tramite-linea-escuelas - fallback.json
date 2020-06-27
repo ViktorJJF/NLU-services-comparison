@@ -1,0 +1,42 @@
+{
+  "id": "6cba36e2-0964-4d5c-b0af-142fdf5d1b94",
+  "parentId": "ba668bad-1634-4960-887f-ff8143ef8eb9",
+  "rootParentId": "ba668bad-1634-4960-887f-ff8143ef8eb9",
+  "name": "SYSTEM-payload-tramite-linea-escuelas - fallback",
+  "auto": false,
+  "contexts": [
+    "SYSTEM-payload-tramite-linea-escuelas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SYSTEM-payload-tramite-linea-escuelas.SYSTEM-payload-tramite-linea-escuelas-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Ups, creo que no entendí de que escuela eres 😓"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "verifica que hayas escrito bien el nombre de tu escuela 😏 te daré otra oportunidad 🤗"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

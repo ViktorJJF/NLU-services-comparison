@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20f16035-9dd2-45ca-b8df-2396d326783c",
+    "data": [
+      {
+        "text": "quiero tramitar el bachiller desde 0",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77f8ab31-b7fd-4586-87bf-38cf3217e3f6",
+    "data": [
+      {
+        "text": "quiero tramitar el bachiller desde cero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

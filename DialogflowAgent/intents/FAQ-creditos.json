@@ -1,0 +1,31 @@
+{
+  "id": "45759010-c3cb-40e7-ab35-da3193dea816",
+  "name": "FAQ-creditos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "aun no me enseñaron sobre la cantidad de créditos o electivos que puedes llevar 🤔 sé que varía dependiendo de tu escuela y tu plan de estudios"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

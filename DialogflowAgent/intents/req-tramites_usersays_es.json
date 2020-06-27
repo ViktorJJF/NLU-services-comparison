@@ -1,0 +1,701 @@
+[
+  {
+    "id": "280661bb-381a-41de-a8ed-16f16a1f0459",
+    "data": [
+      {
+        "text": "TRAMITE ",
+        "userDefined": false
+      },
+      {
+        "text": "CONSTANCIA DE BIBLIOTECA",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "012f7b16-f657-40a1-a64b-268bfc97464e",
+    "data": [
+      {
+        "text": "Cuales son los requisitos de la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca por promedio ponderado acumulativo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeee4c9b-7cd3-4cd2-bd13-5d4e060bbbb0",
+    "data": [
+      {
+        "text": "como tramito mi ",
+        "userDefined": false
+      },
+      {
+        "text": "adecuacion",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ebfa9811-4b54-458f-8b8f-51b24530559c",
+    "data": [
+      {
+        "text": "soy ex estudiante, como hago para ",
+        "userDefined": false
+      },
+      {
+        "text": "reanudar estudios",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f2e93ce9-7a01-409b-97c7-e5b375ad2448",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "saco",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "titulo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "63b8cd70-ed91-4eb8-9569-3cbd69acc2a9",
+    "data": [
+      {
+        "text": "que necesito para la ",
+        "userDefined": false
+      },
+      {
+        "text": "constancia de no adeudo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "983a32eb-0ef6-414c-bc20-e88923a817c9",
+    "data": [
+      {
+        "text": "solicitud de ",
+        "userDefined": false
+      },
+      {
+        "text": "curso en pararlelo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b51e7557-7d0b-405a-842c-b7b5bf372637",
+    "data": [
+      {
+        "text": "sobre los ",
+        "userDefined": false
+      },
+      {
+        "text": "cursos paralelos",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b5b727c-332e-4d7e-b0d4-1b0e94a067d1",
+    "data": [
+      {
+        "text": "Como realizó ",
+        "userDefined": false
+      },
+      {
+        "text": "retiro de cursos",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecb74dde-1c03-4c8a-bf84-756ee30efea1",
+    "data": [
+      {
+        "text": "quiero tramitar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "beca",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b526a360-09b0-4cf0-af8c-a53db368038a",
+    "data": [
+      {
+        "text": "quisiera saber los requisitos de ",
+        "userDefined": false
+      },
+      {
+        "text": "certiciado de estudios",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "69799726-3530-477d-8212-eb9a399b8590",
+    "data": [
+      {
+        "text": "requisitos para hacer la ",
+        "userDefined": false
+      },
+      {
+        "text": "convalidacion",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28da1340-63c2-4de2-af2d-773803575388",
+    "data": [
+      {
+        "text": "cuales son los requisitos de la ",
+        "userDefined": false
+      },
+      {
+        "text": "constancia de no adeudo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7743d32e-14e7-4eba-b0b4-5d59f408e00c",
+    "data": [
+      {
+        "text": "Dime cómo tramitar mi ",
+        "userDefined": false
+      },
+      {
+        "text": "record académico.",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "247a7f73-75b2-42db-8f8b-6d32684732ec",
+    "data": [
+      {
+        "text": "como hago el tramite de ",
+        "userDefined": false
+      },
+      {
+        "text": "adecuacion",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "74b30115-f912-4de8-806b-3cc1770f0287",
+    "data": [
+      {
+        "text": "que requisitos necesito para ",
+        "userDefined": false
+      },
+      {
+        "text": "llevar cursos en otro plan",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2c9bf5ca-47dd-4125-948e-75dd6f79b613",
+    "data": [
+      {
+        "text": "requisitos ",
+        "userDefined": false
+      },
+      {
+        "text": "Duplicado de Recib",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ba1df00b-73c3-4fbe-9591-40c27580a4d7",
+    "data": [
+      {
+        "text": "cuales son los requisitos del ",
+        "userDefined": false
+      },
+      {
+        "text": "retiro e inclusion de cursos",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d07a4c06-0a31-486a-85db-1901412bbc74",
+    "data": [
+      {
+        "text": "Buenas tardes quisiera saber sobre la ",
+        "userDefined": false
+      },
+      {
+        "text": "ampliación de crédito",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "061be179-4ec2-4217-b826-dca5aca5bcb4",
+    "data": [
+      {
+        "text": "como le hago para sacar el ",
+        "userDefined": false
+      },
+      {
+        "text": "bachiller",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "281ff234-5c15-4084-a86e-cefde361cbed",
+    "data": [
+      {
+        "text": "Cuáles son los requisitos de la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca por promedio ponderado acumulativo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "320b48b7-6ef9-415e-b358-74208bb9f171",
+    "data": [
+      {
+        "text": "quiero tramitar mi ",
+        "userDefined": false
+      },
+      {
+        "text": "amplicrin de cridito",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "114f2463-1e8b-4eca-a4a2-a51fc85ceeb6",
+    "data": [
+      {
+        "text": "quiero trmitar la ",
+        "userDefined": false
+      },
+      {
+        "text": "reanudcion de estudios",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8036932b-1e15-4e5f-b6a8-74614360bc26",
+    "data": [
+      {
+        "text": "como le hago para tramitar ",
+        "userDefined": false
+      },
+      {
+        "text": "adecuacion",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b52c0fb5-dccd-4483-af8f-826a83152b28",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "reanudar estudios",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d572d3aa-c3ef-48ad-bf49-dfd236dfaaf8",
+    "data": [
+      {
+        "text": "solicito ",
+        "userDefined": false
+      },
+      {
+        "text": "adecuacion",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c970eede-e104-466b-a9fc-cf57418f7ba0",
+    "data": [
+      {
+        "text": "y como tramito ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cambio de nombres",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "62d7c834-90c4-4e5f-b8b9-d8a855d6a0be",
+    "data": [
+      {
+        "text": "cuales son los requisitos para el ",
+        "userDefined": false
+      },
+      {
+        "text": "constancia de no adeudo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "00d278e5-db1a-46ca-8ee3-bdd8bba13d7d",
+    "data": [
+      {
+        "text": "necesito solicitar el ",
+        "userDefined": false
+      },
+      {
+        "text": "recórd acacdémico",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66dd9d2a-8b44-473b-bbbd-6439aba6bc89",
+    "data": [
+      {
+        "text": "ahora si como consigo la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca por dicapacidad",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "66457b0e-96d7-46c6-876d-d9c7d89c36d8",
+    "data": [
+      {
+        "text": "cuales son los requistos para ",
+        "userDefined": false
+      },
+      {
+        "text": "constancia de no adeudo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0e1ca937-2fb6-4e3f-9a4e-ac261356f9cb",
+    "data": [
+      {
+        "text": "como tramito la ",
+        "userDefined": false
+      },
+      {
+        "text": "constancia de no adeudo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f19debfd-c44f-4146-83b9-6d0bc5cd21f2",
+    "data": [
+      {
+        "text": "requisitos para ",
+        "userDefined": false
+      },
+      {
+        "text": "constancia de no adeudo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e0b7b28c-5e5c-4b86-a015-d8bc5b089493",
+    "data": [
+      {
+        "text": "quiero tramitar ",
+        "userDefined": false
+      },
+      {
+        "text": "adecuacion",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "786d5a06-4a25-4bc6-9378-1d216c92180c",
+    "data": [
+      {
+        "text": "que necesito para ",
+        "userDefined": false
+      },
+      {
+        "text": "titularme",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3a4f2dde-a552-41ee-99f4-877956c63517",
+    "data": [
+      {
+        "text": "que necesito para tramitar la ",
+        "userDefined": false
+      },
+      {
+        "text": "constancia de no adeudo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

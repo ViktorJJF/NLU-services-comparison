@@ -1,0 +1,26 @@
+[
+  {
+    "id": "62a755ac-f8cd-43cc-a8dd-c2a975f878d7",
+    "data": [
+      {
+        "text": "indices y formatos de tesis pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbad6f80-9e60-4070-b5da-a4df97471d3a",
+    "data": [
+      {
+        "text": "indice_formato_pregrado_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "2b662b10-2c1d-4ffd-a92e-70c3ea8d067a",
+  "name": "POST-indices-formatos-tesis-pregrado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "➡ Forma y fondo del trabajo de investigación\nhttp://bit.ly/2qaCCTS\n➡ Formato de índices del proyecto de tesis y tesis\nhttp://bit.ly/2SiEmHG\n➡ Formato de carátulas\nhttp://bit.ly/2ArTLyE"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

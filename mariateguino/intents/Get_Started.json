@@ -1,0 +1,113 @@
+{
+  "id": "fb164678-b85f-420b-9a84-35c0bd135741",
+  "name": "Get_Started",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Get_Started-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "yes_getstarted_context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "Rilakkuma",
+          "subtitle": "Korilakkuma",
+          "imageUrl": "https://www.koi-nya.net/img/subidos_posts/2017/06/Rilakkuma-Series.jpg",
+          "buttons": [
+            {
+              "text": "Kiritori"
+            },
+            {
+              "text": "Rilakuma v2"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Que tal ! 😛 soy K! 😀😀 puedo responder tus dudas pero necesito que aceptes estos términos y condiciones 😏"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "K Bot",
+                      "image_url": "http://cdn-web.construccion.org/nosotros/imagenes/logo-ujcm.gif",
+                      "default_action": {
+                        "type": "web_url",
+                        "url": "https://www.ujcm.edu.pe"
+                      },
+                      "buttons": [
+                        {
+                          "type": "web_url",
+                          "url": "https://drive.google.com/file/d/1_Nnn1T4DqeDLoQy2trPFremmTx5Pj2_p/view?usp\u003dsharing",
+                          "title": "Leer Términos"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "¿Aceptas?",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Aceptar",
+                  "payload": "yes_getstarted_payload"
+                },
+                {
+                  "content_type": "text",
+                  "title": "Rechazar",
+                  "payload": "no_getstarted_payload"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

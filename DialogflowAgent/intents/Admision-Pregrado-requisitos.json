@@ -1,0 +1,64 @@
+{
+  "id": "4e486555-b9ac-49b2-9c2c-6be203e732c4",
+  "name": "Admision-Pregrado-requisitos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [
+        {
+          "name": "Admision-Pregrado-requisitos-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Admision-Pregrado-paso3-tipoexamen",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Admision-Pregrado-requisitos-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "¿Quieres averiguar sobre los requisitos para postular al proceso de admisión de Pregrado o Posgrado? 😃",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Pregrado",
+                  "payload": "admision_requisitos_pregrado"
+                },
+                {
+                  "content_type": "text",
+                  "title": "Posgrado",
+                  "payload": "admision_requisitos_posgrado"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

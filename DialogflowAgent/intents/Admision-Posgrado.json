@@ -1,0 +1,42 @@
+{
+  "id": "78f029c2-932d-447e-a65e-55cecfe4afd0",
+  "parentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "rootParentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision-Posgrado",
+  "auto": true,
+  "contexts": [
+    "Admision-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom",
+      "affectedContexts": [
+        {
+          "name": "Admision-Prosgrado-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "De momento toda la información que necesitas sobre Admisión para posgrado lo puedes encontrar aquí 😏https://www.ujcm.edu.pe/admision/examen-admisi%C3%B3n-posgrado. Te avisaré cuando tenga información del proceso de admisión 2019-I 🤗"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

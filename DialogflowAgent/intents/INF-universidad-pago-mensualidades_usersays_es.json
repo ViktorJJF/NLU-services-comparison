@@ -1,0 +1,168 @@
+[
+  {
+    "id": "38521924-e15a-49aa-a4ed-dc2c79fc4c25",
+    "data": [
+      {
+        "text": "cuanto se paga ",
+        "userDefined": false
+      },
+      {
+        "text": "por 11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2480aec-94aa-41ad-be22-d61c70d9c4ec",
+    "data": [
+      {
+        "text": "pagar ",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creditos de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38521924-e15a-49aa-a4ed-dc2c79fc4c25",
+    "data": [
+      {
+        "text": "cuanto se paga ",
+        "userDefined": false
+      },
+      {
+        "text": "por 11",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "774156e7-6fd8-401a-bbfc-d7e5e15713c7",
+    "data": [
+      {
+        "text": "Una",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " consulta cuanto esta la matricula y donde lo puedo pagar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a76b76a-5997-49b8-b534-66e01326b1ad",
+    "data": [
+      {
+        "text": "se puede pagar las pensiones en la oficina de caja en Kolping?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b8375e2a-0a2f-4ef3-b089-9ea1c004bdeb",
+    "data": [
+      {
+        "text": "cuales son las mensualidades",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "7f1d721d-38ac-46fc-90a9-6039f1559277",
+    "data": [
+      {
+        "text": "dime los costos de la matricula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "927485d3-2277-4301-805c-04a9b9775950",
+    "data": [
+      {
+        "text": "cuanto es el costo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01c2e85f-d296-459d-8229-6a59bf32c5bd",
+    "data": [
+      {
+        "text": "cuando es el pago mensual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abaa75f8-f1e1-430b-8334-2fd7a73d41cb",
+    "data": [
+      {
+        "text": "cuanto se paga mensualmente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38143bbe-0efc-421b-9999-551ff4d77181",
+    "data": [
+      {
+        "text": "cuanto es la mensualidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

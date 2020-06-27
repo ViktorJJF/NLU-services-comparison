@@ -1,0 +1,47 @@
+{
+  "id": "9e059961-34d5-4806-8d15-cd7e0f9d0183",
+  "name": "Admision-fechas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "¿quieres saber sobre el calendario de admisión de Pregrado o Posgrado? 😃",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Pregrado",
+                  "payload": "pregrado_admision_fecha_payload"
+                },
+                {
+                  "content_type": "text",
+                  "title": "Posgrado",
+                  "payload": "posgrado_admision_fecha_payload"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

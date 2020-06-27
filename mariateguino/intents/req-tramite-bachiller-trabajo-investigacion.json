@@ -1,0 +1,37 @@
+{
+  "id": "eedc0b48-7a4e-4821-84bb-c2ed9e8583ae",
+  "name": "req-tramite-bachiller-trabajo-investigacion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "si ya presentaste tu trabajo de investigación, estos son los requisitos"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅Acta de Trabajo Académico aprobada, en original.\n✅Copia autenticada de la Constancia de Egresado.\n✅Certificado de estudios original con el total de créditos del plan de estudios que le corresponde.\n✅Constancia de matrícula original de su primer ciclo de estudios en la Universidad.\n✅Recibo de pago original por concepto de otorgamiento del grado;\n✅Tres (03) fotografías de frente, tamaño pasaporte a colores y fondo blanco\n✅Copia legalizada de su DNI;\n✅Constancia económica original. \n✅Constancia de biblioteca original.\n✅Constancia de no adeudo a Laboratorio (excepto egresados de la Facultad de Ciencias Jurídicas Empresariales y Pedagógicas).\n✅Certificado de conocimiento de un idioma extranjero, de preferencia inglés o lengua nativa.\n✅Constancia de publicación del trabajo de investigación, en el repositorio institucional de la UJCM.\n✅Un (01) CD que contiene el trabajo de investigación en formato doc. y pdf, rotulado con los siguientes datos: UJCM, Facultad, Escuela profesional, título del trabajo de investigación, nombres y apellidos del graduando, Nº. DNI, lugar y año.\n✅Dos (02) fichas impresas generadas por el Sistema de Seguimiento al Egresado.\n✅Constancia de matrícula original del Instituto o Universidad de procedencia (debe indicar día, mes y año de su primera matricula, es decir, del primer semestre) para casos de convalidación y traslado externo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

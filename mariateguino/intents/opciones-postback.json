@@ -1,0 +1,158 @@
+{
+  "id": "b63194d3-1072-405b-928e-f12faf55c9c1",
+  "name": "opciones-postback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Si quieres puedes guiarte mediante estas opciones 😀"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "INVESTIGACIÓN PREGRADO",
+                      "image_url": "https://dl.dropboxusercontent.com/s/scpbbwa36a0dhaa/investigacion.jpg?dl\u003d0",
+                      "subtitle": "Guía en el proceso de obtención del grado de bachiller y título profesional",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Bachiller y titulación",
+                          "payload": "proceso_bach_titulo_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Índices y formatos",
+                          "payload": "indice_formato_pregrado_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Reglamento de grados y títulos",
+                          "payload": "manual_grados_titulos_payload"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "TRÁMITES PREGRADO",
+                      "image_url": "https://dl.dropboxusercontent.com/s/qu5412c0vs77sx6/tramites.jpg?dl\u003d0",
+                      "subtitle": "Puedes consultar el manual, ver tu trámite o preguntar sobre los requisitos",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Ver Manual Proc.",
+                          "payload": "manual_procedimientos_pre_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Seguimiento Trámites",
+                          "payload": "seguimiento_tramites_pre_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Requisitos Trámites",
+                          "payload": "requisitos_tramites_pre_payload"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "HORARIOS",
+                      "image_url": "https://dl.dropboxusercontent.com/s/zpor18496hnh6qm/horariosClases2.png?dl\u003d0",
+                      "subtitle": "Encuentre información sobre los horarios de clases Pregrado.",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Horarios Derecho",
+                          "payload": "horario_derecho_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Horario Contabilidad",
+                          "payload": "horario_contabilidad_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Más horarios",
+                          "payload": "mas_horarios_payload"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "INFORMACIÓN",
+                      "image_url": "https://dl.dropboxusercontent.com/s/4xzyqjjllkdj1jh/informacion.png?dl\u003d0",
+                      "subtitle": "Encuentre información sobre la UJCM Filial Tacna.",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Horario Atención",
+                          "payload": "schedule_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Direcciones",
+                          "payload": "address_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Teléfonos",
+                          "payload": "telephone_payload"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "ADMISIÓN 2019",
+                      "image_url": "https://dl.dropboxusercontent.com/s/vrclkf18x22in1j/admision2019.png?dl\u003d0",
+                      "subtitle": "Aún no se determinaron las fechas para admisión 2019-I",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "¿Cómo postular?",
+                          "payload": "postular_admision__payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Cronograma Admisión",
+                          "payload": "fechas_admision_payload"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "Carreras Disponibles",
+                          "payload": "carreras_admision_payload"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

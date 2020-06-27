@@ -1,0 +1,31 @@
+{
+  "id": "a3213e53-366d-4964-aebf-05cdb72c5363",
+  "name": "FAQ-Doctorados",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "recuerda que de momento solo se de pregrado 😅 lo que se es que no se están dictando doctorados en la UJCM Filial Tacna, solo maestrías y segundas especialidades. Si quieres más información puedes preguntarle a un operador humano 🤖"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

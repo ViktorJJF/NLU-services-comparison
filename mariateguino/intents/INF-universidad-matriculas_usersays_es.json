@@ -1,0 +1,140 @@
+[
+  {
+    "id": "ede09524-7358-43ca-9f8d-e2828a16d587",
+    "data": [
+      {
+        "text": "Cual ds el plazo para matricula especial?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d2bf880-843e-42d1-9211-f356fb5f2a5b",
+    "data": [
+      {
+        "text": "Buenas tardes cuando empiezas las matriculas o hadta cuando se pueden matricular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c1738c3c-e76c-43b5-bfc1-18bd3362b22f",
+    "data": [
+      {
+        "text": "hasta cuando me puiedo matricular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "ddf92735-a168-430a-ba61-8031a0b1c78c",
+    "data": [
+      {
+        "text": "HASTA CUANDO ",
+        "userDefined": false
+      },
+      {
+        "text": "HAY",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " PLAZO PARA MATRICULARSE .........BUEN DIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "2cd9e735-4816-48e6-a143-46544d663e29",
+    "data": [
+      {
+        "text": "buenas noches, hasta cuando me puedo matroicualar porfas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "06b132c0-a3bb-4b7d-a922-ea0a4ab55a6b",
+    "data": [
+      {
+        "text": "HASTA CUANDO HAY PLAZO PARA MATRICULARSE .........BUEN DIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52919fd0-85af-4843-96d6-1198cd5bae3f",
+    "data": [
+      {
+        "text": "ingresando a la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que hago para matricularme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a9b2600-99f7-467f-88f3-a263fe25c219",
+    "data": [
+      {
+        "text": "matriculas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b54801e4-1948-41de-bead-b455d6fc5e97",
+    "data": [
+      {
+        "text": "hasta cuando son las matriculas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc6d2ec5-e642-4f0e-95d5-f2cf940f4303",
+    "data": [
+      {
+        "text": "cuando son las matriculas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

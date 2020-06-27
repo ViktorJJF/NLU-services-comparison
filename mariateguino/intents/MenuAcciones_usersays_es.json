@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8fbd48ab-a250-43f6-abc7-f0e2b94a4acc",
+    "data": [
+      {
+        "text": "Informes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09a4c4eb-864b-4e78-9dee-31cd4eeed863",
+    "data": [
+      {
+        "text": "Me pueden atender o no?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f68029fa-a2d8-4f8b-a418-23d64e8f417e",
+    "data": [
+      {
+        "text": "informes por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e68c1c29-58eb-4e2a-9d15-1e289f404897",
+    "data": [
+      {
+        "text": "Buenos dias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

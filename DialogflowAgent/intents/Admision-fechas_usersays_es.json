@@ -1,0 +1,74 @@
+[
+  {
+    "id": "88906dd1-d803-4cbb-a837-1b85a92a8035",
+    "data": [
+      {
+        "text": "cuando es la admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eab4f2e6-f9a3-4cba-b9e2-56973d9bce7e",
+    "data": [
+      {
+        "text": "cuando es la fecha de admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9b1742ec-04e4-4069-8c47-537ccec62e57",
+    "data": [
+      {
+        "text": "fechas_admision_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64100f43-1203-4f2e-9e3d-d2a2726640d0",
+    "data": [
+      {
+        "text": "cuando es la fecha limite para inscripciones de admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b2ca76f-ba10-41b3-9b6a-ca23674ba6c2",
+    "data": [
+      {
+        "text": "hasta cuando puedo inscribirme para admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dbd4a05-4199-4e98-a3aa-5ac0b38e200a",
+    "data": [
+      {
+        "text": "cuando es el examen de admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

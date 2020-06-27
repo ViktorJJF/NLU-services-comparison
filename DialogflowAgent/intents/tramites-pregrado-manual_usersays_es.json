@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1c9bde6d-9541-43d1-80ab-0515d7fa24d9",
+    "data": [
+      {
+        "text": "manual_procedimientos_pre_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5564d69-badc-4ace-8893-ff0e7b3315b6",
+    "data": [
+      {
+        "text": "cual es el manual de procedimientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a514e563-da7c-4944-94a8-9ac3efc93281",
+    "data": [
+      {
+        "text": "dame el manual de procedimientos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c1070db-04de-4111-9d3b-523ff35e97d9",
+    "data": [
+      {
+        "text": "quiero el manual de procedimientos pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

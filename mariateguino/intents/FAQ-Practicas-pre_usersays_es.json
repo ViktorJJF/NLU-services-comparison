@@ -1,0 +1,47 @@
+[
+  {
+    "id": "63a689e1-0448-495c-b6d6-a310758a6db7",
+    "data": [
+      {
+        "text": "como ahgo mis practicas pre profesionales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ffec68d-44d8-482b-99b9-ee6cd7f5655d",
+    "data": [
+      {
+        "text": "que necesito para hacer mis practicas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aff55d67-1349-419f-a0f3-6152ff4c9492",
+    "data": [
+      {
+        "text": "quisiera ",
+        "userDefined": false
+      },
+      {
+        "text": "saber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " como puedo hacer mis practicas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

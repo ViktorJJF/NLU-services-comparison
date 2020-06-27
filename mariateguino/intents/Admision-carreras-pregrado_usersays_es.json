@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ef92e466-f4f2-4abb-8fab-e3aff7a49a47",
+    "data": [
+      {
+        "text": "Buenas quisiera informacion sobre las carreras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "155a60de-a5de-4464-ba75-7fe02a02b14a",
+    "data": [
+      {
+        "text": "quisiera informacion sobre las carreras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f8d7dc61-61f8-4488-a2d9-b20a0f4d7560",
+    "data": [
+      {
+        "text": "hay la carrera de educación inicial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4218016e-294d-458a-8f06-c943d26b4eff",
+    "data": [
+      {
+        "text": "informacion carreras pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "346afc3a-d456-448a-9174-e445703b91bf",
+    "data": [
+      {
+        "text": "carreras pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12ba1159-5e3e-4d7f-a1c1-0fa354d2d1bf",
+    "data": [
+      {
+        "text": "que carreras tienen disponibles esta admision de pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2b4f12d-6ffc-439a-81a7-98254e76455c",
+    "data": [
+      {
+        "text": "que carreras tienen disponibles para pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b57b0b8-98a4-4e3a-912c-31b76928eb5a",
+    "data": [
+      {
+        "text": "admision_carrera_pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

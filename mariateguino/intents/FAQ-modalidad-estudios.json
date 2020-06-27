@@ -1,0 +1,37 @@
+{
+  "id": "3ff2b512-318d-4573-a2dd-91a394ca929f",
+  "name": "FAQ-modalidad-estudios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "en la UJCM Filial Tacna solo tenemos las modalidades presencial y semipresencial 😁"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "☑la modalidad presencial significa realizar las labores académicas de manera normal\n☑ la modalidad semi-presencial es realizar las labores académicas de manera intercalada, es decir una semana sí, otro semana no ☝"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

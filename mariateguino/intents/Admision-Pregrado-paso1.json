@@ -1,0 +1,66 @@
+{
+  "id": "8522ce97-649a-4ed1-a3dc-6597998aae0b",
+  "parentId": "3e32e15e-20e3-40ab-93ff-636611b604dc",
+  "rootParentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision-Pregrado-paso1",
+  "auto": true,
+  "contexts": [
+    "Admision-Pregrado-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Para cumplir el paso 1 debes hacer esto 😀"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "✅ Ingresa aquí:",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Sistema ERP",
+                      "url": "http://erpeduca.ujcm.edu.pe/admision/proceso/InscripcionPostulante/ingresoExterno/inscripcionPostulanteExterno/universidad",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ Haz click en iniciar inscripción y llena la ficha de inscripción que aparece en pantalla\n✅ Imprime la ficha de inscripción\n☑ Si quieres pasar al siguiente paso escribe \"Paso 2\" o bien hazme una pregunta abierta de este tema"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

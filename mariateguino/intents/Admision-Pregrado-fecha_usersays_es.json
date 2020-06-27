@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b90e13fc-fa7c-484a-a255-aa5dc96ab8c7",
+    "data": [
+      {
+        "text": "fecha de admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dda27d94-33cc-4729-b7d9-dd9fe15054b2",
+    "data": [
+      {
+        "text": "cuando es el examen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22b8173f-6d5c-4f6c-896d-2318f5a8665e",
+    "data": [
+      {
+        "text": "hasta cuando puedo postular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c869264d-d300-44fc-8345-a62c4b5e31af",
+    "data": [
+      {
+        "text": "cuando es la admision de pregrado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2044ff2-030e-4617-8da8-ec7fb4e741e4",
+    "data": [
+      {
+        "text": "cuando es la admision?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "225f7a48-d328-4681-b625-a3772745a603",
+    "data": [
+      {
+        "text": "hasta cuando se puede postular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

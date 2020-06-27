@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01fe1307-8cb8-4278-a285-c665e1884e3d",
+    "data": [
+      {
+        "text": "administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99f10a26-4e43-424d-91c7-1012abd18c57",
+    "data": [
+      {
+        "text": "ingenieria comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9700ba8e-010c-46df-9196-dfec7d6c27a7",
+    "data": [
+      {
+        "text": "educacion inial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0bc4ec8-5dbf-4c30-bd60-01237ecb86f7",
+    "data": [
+      {
+        "text": "educacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bee3cf4-d81d-4352-900f-7961e4ccda27",
+    "data": [
+      {
+        "text": "educacion fisica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

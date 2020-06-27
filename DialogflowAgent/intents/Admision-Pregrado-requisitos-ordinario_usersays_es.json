@@ -1,0 +1,62 @@
+[
+  {
+    "id": "44383a08-9689-40a9-ae6c-1b1a8653c5b3",
+    "data": [
+      {
+        "text": "y que necesito para dar el examen de admision ordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40c18b16-7f8e-415e-b794-bff564bbc633",
+    "data": [
+      {
+        "text": "cuales son los requisitos del examen ordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b61e0dd4-965c-47e4-a821-eed52fa67baa",
+    "data": [
+      {
+        "text": "ordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f4bee53-6df1-4ff0-86ce-a20a70dc71e6",
+    "data": [
+      {
+        "text": "requisitos del examen de admision ordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14ac0ee2-b0ff-41cb-ada5-940edafa34a3",
+    "data": [
+      {
+        "text": "ordinario_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

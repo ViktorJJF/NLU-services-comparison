@@ -1,0 +1,195 @@
+[
+  {
+    "id": "96918f8d-b015-4587-8b03-eef30a674118",
+    "data": [
+      {
+        "text": "hola que tal, donde los puedo ubicar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8c4ca34-5683-4351-8619-d181c71d11d1",
+    "data": [
+      {
+        "text": "Hola, ubicación filial ",
+        "userDefined": false
+      },
+      {
+        "text": "tacna",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ac76281-ee91-44f3-9d81-f5d263ee4a40",
+    "data": [
+      {
+        "text": "Una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " consulta sonde esta ubicado ahora la univercidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "9b983296-c0ba-4929-a18f-eab766ed4576",
+    "data": [
+      {
+        "text": "donde queda exactamente las oficinas de la ujcm filial ",
+        "userDefined": false
+      },
+      {
+        "text": "tacna",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "a99c3fd4-a006-42b4-9965-542456702bbb",
+    "data": [
+      {
+        "text": "La dirección exacta de la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "a3882361-68cb-4670-86ae-9cd2a60c842f",
+    "data": [
+      {
+        "text": "Me dio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dirección para más información, coronel ",
+        "userDefined": false
+      },
+      {
+        "text": "vidal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6fa9015-e318-4846-bebf-6930b4f8d43a",
+    "data": [
+      {
+        "text": "y donde queda kolping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "065df43f-32ae-47bc-9bc5-de5717245a62",
+    "data": [
+      {
+        "text": "Dame dirección de la u",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "a531ef22-d1c6-4612-b68b-fd8f45d70dc9",
+    "data": [
+      {
+        "text": " a donde puedo ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11d8b416-4a48-481a-a9bd-9e9961067e31",
+    "data": [
+      {
+        "text": "cuales es su direcciona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90836ce8-779b-401b-a6f5-b928fc47c9a4",
+    "data": [
+      {
+        "text": "donde estan ubicados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe293da3-1f15-47f8-87b8-3d4802d28345",
+    "data": [
+      {
+        "text": "direcciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

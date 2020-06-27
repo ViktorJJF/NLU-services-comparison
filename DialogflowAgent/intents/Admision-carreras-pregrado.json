@@ -1,0 +1,61 @@
+{
+  "id": "7c433704-ec69-4c3a-819b-23dc9ab68d22",
+  "name": "Admision-carreras-pregrado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Para el proceso de admisión 2019-I UJCM Filial Tacna tendremos disponibles las carreras de Contabilidad y Derecho"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "Para ver más información escoge una opción",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Contabilidad",
+                      "url": "https://www.ujcm.edu.pe/perfil-de-la-cpc",
+                      "webview_height_ratio": "tall"
+                    },
+                    {
+                      "type": "web_url",
+                      "title": "Derecho",
+                      "url": "https://www.ujcm.edu.pe/perfil-de-la-cpd",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

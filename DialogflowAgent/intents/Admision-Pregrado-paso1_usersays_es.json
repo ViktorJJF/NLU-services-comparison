@@ -1,0 +1,50 @@
+[
+  {
+    "id": "137f0fb7-785a-4095-87df-307916ed601b",
+    "data": [
+      {
+        "text": "paso1_pre_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee299d4b-d1be-490b-9a22-312d1425c89d",
+    "data": [
+      {
+        "text": "como postulo a la ujcm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28dde9ba-43e4-4764-bb56-af59d8e4e5cc",
+    "data": [
+      {
+        "text": "que necesito para postular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29830414-08d0-4e7a-891a-aa81bb403713",
+    "data": [
+      {
+        "text": "quisiera postular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

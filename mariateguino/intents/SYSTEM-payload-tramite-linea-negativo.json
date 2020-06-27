@@ -1,0 +1,35 @@
+{
+  "id": "ecbd5898-34ad-475d-9f07-dd844d8bc7a1",
+  "name": "SYSTEM-payload-tramite-linea-negativo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "esta bien 😀 será para la próxima",
+            "bueno, si quieres tramitar después solo pregúntame de nuevo 😀",
+            "esta bien, parece que solo querías saber los requisitos de este trámite 🤐"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3ca6d809-5020-4ec6-aa19-a53db89f556a",
+    "data": [
+      {
+        "text": "listado de docentes de psicologia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80fc4da9-b2b3-4fc9-bddf-9fd84d28f039",
+    "data": [
+      {
+        "text": "escuela de psicologia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7beda97-4bf1-4019-b87e-1f481015a839",
+    "data": [
+      {
+        "text": "soy de psicologia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e38b21e-6396-4d0a-9eac-46f570a515bc",
+    "data": [
+      {
+        "text": "psicologia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

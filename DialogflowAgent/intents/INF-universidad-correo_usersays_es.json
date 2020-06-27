@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dc2e276d-cf29-46f8-9556-70154364dbb6",
+    "data": [
+      {
+        "text": "a que correo puedo escribir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bccd80d2-b705-47bf-9a75-8138d1beefec",
+    "data": [
+      {
+        "text": "a que correo puedo pedir informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2df7989-a9e0-4ba3-a803-e1106266e311",
+    "data": [
+      {
+        "text": "correos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "543585d1-6d62-4c9f-b9c8-19341528544c",
+    "data": [
+      {
+        "text": "gmail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c5697f3-2df8-4440-b999-8256b2850fa6",
+    "data": [
+      {
+        "text": "correo electronico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53f90b38-542e-45fd-992e-2f593b021fb0",
+    "data": [
+      {
+        "text": "cual es el correo de la U?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

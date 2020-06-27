@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e04115cd-6707-4bf6-b527-25455a70e9ca",
+    "data": [
+      {
+        "text": "examen de admision extraordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be7102c8-8ad8-4e17-aa16-fc07e9a75c10",
+    "data": [
+      {
+        "text": "que necesito para el examen de admision extraordinario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fc83275-84e5-456f-98a0-4b88df4cc1b2",
+    "data": [
+      {
+        "text": "cuales son los requisitos del examen de admision extraordionario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "237ee04c-f1c0-4192-b651-c9e9096cd014",
+    "data": [
+      {
+        "text": "extraordinario_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

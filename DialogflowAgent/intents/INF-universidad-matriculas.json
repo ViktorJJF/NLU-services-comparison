@@ -1,0 +1,49 @@
+{
+  "id": "2b7c1f91-021a-4b6c-950c-506be924e136",
+  "name": "INF-universidad-matriculas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Esto es lo que encontré 😀"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ Las Matrículas son del 06 al 17 de Agosto del 2018 (ampliado hasta el 27 de Agosto)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ Las Matrículas Extemporáneas son del 20 de Agosto al 03 de Setiembre del 2018 (Ampliado hasta el 14 de Septiembre)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aún tienes plazo hasta el 14 de este mes pero no esperes a última hora!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

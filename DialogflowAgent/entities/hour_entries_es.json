@@ -1,0 +1,20 @@
+[
+  {
+    "value": "de la mañana",
+    "synonyms": [
+      "a la mañana",
+      "am",
+      "de la mañana",
+      "por la mañana"
+    ]
+  },
+  {
+    "value": "de la tarde",
+    "synonyms": [
+      "a la tarde",
+      "de la tarde",
+      "pm",
+      "por la tarde"
+    ]
+  }
+]

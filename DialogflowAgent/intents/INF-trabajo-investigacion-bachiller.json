@@ -1,0 +1,43 @@
+{
+  "id": "e73055d3-6e3d-4648-b492-00102d61c43c",
+  "name": "INF-trabajo-investigacion-bachiller",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Puede ser de dos tipos trabajo de investigación teórica individual o investigación aplicada, este último con un limite máximo de cinco (5) estudiantes, dependiendo de la complejidad de la investigación y evaluado por el Jefe de la Unidad de Investigación de la Facultad o Filial."
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Un trabajo de investigación puede ser: investigación descriptiva, investigación aplicada, estudio de pre factibilidad, proyecto de arquitectura, diseños de prototipos según la especialidad, plan de negocios. Para estudiantes de derecho también pueden ser análisis de jurisprudencia en una de las áreas del derecho."
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "El (los) graduandos una vez concluido el trabajado de investigación, el informe final es presentado a la Unidad de investigación de la facultad o al Director de investigación de la Filial, adjuntado el recibo de pago por derecho de revisión, el mismo que se deriva al coordinador de investigación de la escuela profesional, quien revisa las políticas anti plagio, si él informe contiene más del 40% de similitud, reporta al estudiante para su corrección y reenvío. Las correcciones se deben realizar un plazo máximo de 15 días."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

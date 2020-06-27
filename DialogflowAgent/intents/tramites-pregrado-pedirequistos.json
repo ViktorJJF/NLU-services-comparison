@@ -1,0 +1,41 @@
+{
+  "id": "ee3ed1dd-0cf0-4386-98a1-47d65737e2a2",
+  "name": "tramites-pregrado-pedirequistos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "¿en qué trámite te puedo ayudar?",
+            "¿Sobre qué trámite quieres saber?",
+            "Dime, los requisitos de qué trámite quieres averiguar"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "☑ Escribe algo como esto: \"cuales son los requisitos de la constancia de egresado\" 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

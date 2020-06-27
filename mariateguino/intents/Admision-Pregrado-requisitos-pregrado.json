@@ -1,0 +1,54 @@
+{
+  "id": "36e92509-c5c4-4e78-9b79-3b6d34f25fb3",
+  "parentId": "4e486555-b9ac-49b2-9c2c-6be203e732c4",
+  "rootParentId": "4e486555-b9ac-49b2-9c2c-6be203e732c4",
+  "name": "Admision-Pregrado-requisitos-pregrado",
+  "auto": true,
+  "contexts": [
+    "Admision-Pregrado-requisitos-followup",
+    "Admision-Pregrado-paso3-tipoexamen",
+    "Admision-Pregrado-requisitos-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision-Pregrado-requisitos.Admision-Pregrado-requisitos-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "¿quieres postular mediante el examen ordinario o extraordinario de Pregrado? 😃",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Ordinario",
+                  "payload": "ordinario_payload"
+                },
+                {
+                  "content_type": "text",
+                  "title": "Extraordinario",
+                  "payload": "extraordinario_payload"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

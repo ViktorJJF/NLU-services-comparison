@@ -1,0 +1,31 @@
+[
+  {
+    "id": "cfe23f0b-19ce-40ab-9ff4-cd2ce11c5957",
+    "data": [
+      {
+        "text": "tengo bachiller automatico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e58334d-fcc8-4279-a9ef-f9fef6f99ed9",
+    "data": [
+      {
+        "text": "Bachiller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " automático o presentación de tesis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

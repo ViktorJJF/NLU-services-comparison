@@ -1,0 +1,59 @@
+{
+  "id": "87b5277d-a3a2-47c5-9dd7-c85c584615b5",
+  "parentId": "fb164678-b85f-420b-9a84-35c0bd135741",
+  "rootParentId": "fb164678-b85f-420b-9a84-35c0bd135741",
+  "name": "Get_Started - no",
+  "auto": true,
+  "contexts": [
+    "Get_Started-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Get_Started.Get_Started-no",
+      "affectedContexts": [
+        {
+          "name": "yes_getstarted_context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Por favor, si quieres que te brinde mis servicios debes aceptar los términos y condiciones"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "¿Aceptas?",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Aceptar",
+                  "payload": "yes_getstarted_payload"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

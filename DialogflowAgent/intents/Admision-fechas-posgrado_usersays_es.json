@@ -1,0 +1,62 @@
+[
+  {
+    "id": "262b320f-67b7-468c-a543-fd6c8a92da52",
+    "data": [
+      {
+        "text": "cuando es la admision en posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc40115a-bc37-4207-b0d6-491d0cfcc291",
+    "data": [
+      {
+        "text": "que dia es el examen de admision de posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81037458-9062-496f-ad8e-376110139918",
+    "data": [
+      {
+        "text": "fecha del examen de admision de posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75937fd6-6d9a-4582-ba17-0721e570b18c",
+    "data": [
+      {
+        "text": "cuando es el examen de admision de posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcf3f7af-4771-45a6-9da9-53bb7027836e",
+    "data": [
+      {
+        "text": "posgrado_admision_fecha_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

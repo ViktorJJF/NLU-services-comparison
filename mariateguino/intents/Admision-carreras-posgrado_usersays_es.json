@@ -1,0 +1,285 @@
+[
+  {
+    "id": "364a2c78-b53e-4802-b3dd-5f4ab5df449d",
+    "data": [
+      {
+        "text": "quiero informacion sobre las maestrias en derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd60a3a7-ddd6-43c0-b7f2-89cd820abb9b",
+    "data": [
+      {
+        "text": "Todavía no hay grupo para la segunda espacialidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "80a98b8f-bbbe-486c-8a91-5df4d0c3025c",
+    "data": [
+      {
+        "text": "Todavía no hay grupo para la segunda especialidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "be78609c-fbd7-4868-9696-33e8db7b23f5",
+    "data": [
+      {
+        "text": "DISCULPE ",
+        "userDefined": false
+      },
+      {
+        "text": "LA SEGUNDA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ESPECIALIDAD PARA EDUCACION FISICA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "68bd1015-c99f-43a8-97d2-2c108c6c2d33",
+    "data": [
+      {
+        "text": "Buenas noches ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " consulta quisiera saber si ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " alguna maestría por comenzar ahora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "e0afb59d-fa15-4941-a318-210acbebb85f",
+    "data": [
+      {
+        "text": "Buenas tardes necesito informe para la maestria en educación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "6eec8028-4d73-4c28-b800-7bcd90338d96",
+    "data": [
+      {
+        "text": "Todavía no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " grupo ",
+        "userDefined": false
+      },
+      {
+        "text": "para la segunda",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " espacialidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d37c60d4-f7c8-4bd9-8bbd-7cdc44c33d02",
+    "data": [
+      {
+        "text": "Todavía no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " grupo ",
+        "userDefined": false
+      },
+      {
+        "text": "para la segunda",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " especialidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6eec8028-4d73-4c28-b800-7bcd90338d96",
+    "data": [
+      {
+        "text": "Todavía no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " grupo ",
+        "userDefined": false
+      },
+      {
+        "text": "para la segunda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " espacialidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d37c60d4-f7c8-4bd9-8bbd-7cdc44c33d02",
+    "data": [
+      {
+        "text": "Todavía no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " grupo ",
+        "userDefined": false
+      },
+      {
+        "text": "para la segunda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " especialidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d7367b2-efa8-4876-ac06-7ae91634513a",
+    "data": [
+      {
+        "text": "informacion de las segundas especialidades",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44f55065-e60b-4bca-984a-7d593b686857",
+    "data": [
+      {
+        "text": "informacion de las maestrias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64af44cd-e22c-4be9-8f7e-c41a0813b392",
+    "data": [
+      {
+        "text": "informacion de las carreras de posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f94c7f3f-f100-4309-ad36-be18ad1d16e1",
+    "data": [
+      {
+        "text": "carreras de posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0acdeba9-800f-489a-96f5-075dd7d43749",
+    "data": [
+      {
+        "text": "admision_carrera_posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

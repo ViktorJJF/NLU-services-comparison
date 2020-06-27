@@ -1,0 +1,52 @@
+[
+  {
+    "id": "adacccdc-2b7a-4fc4-8a96-b4c5df3c8a59",
+    "data": [
+      {
+        "text": "como",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a35a3d46-1395-48b5-aba1-626cdc1dcd41",
+    "data": [
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5574eaa5-cbc6-4ac9-a421-e561af41df7f",
+    "data": [
+      {
+        "text": "quiero hacerte ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

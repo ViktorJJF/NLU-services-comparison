@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1068e6d3-019b-42d7-889b-76383e44cdf2",
+    "data": [
+      {
+        "text": "inicio de clases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "315976d3-701f-4e79-aa7e-55e1417a8423",
+    "data": [
+      {
+        "text": "que dia empiezan las clases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8854e600-c987-478e-94cc-1cab65c92070",
+    "data": [
+      {
+        "text": "cuando empiezan las clases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "9ad28d62-6036-411f-a899-5fa1a48001d6",
+    "data": [
+      {
+        "text": "Quiero saber si ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " horario turno ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " para la carrera de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c85cfa7-26b7-4ef2-8902-aa161d9ccced",
+    "data": [
+      {
+        "text": "dime los horarios de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5d95928-b806-48ed-8cda-60d41bcdcc78",
+    "data": [
+      {
+        "text": "dime los horarios de clase de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94fe30f0-089f-4230-ad08-cd6170ca77cb",
+    "data": [
+      {
+        "text": "horario de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0484a248-3bb9-417e-a4d8-6c56457ecd19",
+    "data": [
+      {
+        "text": "horario_derecho_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9cb377b-bd50-4609-b537-aef52f8cf7b8",
+    "data": [
+      {
+        "text": "cual es el horario de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2c20a9f-937a-4d6a-8642-8b13f9f9048b",
+    "data": [
+      {
+        "text": "horario de clases de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

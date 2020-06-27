@@ -1,0 +1,49 @@
+{
+  "id": "0b8d3983-d7ee-4d20-8853-cf1b039fd64d",
+  "name": "HORARIO-CLASES-edu-admi-comer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "haz click en el botón \u0027Ver Horarios\u0027 para ver los horarios de educación, administración e ingeniería comercial 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Ver Horarios",
+                      "url": "https://drive.google.com/file/d/1EibRg6nC3xOetdStyPVFpnfVN9Wlcz3x/view",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

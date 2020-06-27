@@ -1,0 +1,108 @@
+[
+  {
+    "id": "4a6fae46-195d-4561-b0bf-b8262309af6a",
+    "data": [
+      {
+        "text": "Docentes contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ef3c1d2-5dd2-4c57-99b0-abff12cbffcd",
+    "data": [
+      {
+        "text": "docentes derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "03026c61-d6ce-4f25-bfb3-01ea826c1dc2",
+    "data": [
+      {
+        "text": "profesores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12e08403-9959-4230-919a-eb383642df4e",
+    "data": [
+      {
+        "text": "docentes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e5d9aa6-2b4c-4afd-ad50-058491fdf7ee",
+    "data": [
+      {
+        "text": "que profesores ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f112d12-2da9-4ecc-b222-5dd1ead90f29",
+    "data": [
+      {
+        "text": "que docentes enseñan este ciclo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dabbbb2-f325-4eba-8528-ffb13a33b75e",
+    "data": [
+      {
+        "text": "listado de docentes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "577916dd-139b-4a51-b703-eca4e3fa0d2a",
+    "data": [
+      {
+        "text": "que docentes ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

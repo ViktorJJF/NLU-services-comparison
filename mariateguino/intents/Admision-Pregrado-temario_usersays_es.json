@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e4bd6d5c-fe79-4c7b-8e48-99bc2d745aaf",
+    "data": [
+      {
+        "text": "temario_admision_pregrado_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddc647c2-b1b6-48c6-8e51-032a4042fe5a",
+    "data": [
+      {
+        "text": "que tengo que estudiar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "487bf582-0220-48ee-a6d6-5732a671b08c",
+    "data": [
+      {
+        "text": "que temas vendran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92948844-e49b-4621-acbd-43e160925fbe",
+    "data": [
+      {
+        "text": "cual es le temario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd9720f2-121f-432d-b5b7-924bf08872e3",
+    "data": [
+      {
+        "text": "que temas vendran en el examen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

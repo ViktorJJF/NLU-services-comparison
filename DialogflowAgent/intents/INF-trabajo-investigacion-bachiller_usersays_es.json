@@ -1,0 +1,55 @@
+[
+  {
+    "id": "7ce0c0a5-c963-4d92-895d-88fd6fb31f2c",
+    "data": [
+      {
+        "text": "y si no presente mi trabajo de investigacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bf63552-6037-4bf7-ad99-fd845bc65010",
+    "data": [
+      {
+        "text": "como hago el trabajo de investigacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31499e40-8d55-4b9e-b980-2cbf0aaf5ea0",
+    "data": [
+      {
+        "text": "trabajo de investigacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d7a8609-8150-42f0-9021-6470bbe00728",
+    "data": [
+      {
+        "text": "trabajo de investigacion de ",
+        "userDefined": false
+      },
+      {
+        "text": "bachiller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

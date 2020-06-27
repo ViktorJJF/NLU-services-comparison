@@ -1,0 +1,53 @@
+[
+  {
+    "id": "20410b5f-685b-4f43-b907-c8bc9094d876",
+    "data": [
+      {
+        "text": "quien me da la ",
+        "userDefined": false
+      },
+      {
+        "text": "proforma academica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e0ddb3f-c7ea-4c94-aace-db36d79bd701",
+    "data": [
+      {
+        "text": "como consigo la ",
+        "userDefined": false
+      },
+      {
+        "text": "proforma  academica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0c741a3-21e0-4436-955b-d961a98270f6",
+    "data": [
+      {
+        "text": "donde consigo la ",
+        "userDefined": false
+      },
+      {
+        "text": "proforma academica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

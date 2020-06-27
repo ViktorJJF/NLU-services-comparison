@@ -1,0 +1,31 @@
+{
+  "id": "0aa1bd2a-8592-4222-be58-7aa6223cca78",
+  "name": "FAQ-feriados",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "seguramente en la página Oficial de la UJCM Filial Tacna se estará avisando a los estudiantes sobre eso, estate atento 😁"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

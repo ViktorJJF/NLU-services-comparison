@@ -1,0 +1,38 @@
+{
+  "id": "57e4700f-c93a-42b6-a0c2-44218607daf7",
+  "name": "Admision-Pregrado-requisitos-extraordinario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom.Admision-Pregrado-requisitos-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Estos son los requisitos que encontré para el examen extraordinario 😀"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅Partida de Nacimiento original\n✅Fotocopia legalizada de DNI\n✅04 Fotos recientes, de frente, a color, tamaño carné, con fondo blanco y sin lentes\n✅Comprobante de pago por derecho de Admisión\n✅Copia de Título Profesional fedateado por la universidad o instituto superior de origen\n✅Certificado de Estudios originales de la universidad o instituto superior de origen\n✅Sílabos sellados y visados por el instituto superior de origen o universidad para la convalidación que solicite"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

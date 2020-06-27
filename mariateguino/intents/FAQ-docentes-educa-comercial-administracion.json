@@ -1,0 +1,42 @@
+{
+  "id": "c18823ce-a65c-42af-9f0c-75e03790e58b",
+  "parentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "rootParentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "name": "FAQ-docentes-educa-comercial-administracion",
+  "auto": true,
+  "contexts": [
+    "FAQ-docentes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ-docentes.FAQ-docentes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "estos son los docentes que encontré, enseñan en Educación, Ing. Comercial y Administración"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "☑ Gricely Quispe\n☑ Sharon Villegas\n☑ Hugo Carrillo\n☑ Oscar Jimenez\n☑ Rogelio Chucuya\n☑ Albina Tejada\n☑ José Franco\n☑ Aureliano Quiñonez\n☑ Ruben Laquita\n☑. Maixa Vargas\n☑ Edwin Gomez"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

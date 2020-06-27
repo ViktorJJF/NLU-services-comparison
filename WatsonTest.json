@@ -1,0 +1,4796 @@
+{
+  "name": "WatsonTest",
+  "created": "2020-06-14T06:13:54.2017934Z",
+  "updated": "2020-06-14T06:13:54.2017934Z",
+  "intents": [
+    {
+      "intent": "faq-becas-disponibles",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Como hago para acceder a una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "becas disponibles"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "solicitud de beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "buenas, cuales son los requisitos para solicitar una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "saludos quisiera saber cual es el procedimiento para solicitar beca mi persona tiene un promedio de 17.60"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos para tramitar una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos para solicitar beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para tramitar una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas , cuales son los requisitos para solicitar una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como tramito una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos de becas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero tramitar una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos para solicitar una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "becas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que becas tienen"
+        }
+      ]
+    },
+    {
+      "intent": "faq-feriados",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Hay clases en la Universidad hoy viernes 14?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Quisiera saber, si hoy la atención es normal, en las oficinas?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "muy buenas tardes , quisiera preguntarle si esque habra clases hoy dia ?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hoy hay clases normales?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "feriados"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "habra clases normales?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Este sábado 26 las clases será normales?"
+        }
+      ]
+    },
+    {
+      "intent": "horario-clases-edu-admi-comer",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Cursos de administracion y marketing estratégico vl ciclo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de eduacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de educacion inicial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de educacion fisica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de educacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de ciencias administrativas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de educacion inicial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de educacion fisica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de educacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el horario de administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el horario de ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el horario de educacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de educacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de administracion"
+        }
+      ]
+    },
+    {
+      "intent": "admision-fechas-posgrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es la admision en posgrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que dia es el examen de admision de posgrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "fecha del examen de admision de posgrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es el examen de admision de posgrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "posgrado_admision_fecha_payload"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-correo",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a que correo puedo escribir"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a que correo puedo pedir informacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "correos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "gmail"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "correo electronico"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el correo de la U?"
+        }
+      ]
+    },
+    {
+      "intent": "horario-clases-contabilidad",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario_contabilidad_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el horario de derecho"
+        }
+      ]
+    },
+    {
+      "intent": "tramite-grado-bachiller-desde-0",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero tramitar el bachiller desde 0"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero tramitar el bachiller desde cero"
+        }
+      ]
+    },
+    {
+      "intent": "post-proceso-tesis",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Reglamentos para tesis"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tesis"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion del proceso de tesis"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "proceso de tesis"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "proceso_tesis_payload"
+        }
+      ]
+    },
+    {
+      "intent": "horario-clases-psicologia",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de psicología"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el horario de psicología"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de psicología"
+        }
+      ]
+    },
+    {
+      "intent": "faq-protitulo",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion sobre el curso pro titulo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "curso de actualizacion pro titulo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "curso pro titulo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "necesito saber las sobre el curso de pro titulo de la carrera de contabilidad"
+        }
+      ]
+    },
+    {
+      "intent": "tramites-pregrado-manual",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "manual_procedimientos_pre_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el manual de procedimientos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dame el manual de procedimientos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero el manual de procedimientos pregrado"
+        }
+      ]
+    },
+    {
+      "intent": "post-indices-formatos-tesis-pregrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "indices y formatos de tesis pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "indice_formato_pregrado_payload"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-matriculas",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Cual ds el plazo para matricula especial?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas tardes cuando empiezas las matriculas o hadta cuando se pueden matricular?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando me puiedo matricular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "HASTA CUANDO HAY PLAZO PARA MATRICULARSE .........BUEN DIA"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "buenas noches, hasta cuando me puedo matroicualar porfas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ingresando a la universidad que hago para matricularme"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "matriculas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando son las matriculas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando son las matriculas"
+        }
+      ]
+    },
+    {
+      "intent": "faq-estudios-distancia",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como puedo estudiar a distancia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de carreras a distancia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "estudios a distancia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tienen carreras a distancia?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "se puede estudiar a distancia?"
+        }
+      ]
+    },
+    {
+      "intent": "admision-carreras",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "La carrera de educación en computacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "buenas, una consulta es universidad en tacna con cuantas carreras cuenta y cuales son"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "carreras"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que carreras tienen?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "info de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "carreras_admision_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que carreras tienen disponibles"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que carreras hay para postular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a que carreras puedo postular"
+        }
+      ]
+    },
+    {
+      "intent": "idirectorio",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numero de secretaria general"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numero del rectorado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numero de la facultad de ingenieria"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numero de la escuela de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numero de la escuela de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numeros telefonicos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Directorio"
+        }
+      ]
+    },
+    {
+      "intent": "horario-clases-derecho",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Quiero saber si hay horario turno mañana para la carrera de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios de clase de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario_derecho_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el horario de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "horario de clases de derecho"
+        }
+      ]
+    },
+    {
+      "intent": "faq-modalidad-estudios",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Bienos dias me podria brindar informacion  sobre la univercidad si hay a distancia o semiprwcenciasl y la mensualidades ppr favor"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Semipresencial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tienen modalidad a distancia?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que modalidades de estudios disponibles tienen"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "modalidad de estudios"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que modalidades de estudio tienen?"
+        }
+      ]
+    },
+    {
+      "intent": "post-reglamento-grados-titulos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "reglamento de grados y titulos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "manual_grados_titulos_payload"
+        }
+      ]
+    },
+    {
+      "intent": "faq-lugar-clases",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde seran las clases para administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde seran las clases para ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Donde son las clases de contabilidad en Tacna?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde seran las clases este 2018-II"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde seran las clases para los de derecho?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde seran las clases para los de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Dónde se van a realizar las clases éste semestre 2018 II para los de derecho....?"
+        }
+      ]
+    },
+    {
+      "intent": "faq-creditos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuantos creditos se puede llevar?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "creditos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "creditos de la escuela"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cantidad maxima de creditos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuantos creditos puedo llevar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuantos creditos puedo llevar por semestre?"
+        }
+      ]
+    },
+    {
+      "intent": "faq-preguntas",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "una consulta"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero hacerte una pregunta"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-horario-atencion",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Asi tambien indicar su horario de atención, gracias"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenos días, por favor los horarios de atención para ir a recoger el Carnet. Muchas gracias."
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "atienen domingos?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "atienen los domingos?",
+          "mentions": [
+            {
+              "entity": "day",
+              "location": [
+                12,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta que hora atienden los sabados",
+          "mentions": [
+            {
+              "entity": "day",
+              "location": [
+                28,
+                34
+              ]
+            }
+          ]
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Hasta q hora funciona la caja de la u?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a que hora estan disponibles"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los horarios"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dame los horarios de atencion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "schedule_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Dame horarios"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a que hora atienden en la mañana"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a que hora atienden por la tarde"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el horario de atencion de la u"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "en que horarios atienden"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-requisitos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos para postular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos para postular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "los requisitos de admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que tramites necesito hacer para postular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que requisitos necesito para postular al examen ordinario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que requisitos necesito para postular al examen extraordinario"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-direcciones",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hola que tal, donde los puedo ubicar?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Hola, ubicación filial tacna"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Una consulta sonde esta ubicado ahora la univercidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde queda exactamente las oficinas de la ujcm filial tacna"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "La dirección exacta de la universidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Me dio una dirección para más información, coronel vidal 7 ..."
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "y donde queda kolping"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Dame dirección de la u"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a donde puedo ir"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales es su direcciona"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde estan ubicados"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "direcciones"
+        }
+      ]
+    },
+    {
+      "intent": "faq-universidad-proformaacademica",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quien me da la proforma academica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como consigo la proforma  academica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde consigo la proforma academica"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-requisitos-extraordinario",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "examen de admision extraordinario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para el examen de admision extraordinario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos del examen de admision extraordionario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "extraordinario_payload"
+        }
+      ]
+    },
+    {
+      "intent": "faq-tesis",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hago mi tesis"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero hacer mi tesis"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tesis"
+        }
+      ]
+    },
+    {
+      "intent": "faq-cursos-a-llevar",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "En Que cursos de Administración 6to ciclo debo matricularme?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Administracion VI ciclo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que cursos puedo llevar en derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que cursos puedo llevar en administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que cursos puedo llevar en contabilidad"
+        }
+      ]
+    },
+    {
+      "intent": "faq-erp-notas-matriculas",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "kiero matricularme"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como me matriculo online"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como me puedo matricular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como puedo entrar al sistema erp"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como entro al ERP"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como veo mis notas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "link del erp educa"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "erp educa"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde puedo ver mis notas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "BUENOS DIAS, POR FAVOR ME PUEDE PASAR EL LINK PARA VISUALIZAR LAS NOTAS,GRACIAS"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-intercambios",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hacen intercambios de estudiantes?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hay intercambios de estudiantes?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hacen intercambios?"
+        }
+      ]
+    },
+    {
+      "intent": "despedida",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Hasta pronto!"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Muy amable"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Muy Agradecido"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Nos vemos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Chau"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Okey"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "chevere"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Muchas gracias"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Gracias"
+        }
+      ]
+    },
+    {
+      "intent": "aboutmariateguinobot-hablarconoperador",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quisiera hablar con un humano"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hablo con un humano"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como puedo hablar con una persona"
+        }
+      ]
+    },
+    {
+      "intent": "faq-calendario",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Plazo?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "PUEDO SOLICITAR AUN AMPLIACION DE CREDITOS?? O YA PASO LA FECHA PARA ELLO??"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta que fecha puedo hacer este tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando puedo hacer mi tramite de ampliacion de creditos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando puedo tramitar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "fechas de tramites"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "fechas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "calendario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es el calendario de procedimientos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando puedo hacer mis tramites?"
+        }
+      ]
+    },
+    {
+      "intent": "admision-carreras-pregrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas quisiera informacion sobre las carreras"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quisiera informacion sobre las carreras"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hay la carrera de educación inicial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion carreras pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "carreras pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que carreras tienen disponibles esta admision de pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que carreras tienen disponibles para pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "admision_carrera_pregrado"
+        }
+      ]
+    },
+    {
+      "intent": "aboutmariateguinobot",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "bot"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "eres real?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "eres un robot?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quien eres"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como te llamas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "¿Quién eres?"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-servicios-academicos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "si_tramite_servicio_academico"
+        }
+      ]
+    },
+    {
+      "intent": "faq-docentes",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Docentes contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "docentes derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "profesores"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "docentes"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que profesores hay"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que docentes enseñan este ciclo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "listado de docentes"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que docentes hay"
+        }
+      ]
+    },
+    {
+      "intent": "tramites-pregrado-seguimiento",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero saber en que situacion esta mi tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero saber como esta mi tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como va mi tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "en que situacion esta mi tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hola buenas quiero saber en que situacion esta mi solicitud de constacia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ho0loa buenas quiero saber en que situacion esta mi solicitud de constacia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como consulto en que estado esta mi tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como va mi tramite?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero hacer seguimiento a mi tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "seguimiento_tramites_pre_payload"
+        }
+      ]
+    },
+    {
+      "intent": "faq-bancos-autorizados",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde puedo hacer mis pagos?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "bancos para pagar online"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "en que bancos puedo pagar?"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-economia",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "si_tramite_economia"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pre-posgrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "posgrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pregrado"
+        }
+      ]
+    },
+    {
+      "intent": "admision-fechas",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es la admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es la fecha de admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "fechas_admision_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es la fecha limite para inscripciones de admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando puedo inscribirme para admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es el examen de admision"
+        }
+      ]
+    },
+    {
+      "intent": "faq-doctorados",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de doctorados"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tienen doctorados"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "buenas hay doctorados en tacna q dicte la U"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-requisitos-ordinario",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "y que necesito para dar el examen de admision ordinario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos del examen ordinario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ordinario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos del examen de admision ordinario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ordinario_payload"
+        }
+      ]
+    },
+    {
+      "intent": "aboutmariateguinobot-habilidades",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que haces"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son tus habilidades"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "para que estas entrenado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que sabes hacer"
+        }
+      ]
+    },
+    {
+      "intent": "req-tramites",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "TRAMITE CONSTANCIA DE BIBLIOTECA"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Cuales son los requisitos de la beca por promedio ponderado acumulativo?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como tramito mi adecuacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy ex estudiante, como hago para reanudar estudios?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como saco mi titulo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para la constancia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "solicitud de curso en pararlelo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "sobre los cursos paralelos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Como realizó retiro de cursos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero tramitar una beca"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quisiera saber los requisitos de certiciado de estudios"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos para hacer la convalidacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos de la constancia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Dime cómo tramitar mi record académico."
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hago el tramite de adecuacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que requisitos necesito para llevar cursos en otro plan?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos Duplicado de Recib"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos del retiro e inclusion de cursos?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas tardes quisiera saber sobre la ampliación de crédito"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como le hago para sacar el bachiller"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Cuáles son los requisitos de la beca por promedio ponderado acumulativo?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero tramitar mi amplicrin de cridito"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero trmitar la reanudcion de estudios"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como le hago para tramitar adecuacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero reanudar estudios"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "solicito adecuacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "y como tramito un cambio de nombres??"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requisitos para el constancia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "necesito solicitar el recórd acacdémico"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ahora si como consigo la beca por dicapacidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son los requistos para constancia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como tramito la constancia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos para constancia de no adeudo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero tramitar adecuacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para titularme"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para tramitar la constancia de no adeudo"
+        }
+      ]
+    },
+    {
+      "intent": "opciones-postback",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Ver opciones"
+        }
+      ]
+    },
+    {
+      "intent": "default_welcome_intent",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buen día!"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quisiera informacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Informacion por favor"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Que tal"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Hola"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "si_tramite_escuela"
+        }
+      ]
+    },
+    {
+      "intent": "admision-fechas-pregrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es el examen de admision extraordinario de pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es el examen de admision ordinario de pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es el examen de admision de pregrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pregrado_admision_fecha_payload"
+        }
+      ]
+    },
+    {
+      "intent": "faq-tramites-en-linea",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como tramito en linea"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "donde puedo hacer mis tramites online?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como le hago para tramitar de manera online"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hago tramites electronicos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tramite electronico"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tramites en linea"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hago tramites en linea"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hago para tramitar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero tramitar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tramitar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero hacer tramites en linea"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hago para hacer tramites en linea"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-telefonos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Un numero para comunicarme"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas tardes, por favor podrian indicar el número de teléfono de la filial Tacna?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "por favor podrian indicar el número de teléfono de la filial Tacna?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "me posria dar un numero... de sucursal en tacna"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "telefonos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hola, con que numero puedo contactar con ustedes"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numero de telefono"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "numero de celular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es su numero"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es su celular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a donde puedo llamar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "a que numero telefonico puedo llamar"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-pago-mensualidades",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuanto se paga por 11 creditos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pagar 11 creditos de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Una consulta cuanto esta la matricula y donde lo puedo pagar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "se puede pagar las pensiones en la oficina de caja en Kolping?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son las mensualidades"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "dime los costos de la matricula"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuanto es el costo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es el pago mensual"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuanto se paga mensualmente"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuanto es la mensualidad"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-temario",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "temario_admision_pregrado_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que tengo que estudiar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que temas vendran"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cual es le temario"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que temas vendran en el examen?"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-servicios-bienestar",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "si_tramite_bienestar"
+        }
+      ]
+    },
+    {
+      "intent": "inf-universidad-inicio-clases",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "inicio de clases"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que dia empiezan las clases?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando empiezan las clases?"
+        }
+      ]
+    },
+    {
+      "intent": "req-tramite-bachiller-automatico",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "si_bachiller"
+        }
+      ]
+    },
+    {
+      "intent": "faq-practicas-pre",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como ahgo mis practicas pre profesionales"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para hacer mis practicas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quisiera saber como puedo hacer mis practicas"
+        }
+      ]
+    },
+    {
+      "intent": "menuacciones",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Informes"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Me pueden atender o no?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informes por favor"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenos dias"
+        }
+      ]
+    },
+    {
+      "intent": "admision-carreras-posgrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero informacion sobre las maestrias en derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Todavía no hay grupo para la segunda espacialidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Todavía no hay grupo para la segunda especialidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "DISCULPE LA SEGUNDA ESPECIALIDAD PARA EDUCACION FISICA"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas noches una consulta quisiera saber si hay alguna maestría por comenzar ahora"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Buenas tardes necesito informe para la maestria en educación"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de las segundas especialidades"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de las maestrias"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de las carreras de posgrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "carreras de posgrado"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "admision_carrera_posgrado"
+        }
+      ]
+    },
+    {
+      "intent": "inf-trabajo-investigacion-bachiller",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "y si no presente mi trabajo de investigacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como hago el trabajo de investigacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "trabajo de investigacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "trabajo de investigacion de bachiller"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-negativo",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "no_tramite"
+        }
+      ]
+    },
+    {
+      "intent": "tramites-pregrado-pedirequistos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Trámites"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "requisitos_tramites_pre_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion sobre un tramite"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tramites"
+        }
+      ]
+    },
+    {
+      "intent": "req-tramite-bachiller-trabajo-investigacion",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "no_bachiller"
+        }
+      ]
+    },
+    {
+      "intent": "faq-about-directorgeneral",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quien esta a cargo de la universidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quien es el Dr. Jimenez"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quien es el director general"
+        }
+      ]
+    },
+    {
+      "intent": "horario-clases-otros",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "mas_horarios_payload"
+        }
+      ]
+    },
+    {
+      "intent": "about-smartujcm",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "NO RESPONDES NI ABSUELVES MI CONSULTA VIKTOR"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Viktor"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "trabajas con algoritmos?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuales son tus algoritmos"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que algoritmos te programaron"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "algoritmos"
+        }
+      ]
+    },
+    {
+      "intent": "faq-bachiller-automatico",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "tengo bachiller automatico?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Bachiller automático o presentación de tesis?"
+        }
+      ]
+    },
+    {
+      "intent": "inf-reglamento-grados-titulos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "reglamento de grados y titulos"
+        }
+      ]
+    },
+    {
+      "intent": "admision",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion para postular pls"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como postulo a la ujcm"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Como postular ujcm"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Como postuló. Una correo profesional"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Como postulo a una carrera"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Como postuló"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Requisitos para postular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "postular_admision__payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "informacion de postulacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quiero saber sobre la admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quisiera postular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "info admison"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como es el proceso de admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para la admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es la admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Quisiera saber cuándo es el nuevo examen para postular a la Universidad"
+        }
+      ]
+    },
+    {
+      "intent": "faq-licenciamiento",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "licenciamiento"
+        }
+      ]
+    },
+    {
+      "intent": "get_started",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Empezar"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-requisitos-pregrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "admision_requisitos_pregrado"
+        }
+      ]
+    },
+    {
+      "intent": "faq-docentes_-_derecho",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "docentes derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "listado de docentes de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "derecho"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pregrado_payload"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_psicología",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pertenezco a psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela profesional de psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de psicologia"
+        }
+      ]
+    },
+    {
+      "intent": "faq-docentes_-_contabilidad",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "listado de docentes de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "contabilidad"
+        }
+      ]
+    },
+    {
+      "intent": "admision-posgrado",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "posgrado_payload"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_derecho",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pertenezco a derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela profesional de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de derecho"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "derecho"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_contabilidad",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "conta"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de conta"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pertenezco a contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de contabilidad"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "contabilidad"
+        }
+      ]
+    },
+    {
+      "intent": "get_started_-_no",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "no_getstarted_payload"
+        }
+      ]
+    },
+    {
+      "intent": "get_started_-_yes",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "adelante"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "correcto"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "yes"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "claro que sí"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "yes_getstarted_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "buena idea"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "de acuerdo"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "confirmar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Aceptar"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "por supuesto"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "eso mismo"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_ciencias_administrativas_y_marketing_estratégico",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pertenezco a administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ciencias administrativas y marketing estrategico"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Ciencias Administrativas y Marketing Estratégico"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ciencias administrativas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de marketing estrategico"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de administracion"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_ingeniería_comercial",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pertenezco a ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Ingeniería Comercial"
+        }
+      ]
+    },
+    {
+      "intent": "faq-docentes-educa-comercial-administracion",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "administracion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ingenieria comercial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "educacion inial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "educacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "educacion fisica"
+        }
+      ]
+    },
+    {
+      "intent": "faq-docentes_-_psicologia",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "listado de docentes de psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de psicologia"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "psicologia"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_educación_inicial",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pertenezco a educacion"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de educacion inicial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de educacion inicial"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "educacion inicial"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_educación_física",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de la escuela de educacion fisica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "pertenezco a educacion fisica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de educacion fisica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "educacion fisica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Educación Física"
+        }
+      ]
+    },
+    {
+      "intent": "default_welcome_intent_-_aceptaterminos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Aceptar Términos"
+        }
+      ]
+    },
+    {
+      "intent": "system-payload-tramite-linea-escuelas_-_ingeniería_de_sistemas_e_informática",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "escuela de sistemas e informatica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de ingenieria de sistemas e informatica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de ingenieria en informatica y sistemas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ingenieria de informatica y sistemas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ingenieria de sistemas e informatica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ingenieria informatica"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "ingenieria de sistemas"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Ingeniería de Sistemas e Informática"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "soy de sistemas"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-paso3",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "Paso 3"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "paso3_pre_payload"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-paso1",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "paso1_pre_payload"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "como postulo a la ujcm"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "que necesito para postular"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "quisiera postular"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-paso2",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "paso 2"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "paso2"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "paso2_pre_payload"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-fecha",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "fecha de admision"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es el examen?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando puedo postular?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es la admision de pregrado?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "cuando es la admision?"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "hasta cuando se puede postular?"
+        }
+      ]
+    },
+    {
+      "intent": "admision-pregrado-paso4",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "examples": [
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "paso 4"
+        },
+        {
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "text": "paso4_pre_payload"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "nombres",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "antonin",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Antonin"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dani",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Dani"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dany",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Dany"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "doni",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Doni"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "donnie",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Donnie"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gianmarco",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Gianmarco"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gohan",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Gohan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gojan",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Gojan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "jhojan",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Jhojan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "joel",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Joel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "juan",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Juan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "juanito",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Juanito"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kilmer",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Kilmer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "luis",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Luis"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "roni",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Roni"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "slendi",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Slendi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "victor",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Victor"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "condon",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "condon"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "month",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "abril",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Abril"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "agosto",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Agosto"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "diciembre",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Diciembre"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "enero",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Enero"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "febrero",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Febrero"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "julio",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Julio"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "junio",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Junio"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "marzo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Marzo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mayo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Mayo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "noviembre",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Noviembre"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "octubre",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Octubre"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "septiembre",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Septiembre"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "day",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "domingo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Domingo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "jueves",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Jueves"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "lunes",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Lunes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "martes",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Martes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "miercoles",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Miercoles"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sabado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Sabado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "viernes",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Viernes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "domingos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sabados",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "hour",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "de la mañana",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "a la mañana",
+            "am",
+            "de la mañana",
+            "por la mañana"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "de la tarde",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "a la tarde",
+            "de la tarde",
+            "pm",
+            "por la tarde"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "requisitos",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "admisión de ingreso por el centro pre universitario",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "ADMISIÓN DE INGRESO POR EL CENTRO PRE UNIVERSITARIO"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión por grado o título profesional universitario",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "ADMISIÓN POR GRADO O TÍTULO PROFESIONAL UNIVERSITARIO"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión por título de instituto de educación superior no univer",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "ADMISIÓN POR TÍTULO DE INSTITUTO DE EDUCACIÓN SUPERIOR NO UNIVER",
+            "admision para titulados de institutos",
+            "admision para titulados de tecnologicos",
+            "admision por institutos",
+            "admision por titulo de instituto de educacion superior no univer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "adecuación al nuevo plan de estudios",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Adecuación al nuevo plan de estudios",
+            "adecuacion",
+            "adecuacion al nuevo plan de estudios"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión para personas con discapacidad",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Admisión para personas con Discapacidad",
+            "admision para personas con discapacidad"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión por 1er o 2do puesto de educación secundaria",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Admisión por 1er o 2do Puesto de Educación Secundaria"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión por reanudación de estudios",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Admisión por Reanudación de Estudios",
+            "admision por reanudacion de estudios"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión por traslado externo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Admisión por Traslado Externo",
+            "admision por traslado externo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión por traslado interno",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Admisión por Traslado Interno",
+            "adimision por traslado interno"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "admisión por ser deportista calificado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Admisión por ser Deportista Calificado",
+            "admision por deportista calificado",
+            "admision por ser deportista calificado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ampliación de créditos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Ampliación de Créditos",
+            "ampliacion de credito",
+            "ampliacion de creditos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por precariedad económica",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por Precariedad Económica"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por retiro voluntario, de jubilación o fallecimiento del do",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por Retiro Voluntario, de Jubilación o Fallecimiento del Do"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por ayudantía de cátedra",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por ayudantía de cátedra"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por ayudantía de investigación",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por ayudantía de investigación"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por casos especiales",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por discapacidad",
+            "Beca por orfandad"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por hermanos estudiantes",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por hermanos estudiantes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por padre e hijo estudiantes",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por padre e hijo estudiantes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por promedio ponderado acumulativo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por promedio ponderado acumulativo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por representar a la universidad en evento deportivo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por representar a la Universidad en evento deportivo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por ser cónyuges estudiantes",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por ser Cónyuges estudiantes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por ser hijo de docente o trabajador administrativo de la u",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por ser hijo de docente o trabajador administrativo de la U"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beca por tres primeros puestos en el examen de admisión",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Beca por tres primeros puestos en el examen de admisión"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "boleta de notas",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Boleta",
+            "boleta de notas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "búsqueda de documentos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Búsqueda de Documentos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cambio de filial",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Cambio de Filial",
+            "Traslado de sede",
+            "cambiar de sede",
+            "cambio de sede"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cambio de modalidad",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Cambio de Modalidad",
+            "cambio de modalidad de estudios",
+            "cambio de modalidad de semipresencial a presencial"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cambio y reseteo de clave",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Cambio y Reseteo de Clave",
+            "cambiar de clave",
+            "cambiar de constraseña",
+            "cambio de clave",
+            "cambio de contraseña",
+            "clave de acceso al erp",
+            "me olvide mi clave",
+            "me olvide mi clave de acceso",
+            "me olvide mi contraseña",
+            "mi olvide mi clave de acceso al erp",
+            "resetear mi clave",
+            "resetear mi contraseña",
+            "reseteo de clave",
+            "reseteo de contraseña"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "carné de biblioteca",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Carné de Biblioteca",
+            "carne de biblioteca",
+            "carnet de biblioteca"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "carta de presentación",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Carta de Presentación",
+            "carta de presentacion",
+            "carta de presentacion para pregrado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "carta de presentación de internado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Carta de Presentación de Internado",
+            "carta de presentacion de internado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "certificado de estudio",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Certificado de Estudio",
+            "certificado de estudios",
+            "certificado de estudios original",
+            "certificados de estudios"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "certificado de estudios del centro de idiomas",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Certificado de Estudios del Centro de Idiomas",
+            "certificado de idiomas",
+            "certificado de ingles",
+            "certificado de inglés"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "conformidad de documentos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Conformidad de Documentos",
+            "conformidad de documento"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia biblioteca",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia Biblioteca",
+            "constancia de biblioteca"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia económica",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia Económica",
+            "constancia economica"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de conducta",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Conducta"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de egresado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Egresado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de estudios",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Estudios"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de estudios del centro de idiomas",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Estudios del Centro de Idiomas",
+            "constancia de estudios de idiomas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de internado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Internado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de matrícula",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Matrícula",
+            "constancia de matricula"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de modalidad de estudios",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Modalidad de estudios"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de no adeudo de la clínica odontológica",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de No Adeudo de la Clínica Odontológica",
+            "constancia de no adeudo de la clinica odontologica"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de no adeudo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de No adeudo",
+            "constancia de no adedo",
+            "constancia de no adeud"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de promedio ponderado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de Promedio Ponderado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia de orden de mérito",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Constancia de orden de mérito",
+            "contancia de orden de merito"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "constancia por tercio y quinto superior",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "5 superior",
+            "Constancia por Tercio y Quinto Superior",
+            "constancia de por tercio o quinto superior",
+            "constancia de quinto superior",
+            "constancia de tercio superior"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "convalidación de cursos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Convalidación de Cursos",
+            "convalidacion de cursos",
+            "convalidar cursos",
+            "convalido curso",
+            "convalido cursos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "corrección de nombres y/o apellidos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Corrección de Nombres y/o Apellidos",
+            "correccion de apellidos",
+            "correcion de nombres",
+            "correcion de nombres y apellido",
+            "corregir mi apellido",
+            "corregir mi nombre",
+            "corregir mis apellidos",
+            "corrijo mi apellido",
+            "corrijo mi nombre"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "curso autofinanciado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Curso Autofinanciado",
+            "curso autofnanciado",
+            "cursos autofinanciados"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "curso autofinanciado cuando falta 01 ó 02 cursos para culminar l",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Curso Autofinanciado cuando falta 01 ó 02 cursos para culminar l",
+            "curso autifinanciado para culminar la carrera",
+            "curso autofinanciado caso 2"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "curso paralelo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Curso Paralelo",
+            "curso paralelos",
+            "cursos paralelos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "diploma de egresado en auxiliar en educación",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Diploma de Egresado en Auxiliar en Educación",
+            "diploma de egresado en auxiliar en educacion"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "duplicado de certificado de estudio",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Duplicado de Certificado de Estudio",
+            "duplicado del certificado de estudios"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "duplicado de constancia de ingreso",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Duplicado de Constancia de Ingreso",
+            "duplicado de la constancia de ingreso"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "duplicado de ficha de matrícula",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Duplicado de Ficha de Matrícula",
+            "duplicado de ficha de matricula",
+            "ficha de matricula del primer ciclo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "duplicado de recibo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Duplicado de Recibo",
+            "duplicado de recibos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "examen de suficiencia pregrado",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Examen de Suficiencia pregrado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "examen de ubicación",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Examen de Ubicación",
+            "examen de ubicacion de ingles",
+            "examen de ubicacion del centro de idiomas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "examen de rezagados",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Examen de rezagados",
+            "examen de rezagado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fraccionamiento de deuda",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Fraccionamiento de Deuda",
+            "fraccionar deuda",
+            "fracciono una deuda"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grado de bachiller",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Grado de Bachiller",
+            "bachiller"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "inscripción por el centro pre universitario",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "INSCRIPCIÓN POR EL CENTRO PRE UNIVERSITARIO"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "justificación de inasistencia",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Justificación de Inasistencia",
+            "justificacion",
+            "justificacion de inasistencia",
+            "justificacion por inasistencia",
+            "justificar",
+            "justificar falta"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "llevar curso en otro plan de estudios",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Llevar Curso en otro Plan de Estudios",
+            "Llevar cursos en otra plan",
+            "llevar cursos en otro plan",
+            "llevar cursos en otro plan de estudios",
+            "llevar cursos en otros planes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "matrícula especial",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Matrícula Especial",
+            "matricula especial"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "matrícula especial por cuarta matrícula",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Matrícula Especial por Cuarta Matrícula",
+            "cuarta matricula",
+            "matricula especial por cuarta matricula"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "reanudación de estudios",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Reanudación de Estudios",
+            "reanudacion de estudios",
+            "reanudacion de estuios",
+            "reanudaciones de estudio",
+            "reanudacon de estudios",
+            "reanudar mis estudios"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "record académico",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Record Académico",
+            "recor academico",
+            "record academico"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "reserva de matrícula",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Reserva de Matrícula",
+            "reserva de matricula"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "retiro e inclusión de cursos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Retiro e Inclusión de Cursos",
+            "cambio de curso",
+            "cambio de seccion",
+            "cambio de sección",
+            "inclusion de cursos",
+            "inclusión de cursos",
+            "retiro de cursos",
+            "retiro e inclusion de curso"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "reubicación de actividad integradora",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Reubicación de Actividad Integradora",
+            "reubicacion de actividad integradora",
+            "reubicacion de actividades integradoras",
+            "reubicacion de las actividades integradoras",
+            "reubicaciones de actividades integradoras"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "solicitud de sílabos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Solicitud de Sílabos",
+            "solicitud de silabos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "solicitud de sílabos para auxiliar en educación",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Solicitud de Sílabos para Auxiliar en Educación",
+            "solicitud de silabos para auxiliar en educacion"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "título profesional",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Título profesional",
+            "titulacion",
+            "titulación",
+            "titulo",
+            "titulo profesional"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "adeudo",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "adeudo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "anulación de deuda",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "anulacion de deuda",
+            "anulación de deuda",
+            "anular una deuda",
+            "anulo mi deuda"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "autenticación de documentos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "autenticacion de documentos",
+            "autenticación de documentos",
+            "autenticar mi documento",
+            "autenticar mis documentos",
+            "autenticar un documento",
+            "autentico mis documentos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cambio de nombre y apellido por mandato judicial",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "cambio de nombre y apellido por mandato judicial"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "examen de aplazados",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "examen de aplazado",
+            "examen de aplazados"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "llevar curso en otra escuela",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Llevar cursos en otras escuela",
+            "llevar curso en otra escuela",
+            "llevar cursos en otra carrera",
+            "llevar cursos en otra escuela",
+            "llevar cursos en otra escuela profesional"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "llevar curso en otra facultad",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "llevar curso en otra facultad",
+            "llevar cursos en otra facultad"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "matrícula con proforma académica",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "matrícula con proforma académica",
+            "proforma academica"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "titularme",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "titularme"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "transferencia de dinero",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "transferencia de dinero"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tratamientos clínicos",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "tratamientos clinicos",
+            "tratamientos clínicos"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "regiones-peru",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "arequipa",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Arequipa"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "lima",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Lima"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "moquegua",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Moquegua"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "puno",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Puno"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tacna",
+          "created": "2020-06-14T06:13:54.2017934Z",
+          "updated": "2020-06-14T06:13:54.2017934Z",
+          "synonyms": [
+            "Tacna"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-time",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": []
+    },
+    {
+      "entity": "sys-date",
+      "created": "2020-06-14T06:13:54.2017934Z",
+      "updated": "2020-06-14T06:13:54.2017934Z",
+      "fuzzy_match": false,
+      "values": []
+    }
+  ],
+  "language": "es",
+  "description": "Generated by QBox",
+  "workspace_id": "5e50905c-3fe6-47d3-9cea-e04dc6a6b0c4",
+  "counterexamples": [],
+  "learning_opt_out": false
+}

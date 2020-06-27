@@ -1,0 +1,43 @@
+{
+  "id": "b160f2c0-a29e-45c9-81f7-4cf947193405",
+  "name": "aboutMariateguinoBOT-habilidades",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "puedo responder consultas que tengas respecto al proceso de Admisión para este 2018-II 😀"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "también sé sobre los requisitos que necesitas para los trámites administrativos de pregrado 😛"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "y otras cosillas como preguntas generales de direcciones, teléfonos,etc  😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

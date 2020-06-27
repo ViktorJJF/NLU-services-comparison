@@ -1,0 +1,31 @@
+{
+  "id": "e5b5c7a9-c5f2-431a-9643-873b5bab8a5b",
+  "name": "Admision-carreras-posgrado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Sobre las Maestrías y Segundas especialidades disponibles te recomiendo llamar a este número  052-601273 😏"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

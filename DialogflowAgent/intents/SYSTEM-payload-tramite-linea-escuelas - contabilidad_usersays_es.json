@@ -1,0 +1,62 @@
+[
+  {
+    "id": "72d521f6-defc-40e6-a2db-ea8636996c62",
+    "data": [
+      {
+        "text": "conta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ad35bad-e2ea-4a00-affd-158d5393b4bb",
+    "data": [
+      {
+        "text": "soy de conta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71e3a0a4-ab30-45d6-ac26-e73b0f7922b9",
+    "data": [
+      {
+        "text": "pertenezco a contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82e0f5c8-5efc-4ecc-88b9-6e2a391ee2ab",
+    "data": [
+      {
+        "text": "soy de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63aae061-8a6f-47f7-bba0-68bab27639ce",
+    "data": [
+      {
+        "text": "contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

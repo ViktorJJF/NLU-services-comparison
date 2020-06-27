@@ -1,0 +1,36 @@
+{
+  "id": "5e99894c-1dbd-4465-ac7c-537a2856e0f0",
+  "parentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "rootParentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "name": "FAQ-docentes - contabilidad",
+  "auto": true,
+  "contexts": [
+    "FAQ-docentes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ-docentes.FAQ-docentes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "aún no me informaron sobre el listado de docentes de contabilidad 😥"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

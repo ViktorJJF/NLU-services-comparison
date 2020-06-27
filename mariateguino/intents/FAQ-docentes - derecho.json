@@ -1,0 +1,36 @@
+{
+  "id": "3d7d80c4-b65e-4640-8e31-b0540cb0bc7f",
+  "parentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "rootParentId": "89b95e57-c9b8-4b07-8f24-516e0714d873",
+  "name": "FAQ-docentes - derecho",
+  "auto": true,
+  "contexts": [
+    "FAQ-docentes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ-docentes.FAQ-docentes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "ups, aún no me informaron sobre el listado de docentes de derecho 😥"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

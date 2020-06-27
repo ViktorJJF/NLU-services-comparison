@@ -1,0 +1,224 @@
+[
+  {
+    "id": "d8acef6d-a854-4ebf-aec1-6e6b7711fac9",
+    "data": [
+      {
+        "text": "informacion para postular pls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3b491bde-a6ec-4055-aa31-00eabb7ba760",
+    "data": [
+      {
+        "text": "como postulo a la ujcm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dc28b074-3956-4403-957f-21903b97d366",
+    "data": [
+      {
+        "text": "Como postular ujcm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "19f5186b-5e45-4644-8a5e-838189b8dab6",
+    "data": [
+      {
+        "text": "Como postuló. ",
+        "userDefined": false
+      },
+      {
+        "text": "Una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " correo profesional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6085eccf-95d8-49d0-bc8e-adb9e7bfd024",
+    "data": [
+      {
+        "text": "Como postulo a ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " carrera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ed4f44fe-3eb6-4d91-81c9-981c4c6fda35",
+    "data": [
+      {
+        "text": "Como postuló",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "46ecec0f-4972-4abe-adf5-39dad0ec6a28",
+    "data": [
+      {
+        "text": "Requisitos para postular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a73fe538-eb9a-4edd-ad7b-cbd4fcdfd879",
+    "data": [
+      {
+        "text": "postular_admision__payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68c885e6-5d59-4a8a-8da0-3e45b2bf5786",
+    "data": [
+      {
+        "text": "informacion de postulacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "206799a8-498a-48f5-bac4-ba2b47f3f17c",
+    "data": [
+      {
+        "text": "quiero saber sobre la admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "73694860-5ca5-4552-9edd-7f843e440d0c",
+    "data": [
+      {
+        "text": "quisiera postular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "873d099c-bc77-4761-81fa-adcefe9a126d",
+    "data": [
+      {
+        "text": "info admison",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1640052-389f-45b3-ba6a-30384dbe2283",
+    "data": [
+      {
+        "text": "como es el proceso de admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9911b73-639d-4402-9651-c597ec78f8d4",
+    "data": [
+      {
+        "text": "que necesito para la admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88906dd1-d803-4cbb-a837-1b85a92a8035",
+    "data": [
+      {
+        "text": "cuando es la admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "068e87fb-906f-4043-9ac7-d836eb5630a2",
+    "data": [
+      {
+        "text": "admision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aff193d-0788-4f59-8396-22949d5d92f6",
+    "data": [
+      {
+        "text": "Quisiera saber cuándo es el nuevo examen para postular a la Universidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

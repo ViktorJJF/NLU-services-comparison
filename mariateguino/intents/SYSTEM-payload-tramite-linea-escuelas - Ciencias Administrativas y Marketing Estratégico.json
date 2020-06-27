@@ -1,0 +1,63 @@
+{
+  "id": "a8b6f54f-1b69-4bcf-b6f8-c3a63a3e4f22",
+  "parentId": "ba668bad-1634-4960-887f-ff8143ef8eb9",
+  "rootParentId": "ba668bad-1634-4960-887f-ff8143ef8eb9",
+  "name": "SYSTEM-payload-tramite-linea-escuelas - Ciencias Administrativas y Marketing Estratégico",
+  "auto": true,
+  "contexts": [
+    "SYSTEM-payload-tramite-linea-escuelas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SYSTEM-payload-tramite-linea-escuelas.SYSTEM-payload-tramite-linea-escuelas-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "Perfecto, eres de Administración 😀 para iniciar tu trámite haz click en el botón \u0027Empezar Trámite\u0027 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Empezar Trámite",
+                      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc6RJXVrYgCGnp4x7Czd5zHR-91vRv6-DBsDpqblX0GSb8BvA/viewform?oldembedui\u003dtrue"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "recuerda que debes cumplir los requisitos que te indiqué arriba 😆",
+            "no olvides que tienes que tener todos los requisitos que te dije 😆",
+            "acuérdate que debes cumplir los requisitos 😆"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

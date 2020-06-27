@@ -1,0 +1,71 @@
+[
+  {
+    "id": "f6b7d6c0-6b11-438b-947f-e5df25a3e3a2",
+    "data": [
+      {
+        "text": "requisitos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b7107cc0-d9d8-47a3-87a2-b7944bce0087",
+    "data": [
+      {
+        "text": "Trámites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 14,
+    "updated": 0
+  },
+  {
+    "id": "464445fb-07aa-4769-b401-dbd4481c57aa",
+    "data": [
+      {
+        "text": "requisitos_tramites_pre_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3961cab-421b-451f-87fc-165153f06a5f",
+    "data": [
+      {
+        "text": "informacion sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1117a4c-526a-4bf3-9ba0-9bc95d64bdf1",
+    "data": [
+      {
+        "text": "tramites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

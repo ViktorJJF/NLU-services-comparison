@@ -1,0 +1,65 @@
+{
+  "id": "90d5d25f-2b6d-4c38-ad64-2ccdab5fe787",
+  "name": "SYSTEM-payload-tramite-linea-economia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Este trámite va dirigido a la Oficina de Economía ☝"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "para iniciar haz click en el botón \u0027Empezar Trámite\u0027 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Empezar Trámite",
+                      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfS7Ik0y4WmCGnR-3YqSFzvsaMKom_MFtMk_0vuxuHXTlbvpQ/viewform?oldembedui\u003dtrue",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "recuerda que debes adjuntar requisitos que te indiqué arriba",
+            "no olvides que tienes que adjuntar todos los requisitos que te dije",
+            "acuérdate que debes adjuntar los requisitos"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

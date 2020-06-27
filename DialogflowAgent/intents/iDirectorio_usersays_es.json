@@ -1,0 +1,86 @@
+[
+  {
+    "id": "635ae907-70d2-45ee-8412-2f61e928c6e2",
+    "data": [
+      {
+        "text": "numero de secretaria general",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afa3af2a-1498-4cba-90f8-1581a8025f73",
+    "data": [
+      {
+        "text": "numero del rectorado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4026dc6d-ea5e-4a40-9a22-f55d7d4cea55",
+    "data": [
+      {
+        "text": "numero de la facultad de ingenieria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8abb0bad-bd5c-4a78-9891-69bf88debe6d",
+    "data": [
+      {
+        "text": "numero de la escuela de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33626e14-093d-43e1-a260-4d28ab2e2b50",
+    "data": [
+      {
+        "text": "numero de la escuela de derecho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c02f3b8c-77b2-4e0a-b556-189c5005bd67",
+    "data": [
+      {
+        "text": "numeros telefonicos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "998383d0-660f-4219-a5fc-94c04684dc76",
+    "data": [
+      {
+        "text": "Directorio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

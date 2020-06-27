@@ -1,0 +1,43 @@
+[
+  {
+    "id": "2c2ce2d3-7064-4dc0-ae5e-1fa66af1207b",
+    "data": [
+      {
+        "text": "hacen intercambios de estudiantes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34130346-c1f0-4649-b312-e2a423f84b82",
+    "data": [
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " intercambios de estudiantes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "031f22b3-c075-4966-b84e-fb81689f92ee",
+    "data": [
+      {
+        "text": "hacen intercambios?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "fd512e1a-067d-4638-bb38-f16dd3f903bd",
+    "data": [
+      {
+        "text": "Cursos de administracion y marketing estratégico vl ciclo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "63432d60-5df0-4169-8030-727fb4787603",
+    "data": [
+      {
+        "text": "dime los horarios de ingenieria comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "500be7ca-6514-4ce7-92b6-efeac98eb8a9",
+    "data": [
+      {
+        "text": "dime los horarios de comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6884e79-c558-49ad-be4f-cc0b6bbe62a2",
+    "data": [
+      {
+        "text": "dime los horarios de eduacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db127296-6176-456d-ab5a-3d2c2e1c1298",
+    "data": [
+      {
+        "text": "dime los horarios de administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca126632-2565-4737-acb4-fcc929348309",
+    "data": [
+      {
+        "text": "dime los horarios de clase de educacion inicial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9d90597-8f82-48b8-90e6-8959edb584f9",
+    "data": [
+      {
+        "text": "dime los horarios de clase de educacion fisica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c833e9bc-95fb-4de4-a958-4e6fc981e886",
+    "data": [
+      {
+        "text": "dime los horarios de clase de ingenieria comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7c71d2e-8c29-420b-b3f2-921e5952f690",
+    "data": [
+      {
+        "text": "dime los horarios de clase de educacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "195496f2-c23b-4caa-b8f6-2f119e0da895",
+    "data": [
+      {
+        "text": "dime los horarios de clase de administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b46ec36f-c2bd-47c1-bcfa-ca2477cd97ce",
+    "data": [
+      {
+        "text": "horario de ciencias administrativas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10718111-333d-4bb6-a501-361ec2e35a26",
+    "data": [
+      {
+        "text": "horario de clases de educacion inicial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50bc64df-dbcc-4a63-9004-2b3d62cab84e",
+    "data": [
+      {
+        "text": "horario de clases de educacion fisica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dfd63eb-cd96-47aa-907f-aec6b2691cef",
+    "data": [
+      {
+        "text": "horario de clases de educacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf797568-24de-409b-9e5b-30c19af609a4",
+    "data": [
+      {
+        "text": "horario de clases de ingenieria comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9b9e770-b411-4483-8fee-944b5f169958",
+    "data": [
+      {
+        "text": "horario de clases de administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "826da9a3-b18c-4d9b-b31c-7e8ad200b24e",
+    "data": [
+      {
+        "text": "cual es el horario de administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3846784b-df68-4647-b3cf-0861e245a5a8",
+    "data": [
+      {
+        "text": "cual es el horario de ingenieria comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ad080d6-fe88-42b3-a5ae-7aad29a88268",
+    "data": [
+      {
+        "text": "cual es el horario de educacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c938e8c-7319-4a08-9ba4-251e2cae0146",
+    "data": [
+      {
+        "text": "horario de educacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1907368f-493e-44cd-b307-802327d66e96",
+    "data": [
+      {
+        "text": "horario de ingenieria comercial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0271f4e5-6ee3-4ab0-b81a-1316b86fff89",
+    "data": [
+      {
+        "text": "horario de administracion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

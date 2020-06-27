@@ -1,0 +1,65 @@
+{
+  "id": "c8f02e03-861a-4409-82ac-c607f64dedc9",
+  "name": "SYSTEM-payload-tramite-linea-servicios-bienestar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Este trámite es para Bienestar Universitario ☝"
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "para iniciar haz click en el botón \u0027Empezar Trámite\u0027 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Empezar Trámite",
+                      "url": "https://docs.google.com/forms/d/e/1FAIpQLSegm9UAUntX9LKbBfQXRTvAqwAwc72Bkt9Fb8rXls41iAeLQQ/viewform?oldembedui\u003dtrue",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "recuerda que debes adjuntar requisitos que te indiqué arriba",
+            "no olvides que tienes que adjuntar todos los requisitos que te dije",
+            "acuérdate que debes adjuntar los requisitos"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

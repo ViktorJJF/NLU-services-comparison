@@ -1,0 +1,64 @@
+{
+  "id": "42c3b625-2fc7-46b8-80c9-4a6a33585ea4",
+  "parentId": "ba668bad-1634-4960-887f-ff8143ef8eb9",
+  "rootParentId": "ba668bad-1634-4960-887f-ff8143ef8eb9",
+  "name": "SYSTEM-payload-tramite-linea-escuelas - Psicología",
+  "auto": true,
+  "contexts": [
+    "SYSTEM-payload-tramite-linea-escuelas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SYSTEM-payload-tramite-linea-escuelas.SYSTEM-payload-tramite-linea-escuelas-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "Perfecto, eres de Psicología 😀 para iniciar tu trámite haz click en el botón \u0027Empezar Trámite\u0027 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Empezar Trámite",
+                      "url": "https://docs.google.com/forms/d/e/1FAIpQLSckjpqzdRtAiXWeApObZIblYM_YqF8cTEDZLuwqqO5V0p2dEg/viewform?oldembedui\u003dtrue",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "recuerda que debes cumplir los requisitos que te indiqué arriba",
+            "no olvides que tienes que tener todos los requisitos que te dije",
+            "acuérdate que debes cumplir los requisitos"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

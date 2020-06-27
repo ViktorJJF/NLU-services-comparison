@@ -1,0 +1,74 @@
+{
+  "id": "e340bb30-b62e-459c-9983-81563a7883e6",
+  "parentId": "b902ebd5-27a7-44d9-87cc-8429ca7c53b8",
+  "rootParentId": "b902ebd5-27a7-44d9-87cc-8429ca7c53b8",
+  "name": "Default Welcome Intent - AceptaTerminos",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "UJCM BOT",
+          "subtitle": "www.ujcm.edu.pe",
+          "buttons": [
+            {
+              "text": "Cronograma"
+            },
+            {
+              "text": "Requisitos Tramites"
+            },
+            {
+              "text": "Directorio"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aceptaste los términos y condiciones de uso de UJCM BOT 😁"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Puedes consultar las siguientes opciones:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_GET_HOROSCOPE"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

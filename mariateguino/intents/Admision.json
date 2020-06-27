@@ -1,0 +1,53 @@
+{
+  "id": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Admision-followup",
+          "parameters": {},
+          "lifespan": 6
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "¿quieres saber los pasos para postular al proceso de Admisión de Pregrado o Posgrado? 😃",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Pregrado",
+                  "payload": "pregrado_payload"
+                },
+                {
+                  "content_type": "text",
+                  "title": "Posgrado",
+                  "payload": "posgrado_payload"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

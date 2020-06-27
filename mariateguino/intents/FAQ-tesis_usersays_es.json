@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3136324c-dc98-4a4d-9105-870f5c1e970f",
+    "data": [
+      {
+        "text": "como hago mi tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a84b500e-74e2-411d-8ab2-bed4bafdc100",
+    "data": [
+      {
+        "text": "quiero hacer mi tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89937c4d-049c-4b61-b872-64179f279e95",
+    "data": [
+      {
+        "text": "tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "b2be8007-a777-4990-af5d-bc2c71949ec0",
+  "parentId": "3e32e15e-20e3-40ab-93ff-636611b604dc",
+  "rootParentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision-Pregrado-paso2",
+  "auto": true,
+  "contexts": [
+    "Admision-Pregrado-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Para cumplir el paso 2 debes hacer esto 😀"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ Realiza el pago en la Caja de la UJCM, BCP, Interbank, Scotiabank o Caja Arequipa, a nombre de la Universidad José Carlos Mariátegui, con el código de pago generado en la ficha de inscripción."
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "☑ Si quieres pasar al siguiente paso escribe \"Paso 3\" o bien hazme una pregunta abierta de este tema"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

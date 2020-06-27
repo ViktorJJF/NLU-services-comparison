@@ -1,0 +1,48 @@
+{
+  "id": "32f12e51-f7cf-44f8-94a4-72c787e7ad3b",
+  "name": "Admision-carreras",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "text": "¿Quieres averiguar sobre las carreras disponibles la admisión 2019-I de Pregrado o Posgrado? 😃",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Pregrado",
+                  "payload": "admision_carrera_pregrado"
+                },
+                {
+                  "content_type": "text",
+                  "title": "Posgrado",
+                  "payload": "admision_carrera_posgrado"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

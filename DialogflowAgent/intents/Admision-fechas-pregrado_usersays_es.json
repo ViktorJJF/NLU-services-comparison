@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5c53f50c-ae63-4d78-ae4d-5603f8aab351",
+    "data": [
+      {
+        "text": "cuando es el examen de admision extraordinario de pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9445a46d-30f8-49c9-874d-d5314ea14186",
+    "data": [
+      {
+        "text": "cuando es el examen de admision ordinario de pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca5a6c52-8d43-4408-bf8e-06ec428fa900",
+    "data": [
+      {
+        "text": "cuando es el examen de admision de pregrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64636f4e-ecc9-41bf-bbc5-a4510705bcf7",
+    "data": [
+      {
+        "text": "pregrado_admision_fecha_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "425e2c7f-efdc-403d-a175-8a6ae521f939",
+  "name": "FAQ-lugar-clases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3ecd95fe-9241-47d7-8800-ed3240cac33b",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "✅ Derecho y contabilidad: las clases se realizaran en Romulo Cuneo Vidal 1002 , ex casa Kolping, al costado del hospital de la solidaridad\n✅ Psicología, Administración Comercial y Educación: las clases se realizarán en Urb. Quinta Hidalgo - Coronel Vidal N° 750 (Antes Quechumara)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

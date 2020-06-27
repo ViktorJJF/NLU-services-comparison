@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0816b0b5-af7b-45fc-b3c5-84e738fc637f",
+    "data": [
+      {
+        "text": "soy de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f2d3be5-62a5-4a7a-9dec-f2271712acaa",
+    "data": [
+      {
+        "text": "escuela de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d6b48e6-47c3-4104-827a-b4dc0563884e",
+    "data": [
+      {
+        "text": "listado de docentes de contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61f52d0f-4349-49d4-b2d6-f003a34f1d9c",
+    "data": [
+      {
+        "text": "contabilidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "f0f87430-dbdc-4bf9-9e34-ca6587282b9f",
+  "name": "FAQ-Bachiller-automatico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "si su matricula es antes del semestre académico 2014 - II, entonces a ud le corresponde el bachillerato automático"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

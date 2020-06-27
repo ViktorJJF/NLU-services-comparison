@@ -1,0 +1,37 @@
+{
+  "id": "d1d273cc-8f8e-4bec-9b18-bb651d7fb0e8",
+  "name": "FAQ-Practicas-pre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "para hacer tus prácticas primero necesitas la carta de presentación"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "para los requisitos puedes preguntarme algo como \"cuales son los requisitos para la carta de presentacion\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

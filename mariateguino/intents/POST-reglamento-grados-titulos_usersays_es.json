@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2424fb16-d30c-497c-9cd9-0591c72eb72c",
+    "data": [
+      {
+        "text": "reglamento de grados y titulos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffe468cf-e116-4e41-a524-3afa1995af44",
+    "data": [
+      {
+        "text": "manual_grados_titulos_payload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

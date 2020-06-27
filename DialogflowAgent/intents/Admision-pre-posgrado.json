@@ -1,0 +1,31 @@
+{
+  "id": "91c3e263-b29f-4005-9c78-350a4d5d9b83",
+  "name": "Admision-pre-posgrado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "si quieres preguntarme sobre el proceso de admisión para pregrado o posgrado tienes que escribirme \"admisión\" o algo así 😒"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

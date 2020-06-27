@@ -1,0 +1,84 @@
+[
+  {
+    "id": "9ffc96a3-979c-4662-9817-aa011b51cc88",
+    "data": [
+      {
+        "text": "Bienos dias me podria brindar informacion  sobre la univercidad si ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " a distancia o semiprwcenciasl y la mensualidades ppr favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2929bef-627d-4e4a-b5e9-137eb698e0d3",
+    "data": [
+      {
+        "text": "Semipresencial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5085394c-e444-43d9-94c4-ff82c6343133",
+    "data": [
+      {
+        "text": "tienen modalidad a distancia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29f5af0b-fa6d-457e-98bf-e418cb13ceab",
+    "data": [
+      {
+        "text": "que modalidades de estudios disponibles tienen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfe2e109-83e0-43b2-b7f6-bda29f2468f5",
+    "data": [
+      {
+        "text": "modalidad de estudios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "141dfec9-76a8-4cfa-9458-e128a7fc1642",
+    "data": [
+      {
+        "text": "que modalidades de estudio tienen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

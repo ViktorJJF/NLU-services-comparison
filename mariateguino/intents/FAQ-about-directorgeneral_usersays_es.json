@@ -1,0 +1,43 @@
+[
+  {
+    "id": "f09851e0-20b5-4927-9c22-60fd031f3530",
+    "data": [
+      {
+        "text": "quien esta a cargo de la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74e8f388-bba9-4e46-8842-93c09576eb8a",
+    "data": [
+      {
+        "text": "quien es el Dr. Jimenez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d18e7cfb-33e1-4231-946e-7b03880e8467",
+    "data": [
+      {
+        "text": "quien es el director general",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

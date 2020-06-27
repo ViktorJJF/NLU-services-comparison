@@ -1,0 +1,36 @@
+{
+  "id": "f3e7892d-8a1f-4f0a-aadc-ccfbea072821",
+  "parentId": "3e32e15e-20e3-40ab-93ff-636611b604dc",
+  "rootParentId": "f4bfded1-c240-4d03-aff6-b84e8901b8b8",
+  "name": "Admision-Pregrado-fecha",
+  "auto": true,
+  "contexts": [
+    "Admision-Pregrado-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Admision.Admision-custom.Admision-Pregrado-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "ni bien tenga información de las fechas del proceso de admisión 2019-I te estaré avisando 🤗"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

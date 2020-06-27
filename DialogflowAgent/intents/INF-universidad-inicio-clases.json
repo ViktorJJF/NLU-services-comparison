@@ -1,0 +1,34 @@
+{
+  "id": "ca5497cb-2c8f-41f6-8847-311a0c44cb90",
+  "name": "INF-universidad-inicio-clases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "el inicio de clases para este 2018-II es el 03 de Septiembre, te esperamos 😸",
+            "las clases empiezan el 3 de Septiembre, te esperamos 😸"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

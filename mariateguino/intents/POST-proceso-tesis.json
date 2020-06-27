@@ -1,0 +1,37 @@
+{
+  "id": "1911a033-b5a1-49cf-93ff-af4d80eeb6e7",
+  "name": "POST-proceso-tesis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Los documentos presentados a continuación son extractos del Reglamento de Grados y Títulos Pregrado"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "➡ Sobre el grado de bachiller\nhttp://bit.ly/2PioYfT\n➡ Del asesor y proyecto de investigación\nhttp://bit.ly/2JhtpBU\n➡ Del título profesional, modalidades y requisitos\nhttp://bit.ly/2PnqCgb\n➡ Del procedimiento de titulación por tesis\nhttp://bit.ly/2yy5jPt\n➡ Procedimiento de titulación por trabajo de suficiencia profesional\nhttp://bit.ly/2z15n9L\n➡ Del nombramiento de docentes asesores y miembros del jurado\nhttp://bit.ly/2z4HM8h\n➡ Disposiciones complementarias, transitorias y finales\nhttp://bit.ly/2O72gCF"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

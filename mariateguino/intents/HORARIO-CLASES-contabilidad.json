@@ -1,0 +1,49 @@
+{
+  "id": "13d10fdd-81dd-4b32-ac29-a7b83fae6999",
+  "name": "HORARIO-CLASES-contabilidad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "haz click en el botón de abajo ver el horario de contabilidad 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Horario Contabilidad",
+                      "url": "https://drive.google.com/file/d/1xBGyYtCpMCmH9Wjhv-ja20-D91OubOOj/view",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

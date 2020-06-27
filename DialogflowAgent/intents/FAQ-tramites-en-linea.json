@@ -1,0 +1,55 @@
+{
+  "id": "bd105700-83e7-4450-929c-1ea4d9cb0ebc",
+  "name": "FAQ-tramites-en-linea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "button",
+                  "text": "pues recientemente se creó el sistema de trámites electrónicos 🤗 haz click aquí 👇",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "title": "Trámites Online",
+                      "url": "https://sites.google.com/view/ujcmfilialtacna/p%C3%A1gina-principal",
+                      "webview_height_ratio": "tall"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "además me sé los requisitos de todos los trámites que figuran en el manual 🤗 solo pregúntame por ellos"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

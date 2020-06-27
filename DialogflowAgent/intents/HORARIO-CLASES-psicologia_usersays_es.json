@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2b45b3f8-9c7b-4772-98b6-dfc82dbee0ae",
+    "data": [
+      {
+        "text": "dime los horarios de psicologia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "39fbc3df-33e8-465a-89aa-8b408ad22a2c",
+    "data": [
+      {
+        "text": "dime los horarios de clase de psicologia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0f350cc-346a-48a2-b9e0-b4151803f23c",
+    "data": [
+      {
+        "text": "horario de clases de psicología",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "464e72ad-3325-4ce6-b3fd-ee55d1c6d249",
+    "data": [
+      {
+        "text": "cual es el horario de psicología",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3686063-95d2-4eae-88c6-1aa48cbd184e",
+    "data": [
+      {
+        "text": "horario de psicología",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

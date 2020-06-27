@@ -1,0 +1,284 @@
+[
+  {
+    "id": "cff22ba4-0961-415a-88c3-5aef5e394d4e",
+    "data": [
+      {
+        "text": "Como hago para acceder a ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f4c255c-7502-45a4-a755-019f0ac6c8f1",
+    "data": [
+      {
+        "text": "becas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " disponibles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea211504-83c2-4651-901e-2b4b0b41be42",
+    "data": [
+      {
+        "text": "solicitud de beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d4b4d86-dd2b-4a00-8d7c-da20563ea447",
+    "data": [
+      {
+        "text": "buenas, cuales son los requisitos para solicitar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fbe2c02-7279-43b1-a583-1eb8e6dd8c0e",
+    "data": [
+      {
+        "text": "saludos quisiera ",
+        "userDefined": false
+      },
+      {
+        "text": "saber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cual es el procedimiento para solicitar beca mi persona tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " promedio ",
+        "userDefined": false
+      },
+      {
+        "text": "de 17",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".60",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6647e8a-d4b9-4176-82a6-57df30f19bdb",
+    "data": [
+      {
+        "text": "requisitos para tramitar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "674c9cb7-ce4b-4300-8e1d-661f42029a12",
+    "data": [
+      {
+        "text": "cuales son los requisitos para solicitar beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2698007a-a927-4855-8b58-db437abee6ad",
+    "data": [
+      {
+        "text": "que necesito para tramitar una beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bea2043-2717-4a80-acac-75192b010272",
+    "data": [
+      {
+        "text": "Buenas , cuales son los requisitos para solicitar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d483a4d3-a9c3-4b88-a141-437fdf78f7f1",
+    "data": [
+      {
+        "text": "como tramito ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "524392ce-83ca-4611-9ed1-9fb89dc905fc",
+    "data": [
+      {
+        "text": "requisitos de ",
+        "userDefined": false
+      },
+      {
+        "text": "becas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecb74dde-1c03-4c8a-bf84-756ee30efea1",
+    "data": [
+      {
+        "text": "quiero tramitar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c159fff8-de9e-4eff-ab50-b09119097c30",
+    "data": [
+      {
+        "text": "cuales son los requisitos para solicitar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fa98adb-dd5e-4b92-afbd-1cafc92eb437",
+    "data": [
+      {
+        "text": "becas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "937059b7-15b1-40d6-af36-705ebe8abd13",
+    "data": [
+      {
+        "text": "que becas tienen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
